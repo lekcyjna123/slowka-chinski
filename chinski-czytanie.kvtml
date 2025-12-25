@@ -1,0 +1,5419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>Parley 25.08.3</generator>
+    <title>Chiński czytanie</title>
+    <license>Domena publiczna</license>
+    <date>2025-12-25</date>
+    <category>Języki</category>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>中文 (中国)</name>
+      <locale>zh_CN</locale>
+    </identifier>
+    <identifier id="1">
+      <name>polski (Polska)</name>
+      <locale>pl_PL</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>你</text>
+      </translation>
+      <translation id="1">
+        <text>ty</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>老师</text>
+      </translation>
+      <translation id="1">
+        <text>nauczyciel</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>我</text>
+      </translation>
+      <translation id="1">
+        <text>ja</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>是</text>
+      </translation>
+      <translation id="1">
+        <text>być</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>她</text>
+      </translation>
+      <translation id="1">
+        <text>ona</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>名手</text>
+      </translation>
+      <translation id="1">
+        <text>sławny artysta / sportowiec</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>韩国</text>
+      </translation>
+      <translation id="1">
+        <text>Korea Południowa</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>日本</text>
+      </translation>
+      <translation id="1">
+        <text>Japonia</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>德国</text>
+      </translation>
+      <translation id="1">
+        <text>Niemcy</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>西班牙</text>
+      </translation>
+      <translation id="1">
+        <text>Hiszpania</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>英格兰</text>
+      </translation>
+      <translation id="1">
+        <text>Anglia</text>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>中国</text>
+      </translation>
+      <translation id="1">
+        <text>Chiny</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>美国</text>
+      </translation>
+      <translation id="1">
+        <text>USA</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>人</text>
+      </translation>
+      <translation id="1">
+        <text>człowiek, osoba</text>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>学生</text>
+      </translation>
+      <translation id="1">
+        <text>student</text>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>波兰</text>
+      </translation>
+      <translation id="1">
+        <text>Polska</text>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>什么</text>
+      </translation>
+      <translation id="1">
+        <text>co? dlaczego? jak? (w połączeniu z rzeczowinikiem)</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>对</text>
+      </translation>
+      <translation id="1">
+        <text>tak, poprawnie</text>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>不</text>
+      </translation>
+      <translation id="1">
+        <text>nie</text>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>爱</text>
+      </translation>
+      <translation id="1">
+        <text>kochać</text>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>名字</text>
+      </translation>
+      <translation id="1">
+        <text>imię</text>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>谢谢</text>
+      </translation>
+      <translation id="1">
+        <text>dziękuję</text>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>不客气</text>
+      </translation>
+      <translation id="1">
+        <text>nie ma sprawy</text>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>再见</text>
+      </translation>
+      <translation id="1">
+        <text>do widzenia</text>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>看</text>
+      </translation>
+      <translation id="1">
+        <text>patrzeć</text>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>听</text>
+      </translation>
+      <translation id="1">
+        <text>słuchać</text>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>说</text>
+      </translation>
+      <translation id="1">
+        <text>mówić</text>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>读</text>
+      </translation>
+      <translation id="1">
+        <text>czytać, uczyć się, wymawiać</text>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>写</text>
+      </translation>
+      <translation id="1">
+        <text>pisać</text>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>好</text>
+      </translation>
+      <translation id="1">
+        <text>dobrze</text>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>他</text>
+      </translation>
+      <translation id="1">
+        <text>on</text>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>它</text>
+      </translation>
+      <translation id="1">
+        <text>ono (zwierzę)</text>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>一</text>
+      </translation>
+      <translation id="1">
+        <text>jeden</text>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>二</text>
+      </translation>
+      <translation id="1">
+        <text>dwa</text>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>三</text>
+      </translation>
+      <translation id="1">
+        <text>trzy</text>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>四</text>
+      </translation>
+      <translation id="1">
+        <text>cztery</text>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>五</text>
+      </translation>
+      <translation id="1">
+        <text>pięć</text>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>六</text>
+      </translation>
+      <translation id="1">
+        <text>sześć</text>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>七</text>
+      </translation>
+      <translation id="1">
+        <text>siedem</text>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>八</text>
+      </translation>
+      <translation id="1">
+        <text>osiem</text>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>九</text>
+      </translation>
+      <translation id="1">
+        <text>dziewięć</text>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>十</text>
+      </translation>
+      <translation id="1">
+        <text>dziesięć</text>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>百</text>
+      </translation>
+      <translation id="1">
+        <text>sto</text>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>千</text>
+      </translation>
+      <translation id="1">
+        <text>tysiąc</text>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>万</text>
+      </translation>
+      <translation id="1">
+        <text>dziesięć tysięcy</text>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>亿</text>
+      </translation>
+      <translation id="1">
+        <text>sto milionów</text>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>个</text>
+      </translation>
+      <translation id="1">
+        <text>(kwantyfikator/liczebnik dla zwykłych obiektów)</text>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>的</text>
+      </translation>
+      <translation id="1">
+        <text>(cząstka określająca posiadanie)</text>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>吗</text>
+      </translation>
+      <translation id="1">
+        <text>(cząstka tworząca pytanie tak/nie)</text>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>们</text>
+      </translation>
+      <translation id="1">
+        <text>(cząstka określająca liczbę mnogą dla osób)</text>
+      </translation>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>汉语</text>
+      </translation>
+      <translation id="1">
+        <text>język chiński</text>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>有</text>
+      </translation>
+      <translation id="1">
+        <text>mieć, posiadać</text>
+      </translation>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>同学</text>
+      </translation>
+      <translation id="1">
+        <text>kolega/koleżanka z klasy</text>
+      </translation>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>同</text>
+      </translation>
+      <translation id="1">
+        <text>ten sam, podobny, razem z [znak]</text>
+      </translation>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>学</text>
+      </translation>
+      <translation id="1">
+        <text>nauka, szkoła, wiedza</text>
+      </translation>
+    </entry>
+    <entry id="55">
+      <translation id="0">
+        <text>朋友</text>
+      </translation>
+      <translation id="1">
+        <text>przyjaciel</text>
+      </translation>
+    </entry>
+    <entry id="56">
+      <translation id="0">
+        <text>菜</text>
+      </translation>
+      <translation id="1">
+        <text>potrawa</text>
+      </translation>
+    </entry>
+    <entry id="57">
+      <translation id="0">
+        <text>米饭</text>
+      </translation>
+      <translation id="1">
+        <text>ugotowany ryż</text>
+      </translation>
+    </entry>
+    <entry id="58">
+      <translation id="0">
+        <text>米</text>
+      </translation>
+      <translation id="1">
+        <text>ryż nieugotowany</text>
+      </translation>
+    </entry>
+    <entry id="59">
+      <translation id="0">
+        <text>饭</text>
+      </translation>
+      <translation id="1">
+        <text>jedzenie, posiłek</text>
+      </translation>
+    </entry>
+    <entry id="60">
+      <translation id="0">
+        <text>水果</text>
+      </translation>
+      <translation id="1">
+        <text>owoc</text>
+      </translation>
+    </entry>
+    <entry id="61">
+      <translation id="0">
+        <text>水</text>
+      </translation>
+      <translation id="1">
+        <text>woda</text>
+      </translation>
+    </entry>
+    <entry id="62">
+      <translation id="0">
+        <text>茶</text>
+      </translation>
+      <translation id="1">
+        <text>herbata</text>
+      </translation>
+    </entry>
+    <entry id="63">
+      <translation id="0">
+        <text>吃</text>
+      </translation>
+      <translation id="1">
+        <text>jeść</text>
+      </translation>
+    </entry>
+    <entry id="64">
+      <translation id="0">
+        <text>喝</text>
+      </translation>
+      <translation id="1">
+        <text>pić</text>
+      </translation>
+    </entry>
+    <entry id="65">
+      <translation id="0">
+        <text>〇</text>
+      </translation>
+      <translation id="1">
+        <text>zero</text>
+      </translation>
+    </entry>
+    <entry id="66">
+      <translation id="0">
+        <text>歌手</text>
+      </translation>
+      <translation id="1">
+        <text>piosenkarz</text>
+      </translation>
+    </entry>
+    <entry id="67">
+      <translation id="0">
+        <text>歌</text>
+      </translation>
+      <translation id="1">
+        <text>piosenka, śpiewać</text>
+      </translation>
+    </entry>
+    <entry id="68">
+      <translation id="0">
+        <text>手</text>
+      </translation>
+      <translation id="1">
+        <text>ręka</text>
+      </translation>
+    </entry>
+    <entry id="69">
+      <translation id="0">
+        <text>演员</text>
+      </translation>
+      <translation id="1">
+        <text>aktor/aktorka</text>
+      </translation>
+    </entry>
+    <entry id="70">
+      <translation id="0">
+        <text>员</text>
+      </translation>
+      <translation id="1">
+        <text>personel, członek (jakiegoś zgomadzenia) [znak]</text>
+      </translation>
+    </entry>
+    <entry id="71">
+      <translation id="0">
+        <text>演</text>
+      </translation>
+      <translation id="1">
+        <text>wystawiać (przedstawienie, sztukę), ćwiczyć [znak]</text>
+      </translation>
+    </entry>
+    <entry id="72">
+      <translation id="0">
+        <text>运动员</text>
+      </translation>
+      <translation id="1">
+        <text>sportowiec, atleta</text>
+      </translation>
+    </entry>
+    <entry id="73">
+      <translation id="0">
+        <text>山</text>
+      </translation>
+      <translation id="1">
+        <text>góra</text>
+      </translation>
+    </entry>
+    <entry id="74">
+      <translation id="0">
+        <text>钟</text>
+      </translation>
+      <translation id="1">
+        <text>zegar</text>
+      </translation>
+    </entry>
+    <entry id="75">
+      <translation id="0">
+        <text>羊</text>
+      </translation>
+      <translation id="1">
+        <text>owca, koza</text>
+      </translation>
+    </entry>
+    <entry id="76">
+      <translation id="0">
+        <text>熊</text>
+      </translation>
+      <translation id="1">
+        <text>niedźwiedź</text>
+      </translation>
+    </entry>
+    <entry id="77">
+      <translation id="0">
+        <text>云</text>
+      </translation>
+      <translation id="1">
+        <text>chmura</text>
+      </translation>
+    </entry>
+    <entry id="78">
+      <translation id="0">
+        <text>星</text>
+      </translation>
+      <translation id="1">
+        <text>gwiazda, planeta</text>
+      </translation>
+    </entry>
+    <entry id="79">
+      <translation id="0">
+        <text>船</text>
+      </translation>
+      <translation id="1">
+        <text>łódź</text>
+      </translation>
+    </entry>
+    <entry id="80">
+      <translation id="0">
+        <text>床</text>
+      </translation>
+      <translation id="1">
+        <text>łóżko</text>
+      </translation>
+    </entry>
+    <entry id="81">
+      <translation id="0">
+        <text>热</text>
+      </translation>
+      <translation id="1">
+        <text>rozgrzewać, podgrzewać</text>
+      </translation>
+    </entry>
+    <entry id="82">
+      <translation id="0">
+        <text>冰箱</text>
+      </translation>
+      <translation id="1">
+        <text>lodówka</text>
+      </translation>
+    </entry>
+    <entry id="83">
+      <translation id="0">
+        <text>鸡蛋</text>
+      </translation>
+      <translation id="1">
+        <text>jajko kury</text>
+      </translation>
+    </entry>
+    <entry id="84">
+      <translation id="0">
+        <text>司机</text>
+      </translation>
+      <translation id="1">
+        <text>kierowca</text>
+      </translation>
+    </entry>
+    <entry id="85">
+      <translation id="0">
+        <text>足球</text>
+      </translation>
+      <translation id="1">
+        <text>piłka do piłki nożnej</text>
+      </translation>
+    </entry>
+    <entry id="86">
+      <translation id="0">
+        <text>机场</text>
+      </translation>
+      <translation id="1">
+        <text>lotnisko</text>
+      </translation>
+    </entry>
+    <entry id="87">
+      <translation id="0">
+        <text>爬山</text>
+      </translation>
+      <translation id="1">
+        <text>chodzić po górach</text>
+      </translation>
+    </entry>
+    <entry id="88">
+      <translation id="0">
+        <text>爬</text>
+      </translation>
+      <translation id="1">
+        <text>wspinać się</text>
+      </translation>
+    </entry>
+    <entry id="89">
+      <translation id="0">
+        <text>手表</text>
+      </translation>
+      <translation id="1">
+        <text>zegarek na rękę</text>
+      </translation>
+    </entry>
+    <entry id="90">
+      <translation id="0">
+        <text>表</text>
+      </translation>
+      <translation id="1">
+        <text>pokazywać, wyświetlać</text>
+      </translation>
+    </entry>
+    <entry id="91">
+      <translation id="0">
+        <text>熊猫</text>
+      </translation>
+      <translation id="1">
+        <text>panda</text>
+      </translation>
+    </entry>
+    <entry id="92">
+      <translation id="0">
+        <text>猫</text>
+      </translation>
+      <translation id="1">
+        <text>kot</text>
+      </translation>
+    </entry>
+    <entry id="93">
+      <translation id="0">
+        <text>叫</text>
+      </translation>
+      <translation id="1">
+        <text>krzyczeć, wołać, nazywać się</text>
+      </translation>
+    </entry>
+    <entry id="94">
+      <translation id="0">
+        <text>教</text>
+      </translation>
+      <translation id="1">
+        <text>uczyć</text>
+      </translation>
+    </entry>
+    <entry id="95">
+      <translation id="0">
+        <text>很</text>
+      </translation>
+      <translation id="1">
+        <text>dużo, bardzo</text>
+      </translation>
+    </entry>
+    <entry id="96">
+      <translation id="0">
+        <text>问题</text>
+      </translation>
+      <translation id="1">
+        <text>pytanie, problem</text>
+      </translation>
+    </entry>
+    <entry id="97">
+      <translation id="0">
+        <text>书</text>
+      </translation>
+      <translation id="1">
+        <text>książka, list, dokument</text>
+      </translation>
+    </entry>
+    <entry id="98">
+      <translation id="0">
+        <text>树</text>
+      </translation>
+      <translation id="1">
+        <text>drzewo</text>
+      </translation>
+    </entry>
+    <entry id="99">
+      <translation id="0">
+        <text>遍</text>
+      </translation>
+      <translation id="1">
+        <text>wszędzie, (cząstka określająca akcje jednorazowe)</text>
+      </translation>
+    </entry>
+    <entry id="100">
+      <translation id="0">
+        <text>再</text>
+      </translation>
+      <translation id="1">
+        <text>ponownie</text>
+      </translation>
+    </entry>
+    <entry id="101">
+      <translation id="0">
+        <text>打开</text>
+      </translation>
+      <translation id="1">
+        <text>otwierać, pokazać</text>
+      </translation>
+    </entry>
+    <entry id="102">
+      <translation id="0">
+        <text>国家</text>
+      </translation>
+      <translation id="1">
+        <text>kraj pochodzenia</text>
+      </translation>
+    </entry>
+    <entry id="103">
+      <translation id="0">
+        <text>哪</text>
+      </translation>
+      <translation id="1">
+        <text>który</text>
+      </translation>
+    </entry>
+    <entry id="104">
+      <translation id="0">
+        <text>这</text>
+      </translation>
+      <translation id="1">
+        <text>ten, ta, to (odpowiednik this)</text>
+      </translation>
+    </entry>
+    <entry id="105">
+      <translation id="0">
+        <text>那</text>
+      </translation>
+      <translation id="1">
+        <text>tamten, tamta, tamto (odpowiednik that)</text>
+      </translation>
+    </entry>
+    <entry id="106">
+      <translation id="0">
+        <text>科学家</text>
+      </translation>
+      <translation id="1">
+        <text>naukowiec (on/ona)</text>
+      </translation>
+    </entry>
+    <entry id="107">
+      <translation id="0">
+        <text>意大利</text>
+      </translation>
+      <translation id="1">
+        <text>Włochy</text>
+      </translation>
+    </entry>
+    <entry id="108">
+      <translation id="0">
+        <text>法国</text>
+      </translation>
+      <translation id="1">
+        <text>Francja</text>
+      </translation>
+    </entry>
+    <entry id="109">
+      <translation id="0">
+        <text>机器</text>
+      </translation>
+      <translation id="1">
+        <text>maszyna</text>
+      </translation>
+    </entry>
+    <entry id="110">
+      <translation id="0">
+        <text>积极</text>
+      </translation>
+      <translation id="1">
+        <text>aktywny, energiczny, żywotny, proaktywny</text>
+      </translation>
+    </entry>
+    <entry id="111">
+      <translation id="0">
+        <text>休息</text>
+      </translation>
+      <translation id="1">
+        <text>odpoczynek, odpoczywać</text>
+      </translation>
+    </entry>
+    <entry id="112">
+      <translation id="0">
+        <text>来自</text>
+      </translation>
+      <translation id="1">
+        <text>pochodzić</text>
+      </translation>
+    </entry>
+    <entry id="113">
+      <translation id="0">
+        <text>继续</text>
+      </translation>
+      <translation id="1">
+        <text>kontynuować</text>
+      </translation>
+    </entry>
+    <entry id="114">
+      <translation id="0">
+        <text>兴趣</text>
+      </translation>
+      <translation id="1">
+        <text>iteresować się, zainteresowanie, hobby</text>
+      </translation>
+    </entry>
+    <entry id="115">
+      <translation id="0">
+        <text>香</text>
+      </translation>
+      <translation id="1">
+        <text>wonny, aromatyczny, słodko pachnący</text>
+      </translation>
+    </entry>
+    <entry id="116">
+      <translation id="0">
+        <text>香蕉</text>
+      </translation>
+      <translation id="1">
+        <text>banan</text>
+      </translation>
+    </entry>
+    <entry id="117">
+      <translation id="0">
+        <text>星期</text>
+      </translation>
+      <translation id="1">
+        <text>tydzień, dzień tygodnia</text>
+      </translation>
+    </entry>
+    <entry id="118">
+      <translation id="0">
+        <text>小区</text>
+      </translation>
+      <translation id="1">
+        <text>zespół mieszkaniowy, wspólnota, sąsiedztwo</text>
+      </translation>
+    </entry>
+    <entry id="119">
+      <translation id="0">
+        <text>汉字</text>
+      </translation>
+      <translation id="1">
+        <text>chiński znak</text>
+      </translation>
+    </entry>
+    <entry id="120">
+      <translation id="0">
+        <text>场</text>
+      </translation>
+      <translation id="1">
+        <text>pole, otwarta przestrzeń</text>
+      </translation>
+    </entry>
+    <entry id="121">
+      <translation id="0">
+        <text>操场</text>
+      </translation>
+      <translation id="1">
+        <text>boisko, plac zabaw</text>
+      </translation>
+    </entry>
+    <entry id="122">
+      <translation id="0">
+        <text>早上</text>
+      </translation>
+      <translation id="1">
+        <text>poranek</text>
+      </translation>
+    </entry>
+    <entry id="123">
+      <translation id="0">
+        <text>昨天</text>
+      </translation>
+      <translation id="1">
+        <text>wczoraj</text>
+      </translation>
+    </entry>
+    <entry id="124">
+      <translation id="0">
+        <text>自己</text>
+      </translation>
+      <translation id="1">
+        <text>samodzielnie, własny</text>
+      </translation>
+    </entry>
+    <entry id="125">
+      <translation id="0">
+        <text>打扫</text>
+      </translation>
+      <translation id="1">
+        <text>czyścić</text>
+      </translation>
+    </entry>
+    <entry id="126">
+      <translation id="0">
+        <text>字</text>
+      </translation>
+      <translation id="1">
+        <text>słowo, litera</text>
+      </translation>
+    </entry>
+    <entry id="127">
+      <translation id="0">
+        <text>老虎</text>
+      </translation>
+      <translation id="1">
+        <text>tygrys</text>
+      </translation>
+    </entry>
+    <entry id="128">
+      <translation id="0">
+        <text>狮子</text>
+      </translation>
+      <translation id="1">
+        <text>lew</text>
+      </translation>
+    </entry>
+    <entry id="129">
+      <translation id="0">
+        <text>牛</text>
+      </translation>
+      <translation id="1">
+        <text>wół</text>
+      </translation>
+    </entry>
+    <entry id="130">
+      <translation id="0">
+        <text>猩猩</text>
+      </translation>
+      <translation id="1">
+        <text>orangutan</text>
+      </translation>
+    </entry>
+    <entry id="131">
+      <translation id="0">
+        <text>猴子</text>
+      </translation>
+      <translation id="1">
+        <text>małpa</text>
+      </translation>
+    </entry>
+    <entry id="132">
+      <translation id="0">
+        <text>豹</text>
+      </translation>
+      <translation id="1">
+        <text>lampart</text>
+      </translation>
+    </entry>
+    <entry id="133">
+      <translation id="0">
+        <text>猪</text>
+      </translation>
+      <translation id="1">
+        <text>świnia</text>
+      </translation>
+    </entry>
+    <entry id="134">
+      <translation id="0">
+        <text>马</text>
+      </translation>
+      <translation id="1">
+        <text>koń</text>
+      </translation>
+    </entry>
+    <entry id="135">
+      <translation id="0">
+        <text>袋鼠</text>
+      </translation>
+      <translation id="1">
+        <text>kangur</text>
+      </translation>
+    </entry>
+    <entry id="136">
+      <translation id="0">
+        <text>骆驼</text>
+      </translation>
+      <translation id="1">
+        <text>wielbłąd</text>
+      </translation>
+    </entry>
+    <entry id="137">
+      <translation id="0">
+        <text>大象</text>
+      </translation>
+      <translation id="1">
+        <text>słoń</text>
+      </translation>
+    </entry>
+    <entry id="138">
+      <translation id="0">
+        <text>狗</text>
+      </translation>
+      <translation id="1">
+        <text>pies</text>
+      </translation>
+    </entry>
+    <entry id="139">
+      <translation id="0">
+        <text>犀牛</text>
+      </translation>
+      <translation id="1">
+        <text>nosorożec</text>
+      </translation>
+    </entry>
+    <entry id="140">
+      <translation id="0">
+        <text>鳄鱼</text>
+      </translation>
+      <translation id="1">
+        <text>krokodyl</text>
+      </translation>
+    </entry>
+    <entry id="141">
+      <translation id="0">
+        <text>鹰</text>
+      </translation>
+      <translation id="1">
+        <text>ogólne określenie ptaków drapieżnych (jastrząb, sokół, orzeł)</text>
+      </translation>
+    </entry>
+    <entry id="142">
+      <translation id="0">
+        <text>驴</text>
+      </translation>
+      <translation id="1">
+        <text>osioł</text>
+      </translation>
+    </entry>
+    <entry id="143">
+      <translation id="0">
+        <text>河马</text>
+      </translation>
+      <translation id="1">
+        <text>hipopotam</text>
+      </translation>
+    </entry>
+    <entry id="144">
+      <translation id="0">
+        <text>狼</text>
+      </translation>
+      <translation id="1">
+        <text>wilk</text>
+      </translation>
+    </entry>
+    <entry id="145">
+      <translation id="0">
+        <text>鲨鱼</text>
+      </translation>
+      <translation id="1">
+        <text>rekin</text>
+      </translation>
+    </entry>
+    <entry id="146">
+      <translation id="0">
+        <text>鹿</text>
+      </translation>
+      <translation id="1">
+        <text>jeleń</text>
+      </translation>
+    </entry>
+    <entry id="147">
+      <translation id="0">
+        <text>长颈鹿</text>
+      </translation>
+      <translation id="1">
+        <text>żyrafa</text>
+      </translation>
+    </entry>
+    <entry id="148">
+      <translation id="0">
+        <text>孔雀</text>
+      </translation>
+      <translation id="1">
+        <text>paw</text>
+      </translation>
+    </entry>
+    <entry id="149">
+      <translation id="0">
+        <text>呢</text>
+      </translation>
+      <translation id="1">
+        <text>(cząstka aplikująca ostatnie zadane pytanie do nowego kontekstu "Ile ona ma lat? A on?")</text>
+      </translation>
+    </entry>
+    <entry id="150">
+      <translation id="0">
+        <text>国</text>
+      </translation>
+      <translation id="1">
+        <text>kraj, państwo</text>
+      </translation>
+    </entry>
+    <entry id="151">
+      <translation id="0">
+        <text>谁</text>
+      </translation>
+      <translation id="1">
+        <text>kto?</text>
+      </translation>
+    </entry>
+    <entry id="152">
+      <translation id="0">
+        <text>喜欢</text>
+      </translation>
+      <translation id="1">
+        <text>lubić</text>
+      </translation>
+    </entry>
+    <entry id="153">
+      <translation id="0">
+        <text>家</text>
+      </translation>
+      <translation id="1">
+        <text>dom, rodzina</text>
+      </translation>
+    </entry>
+    <entry id="154">
+      <translation id="0">
+        <text>奴</text>
+      </translation>
+      <translation id="1">
+        <text>niewolnik</text>
+      </translation>
+    </entry>
+    <entry id="155">
+      <translation id="0">
+        <text>女</text>
+      </translation>
+      <translation id="1">
+        <text>kobieta</text>
+      </translation>
+    </entry>
+    <entry id="156">
+      <translation id="0">
+        <text>男</text>
+      </translation>
+      <translation id="1">
+        <text>mężczyzna</text>
+      </translation>
+    </entry>
+    <entry id="157">
+      <translation id="0">
+        <text>本</text>
+      </translation>
+      <translation id="1">
+        <text>(kwantyfikator/licznik dla książek)</text>
+      </translation>
+    </entry>
+    <entry id="158">
+      <translation id="0">
+        <text>面</text>
+      </translation>
+      <translation id="1">
+        <text>mąka, kluski, makaron</text>
+      </translation>
+    </entry>
+    <entry id="159">
+      <translation id="0">
+        <text>国籍</text>
+      </translation>
+      <translation id="1">
+        <text>narodowość</text>
+      </translation>
+    </entry>
+    <entry id="160">
+      <translation id="0">
+        <text>职业</text>
+      </translation>
+      <translation id="1">
+        <text>zawód</text>
+      </translation>
+    </entry>
+    <entry id="161">
+      <translation id="0">
+        <text>会</text>
+      </translation>
+      <translation id="1">
+        <text>móc, potrafić</text>
+      </translation>
+    </entry>
+    <entry id="162">
+      <translation id="0">
+        <text>寿司</text>
+      </translation>
+      <translation id="1">
+        <text>suszi</text>
+      </translation>
+    </entry>
+    <entry id="163">
+      <translation id="0">
+        <text>常识</text>
+      </translation>
+      <translation id="1">
+        <text>zdrowy rozsądek, wiedza ogólna</text>
+      </translation>
+    </entry>
+    <entry id="164">
+      <translation id="0">
+        <text>车</text>
+      </translation>
+      <translation id="1">
+        <text>pojazd, wózek</text>
+      </translation>
+    </entry>
+    <entry id="165">
+      <translation id="0">
+        <text>认识</text>
+      </translation>
+      <translation id="1">
+        <text>wiedzieć, rozpoznawać, wiedza, rozumieć, świadomość (czegoś)</text>
+      </translation>
+    </entry>
+    <entry id="166">
+      <translation id="0">
+        <text>上车</text>
+      </translation>
+      <translation id="1">
+        <text>wejść do pojazdu</text>
+      </translation>
+    </entry>
+    <entry id="167">
+      <translation id="0">
+        <text>生日</text>
+      </translation>
+      <translation id="1">
+        <text>urodziny</text>
+      </translation>
+    </entry>
+    <entry id="168">
+      <translation id="0">
+        <text>厨师</text>
+      </translation>
+      <translation id="1">
+        <text>kucharz</text>
+      </translation>
+    </entry>
+    <entry id="169">
+      <translation id="0">
+        <text>知识</text>
+      </translation>
+      <translation id="1">
+        <text>wiedza</text>
+      </translation>
+    </entry>
+    <entry id="170">
+      <translation id="0">
+        <text>热闹</text>
+      </translation>
+      <translation id="1">
+        <text>żywotny, hałaśliwy</text>
+      </translation>
+    </entry>
+    <entry id="171">
+      <translation id="0">
+        <text>燃烧</text>
+      </translation>
+      <translation id="1">
+        <text>rozpalać, palić</text>
+      </translation>
+    </entry>
+    <entry id="172">
+      <translation id="0">
+        <text>超人</text>
+      </translation>
+      <translation id="1">
+        <text>nadczłowiek (np. bohaterzy kreskówek)</text>
+      </translation>
+    </entry>
+    <entry id="173">
+      <translation id="0">
+        <text>事实</text>
+      </translation>
+      <translation id="1">
+        <text>fakt</text>
+      </translation>
+    </entry>
+    <entry id="174">
+      <translation id="0">
+        <text>常</text>
+      </translation>
+      <translation id="1">
+        <text>częsty, powszechni, normalny</text>
+      </translation>
+    </entry>
+    <entry id="175">
+      <translation id="0">
+        <text>商场</text>
+      </translation>
+      <translation id="1">
+        <text>centrum handlowe, plac targowy</text>
+      </translation>
+    </entry>
+    <entry id="176">
+      <translation id="0">
+        <text>手术</text>
+      </translation>
+      <translation id="1">
+        <text>operacja (chirurgiczna)</text>
+      </translation>
+    </entry>
+    <entry id="177">
+      <translation id="0">
+        <text>长城</text>
+      </translation>
+      <translation id="1">
+        <text>Wielki Mur Chiński</text>
+      </translation>
+    </entry>
+    <entry id="178">
+      <translation id="0">
+        <text>出差</text>
+      </translation>
+      <translation id="1">
+        <text>podróż służbowa</text>
+      </translation>
+    </entry>
+    <entry id="179">
+      <translation id="0">
+        <text>危险</text>
+      </translation>
+      <translation id="1">
+        <text>niebezpieczny</text>
+      </translation>
+    </entry>
+    <entry id="180">
+      <translation id="0">
+        <text>超市</text>
+      </translation>
+      <translation id="1">
+        <text>supermarket</text>
+      </translation>
+    </entry>
+    <entry id="181">
+      <translation id="0">
+        <text>游泳</text>
+      </translation>
+      <translation id="1">
+        <text>pływać, pływanie</text>
+      </translation>
+    </entry>
+    <entry id="182">
+      <translation id="0">
+        <text>有用</text>
+      </translation>
+      <translation id="1">
+        <text>przydatny, mieć zastosowanie</text>
+      </translation>
+    </entry>
+    <entry id="183">
+      <translation id="0">
+        <text>友谊</text>
+      </translation>
+      <translation id="1">
+        <text>przyjaźń, partnerstwo</text>
+      </translation>
+    </entry>
+    <entry id="184">
+      <translation id="0">
+        <text>影星</text>
+      </translation>
+      <translation id="1">
+        <text>gwiazda filmowa</text>
+      </translation>
+    </entry>
+    <entry id="185">
+      <translation id="0">
+        <text>英雄</text>
+      </translation>
+      <translation id="1">
+        <text>bohater</text>
+      </translation>
+    </entry>
+    <entry id="186">
+      <translation id="0">
+        <text>音乐</text>
+      </translation>
+      <translation id="1">
+        <text>muzyka</text>
+      </translation>
+    </entry>
+    <entry id="187">
+      <translation id="0">
+        <text>原因</text>
+      </translation>
+      <translation id="1">
+        <text>powód, przyczyna</text>
+      </translation>
+    </entry>
+    <entry id="188">
+      <translation id="0">
+        <text>语言</text>
+      </translation>
+      <translation id="1">
+        <text>język</text>
+      </translation>
+    </entry>
+    <entry id="189">
+      <translation id="0">
+        <text>阴天</text>
+      </translation>
+      <translation id="1">
+        <text>pochmurny dzień</text>
+      </translation>
+    </entry>
+    <entry id="190">
+      <translation id="0">
+        <text>国外</text>
+      </translation>
+      <translation id="1">
+        <text>zagraniczny, obcy</text>
+      </translation>
+    </entry>
+    <entry id="191">
+      <translation id="0">
+        <text>青蛙</text>
+      </translation>
+      <translation id="1">
+        <text>żaba</text>
+      </translation>
+    </entry>
+    <entry id="192">
+      <translation id="0">
+        <text>营养</text>
+      </translation>
+      <translation id="1">
+        <text>wartości odżywcze, odżywianie, pokarm</text>
+      </translation>
+    </entry>
+    <entry id="193">
+      <translation id="0">
+        <text>晚宴</text>
+      </translation>
+      <translation id="1">
+        <text>bankiet</text>
+      </translation>
+    </entry>
+    <entry id="194">
+      <translation id="0">
+        <text>往往</text>
+      </translation>
+      <translation id="1">
+        <text>zazwyczaj</text>
+      </translation>
+    </entry>
+    <entry id="195">
+      <translation id="0">
+        <text>女儿</text>
+      </translation>
+      <translation id="1">
+        <text>córka</text>
+      </translation>
+    </entry>
+    <entry id="196">
+      <translation id="0">
+        <text>今年</text>
+      </translation>
+      <translation id="1">
+        <text>aktualny rok</text>
+      </translation>
+    </entry>
+    <entry id="197">
+      <translation id="0">
+        <text>多</text>
+      </translation>
+      <translation id="1">
+        <text>dużo, (rozmiar/wielkość czegoś o co pytamy), (odpowiednik much/many)</text>
+      </translation>
+    </entry>
+    <entry id="198">
+      <translation id="0">
+        <text>了</text>
+      </translation>
+      <translation id="1">
+        <text>(cząstka wskazująca na zmianę stanu)</text>
+      </translation>
+    </entry>
+    <entry id="199">
+      <translation id="0">
+        <text>几</text>
+      </translation>
+      <translation id="1">
+        <text>jak dużo? (spodziewamy się mniej niż 10)</text>
+      </translation>
+    </entry>
+    <entry id="200">
+      <translation id="0">
+        <text>口</text>
+      </translation>
+      <translation id="1">
+        <text>usta, (kwantyfikator dla osób)</text>
+      </translation>
+    </entry>
+    <entry id="201">
+      <translation id="0">
+        <text>岁</text>
+      </translation>
+      <translation id="1">
+        <text>rok, lata (kwantyfikator określający wiek osoby)</text>
+      </translation>
+    </entry>
+    <entry id="202">
+      <translation id="0">
+        <text>爷爷</text>
+      </translation>
+      <translation id="1">
+        <text>dziadek (ze strony ojca)</text>
+      </translation>
+    </entry>
+    <entry id="203">
+      <translation id="0">
+        <text>儿子</text>
+      </translation>
+      <translation id="1">
+        <text>syn</text>
+      </translation>
+    </entry>
+    <entry id="204">
+      <translation id="0">
+        <text>没有</text>
+      </translation>
+      <translation id="1">
+        <text>nie mieć</text>
+      </translation>
+    </entry>
+    <entry id="205">
+      <translation id="0">
+        <text>大</text>
+      </translation>
+      <translation id="1">
+        <text>duży, stary</text>
+      </translation>
+    </entry>
+    <entry id="206">
+      <translation id="0">
+        <text>妈妈</text>
+      </translation>
+      <translation id="1">
+        <text>mama</text>
+      </translation>
+    </entry>
+    <entry id="207">
+      <translation id="0">
+        <text>姐姐</text>
+      </translation>
+      <translation id="1">
+        <text>starsza siostra</text>
+      </translation>
+    </entry>
+    <entry id="208">
+      <translation id="0">
+        <text>妹妹</text>
+      </translation>
+      <translation id="1">
+        <text>młodsza siostra</text>
+      </translation>
+    </entry>
+    <entry id="209">
+      <translation id="0">
+        <text>弟弟</text>
+      </translation>
+      <translation id="1">
+        <text>młodszy brat</text>
+      </translation>
+    </entry>
+    <entry id="210">
+      <translation id="0">
+        <text>哥哥</text>
+      </translation>
+      <translation id="1">
+        <text>starszy brat</text>
+      </translation>
+    </entry>
+    <entry id="211">
+      <translation id="0">
+        <text>奶奶</text>
+      </translation>
+      <translation id="1">
+        <text>babcia (ze strony ojca)</text>
+      </translation>
+    </entry>
+    <entry id="212">
+      <translation id="0">
+        <text>爸爸</text>
+      </translation>
+      <translation id="1">
+        <text>ojciec</text>
+      </translation>
+    </entry>
+    <entry id="213">
+      <translation id="0">
+        <text>姥姥</text>
+      </translation>
+      <translation id="1">
+        <text>babcia ze strony matki</text>
+      </translation>
+    </entry>
+    <entry id="214">
+      <translation id="0">
+        <text>姥爷</text>
+      </translation>
+      <translation id="1">
+        <text>dziadek ze strony matki</text>
+      </translation>
+    </entry>
+    <entry id="215">
+      <translation id="0">
+        <text>丈夫</text>
+      </translation>
+      <translation id="1">
+        <text>mąż</text>
+      </translation>
+    </entry>
+    <entry id="216">
+      <translation id="0">
+        <text>太太</text>
+      </translation>
+      <translation id="1">
+        <text>żona</text>
+      </translation>
+    </entry>
+    <entry id="217">
+      <translation id="0">
+        <text>年</text>
+      </translation>
+      <translation id="1">
+        <text>rok, ziarno</text>
+      </translation>
+    </entry>
+    <entry id="218">
+      <translation id="0">
+        <text>和</text>
+      </translation>
+      <translation id="1">
+        <text>i (spójnik)</text>
+      </translation>
+    </entry>
+    <entry id="219">
+      <translation id="0">
+        <text>天</text>
+      </translation>
+      <translation id="1">
+        <text>dzień, niebo</text>
+      </translation>
+    </entry>
+    <entry id="220">
+      <translation id="0">
+        <text>多少</text>
+      </translation>
+      <translation id="1">
+        <text>jak dużo?</text>
+      </translation>
+    </entry>
+    <entry id="221">
+      <translation id="0">
+        <text>中学</text>
+      </translation>
+      <translation id="1">
+        <text>szkoła średnia</text>
+      </translation>
+    </entry>
+    <entry id="222">
+      <translation id="0">
+        <text>小学</text>
+      </translation>
+      <translation id="1">
+        <text>szkoła podstawowa</text>
+      </translation>
+    </entry>
+    <entry id="223">
+      <translation id="0">
+        <text>大学</text>
+      </translation>
+      <translation id="1">
+        <text>uniwersytet</text>
+      </translation>
+    </entry>
+    <entry id="224">
+      <translation id="0">
+        <text>明</text>
+      </translation>
+      <translation id="1">
+        <text>następny</text>
+      </translation>
+    </entry>
+    <entry id="225">
+      <translation id="0">
+        <text>今</text>
+      </translation>
+      <translation id="1">
+        <text>aktualny, obecny, współczesny</text>
+      </translation>
+    </entry>
+    <entry id="226">
+      <translation id="0">
+        <text>前</text>
+      </translation>
+      <translation id="1">
+        <text>pierwsze, z przodu, poprzednie</text>
+      </translation>
+    </entry>
+    <entry id="227">
+      <translation id="0">
+        <text>去</text>
+      </translation>
+      <translation id="1">
+        <text>iść, niedawny</text>
+      </translation>
+    </entry>
+    <entry id="228">
+      <translation id="0">
+        <text>后</text>
+      </translation>
+      <translation id="1">
+        <text>z tyłu, za, po (czymś), później</text>
+      </translation>
+    </entry>
+    <entry id="229">
+      <translation id="0">
+        <text>多大</text>
+      </translation>
+      <translation id="1">
+        <text>jak stary? jakiej wielkości?</text>
+      </translation>
+    </entry>
+    <entry id="230">
+      <translation id="0">
+        <text>学校</text>
+      </translation>
+      <translation id="1">
+        <text>szkoła</text>
+      </translation>
+    </entry>
+    <entry id="231">
+      <translation id="0">
+        <text>小</text>
+      </translation>
+      <translation id="1">
+        <text>mały, młody</text>
+      </translation>
+    </entry>
+    <entry id="232">
+      <translation id="0">
+        <text>中</text>
+      </translation>
+      <translation id="1">
+        <text>środek, w środku</text>
+      </translation>
+    </entry>
+    <entry id="233">
+      <translation id="0">
+        <text>少</text>
+      </translation>
+      <translation id="1">
+        <text>mało, kilka</text>
+      </translation>
+    </entry>
+    <entry id="234">
+      <translation id="0">
+        <text>婆婆</text>
+      </translation>
+      <translation id="1">
+        <text>teściowa</text>
+      </translation>
+    </entry>
+    <entry id="235">
+      <translation id="0">
+        <text>年纪</text>
+      </translation>
+      <translation id="1">
+        <text>wiek (kogoś starego)</text>
+      </translation>
+    </entry>
+    <entry id="236">
+      <translation id="0">
+        <text>瓶</text>
+      </translation>
+      <translation id="1">
+        <text>butelka</text>
+      </translation>
+    </entry>
+    <entry id="237">
+      <translation id="0">
+        <text>继母</text>
+      </translation>
+      <translation id="1">
+        <text>macocha</text>
+      </translation>
+    </entry>
+    <entry id="238">
+      <translation id="0">
+        <text>继父</text>
+      </translation>
+      <translation id="1">
+        <text>ojczym</text>
+      </translation>
+    </entry>
+    <entry id="239">
+      <translation id="0">
+        <text>公公</text>
+      </translation>
+      <translation id="1">
+        <text>teść</text>
+      </translation>
+    </entry>
+    <entry id="240">
+      <translation id="0">
+        <text>香水</text>
+      </translation>
+      <translation id="1">
+        <text>woda pachnąca, perfumy</text>
+      </translation>
+    </entry>
+    <entry id="241">
+      <translation id="0">
+        <text>小孩</text>
+      </translation>
+      <translation id="1">
+        <text>dziecko</text>
+      </translation>
+    </entry>
+    <entry id="242">
+      <translation id="0">
+        <text>小鸟</text>
+      </translation>
+      <translation id="1">
+        <text>mały ptaszek</text>
+      </translation>
+    </entry>
+    <entry id="243">
+      <translation id="0">
+        <text>饭馆</text>
+      </translation>
+      <translation id="1">
+        <text>restauracja</text>
+      </translation>
+    </entry>
+    <entry id="244">
+      <translation id="0">
+        <text>接</text>
+      </translation>
+      <translation id="1">
+        <text>otrzymać</text>
+      </translation>
+    </entry>
+    <entry id="245">
+      <translation id="0">
+        <text>中国 菜</text>
+      </translation>
+      <translation id="1">
+        <text>kuchnia chińska</text>
+      </translation>
+    </entry>
+    <entry id="246">
+      <translation id="0">
+        <text>做</text>
+      </translation>
+      <translation id="1">
+        <text>robić</text>
+      </translation>
+    </entry>
+    <entry id="247">
+      <translation id="0">
+        <text>好吃</text>
+      </translation>
+      <translation id="1">
+        <text>smaczne (jedzenie)</text>
+      </translation>
+    </entry>
+    <entry id="248">
+      <translation id="0">
+        <text>怎么</text>
+      </translation>
+      <translation id="1">
+        <text>jak? (w połączeniu z czasownikiem)</text>
+      </translation>
+    </entry>
+    <entry id="249">
+      <translation id="0">
+        <text>哪国菜</text>
+      </translation>
+      <translation id="1">
+        <text>Potrawy z jakiego kraju?</text>
+      </translation>
+    </entry>
+    <entry id="250">
+      <translation id="0">
+        <text>做菜</text>
+      </translation>
+      <translation id="1">
+        <text>gotować</text>
+      </translation>
+    </entry>
+    <entry id="251">
+      <translation id="0">
+        <text>英语</text>
+      </translation>
+      <translation id="1">
+        <text>język angielski</text>
+      </translation>
+    </entry>
+    <entry id="252">
+      <translation id="0">
+        <text>波兰语</text>
+      </translation>
+      <translation id="1">
+        <text>język polski</text>
+      </translation>
+    </entry>
+    <entry id="253">
+      <translation id="0">
+        <text>日语</text>
+      </translation>
+      <translation id="1">
+        <text>język japoński</text>
+      </translation>
+    </entry>
+    <entry id="254">
+      <translation id="0">
+        <text>韩语</text>
+      </translation>
+      <translation id="1">
+        <text>język koreański</text>
+      </translation>
+    </entry>
+    <entry id="255">
+      <translation id="0">
+        <text>一个字</text>
+      </translation>
+      <translation id="1">
+        <text>pewien (nieokreślony) znak (odpowiednik "a character")</text>
+      </translation>
+    </entry>
+    <entry id="256">
+      <translation id="0">
+        <text>几个字</text>
+      </translation>
+      <translation id="1">
+        <text>Jak dużo znaków? (spodziewamy się mniej niż 10)</text>
+      </translation>
+    </entry>
+    <entry id="257">
+      <translation id="0">
+        <text>很好吃</text>
+      </translation>
+      <translation id="1">
+        <text>bardzo smaczne</text>
+      </translation>
+    </entry>
+    <entry id="258">
+      <translation id="0">
+        <text>不好吃</text>
+      </translation>
+      <translation id="1">
+        <text>niesmaczne</text>
+      </translation>
+    </entry>
+    <entry id="259">
+      <translation id="0">
+        <text>饺子</text>
+      </translation>
+      <translation id="1">
+        <text>pierogi</text>
+      </translation>
+    </entry>
+    <entry id="260">
+      <translation id="0">
+        <text>好听</text>
+      </translation>
+      <translation id="1">
+        <text>przyjemny do słuchania (dźwięk)</text>
+      </translation>
+    </entry>
+    <entry id="261">
+      <translation id="0">
+        <text>好喝</text>
+      </translation>
+      <translation id="1">
+        <text>smaczny napój</text>
+      </translation>
+    </entry>
+    <entry id="262">
+      <translation id="0">
+        <text>好看</text>
+      </translation>
+      <translation id="1">
+        <text>dobrze wyglądający</text>
+      </translation>
+    </entry>
+    <entry id="263">
+      <translation id="0">
+        <text>好玩</text>
+      </translation>
+      <translation id="1">
+        <text>zabawny</text>
+      </translation>
+    </entry>
+    <entry id="264">
+      <translation id="0">
+        <text>玩</text>
+      </translation>
+      <translation id="1">
+        <text>grać, bawić się</text>
+      </translation>
+    </entry>
+    <entry id="265">
+      <translation id="0">
+        <text>牛奶</text>
+      </translation>
+      <translation id="1">
+        <text>mleko</text>
+      </translation>
+    </entry>
+    <entry id="266">
+      <translation id="0">
+        <text>电影</text>
+      </translation>
+      <translation id="1">
+        <text>film</text>
+      </translation>
+    </entry>
+    <entry id="267">
+      <translation id="0">
+        <text>手机</text>
+      </translation>
+      <translation id="1">
+        <text>telefon komórkowy</text>
+      </translation>
+    </entry>
+    <entry id="268">
+      <translation id="0">
+        <text>游戏</text>
+      </translation>
+      <translation id="1">
+        <text>gra</text>
+      </translation>
+    </entry>
+    <entry id="269">
+      <translation id="0">
+        <text>手机游戏</text>
+      </translation>
+      <translation id="1">
+        <text>gra na telefon komórkowy</text>
+      </translation>
+    </entry>
+    <entry id="270">
+      <translation id="0">
+        <text>怎么写</text>
+      </translation>
+      <translation id="1">
+        <text>jak napisać?</text>
+      </translation>
+    </entry>
+    <entry id="271">
+      <translation id="0">
+        <text>用</text>
+      </translation>
+      <translation id="1">
+        <text>użyć, wykorzystać (coś)</text>
+      </translation>
+    </entry>
+    <entry id="272">
+      <translation id="0">
+        <text>咖啡</text>
+      </translation>
+      <translation id="1">
+        <text>kawa (napój)</text>
+      </translation>
+    </entry>
+    <entry id="273">
+      <translation id="0">
+        <text>公园</text>
+      </translation>
+      <translation id="1">
+        <text>park</text>
+      </translation>
+    </entry>
+    <entry id="274">
+      <translation id="0">
+        <text>车站</text>
+      </translation>
+      <translation id="1">
+        <text>przystanek, peron</text>
+      </translation>
+    </entry>
+    <entry id="275">
+      <translation id="0">
+        <text>精彩</text>
+      </translation>
+      <translation id="1">
+        <text>wspaniały, niesamowity</text>
+      </translation>
+    </entry>
+    <entry id="276">
+      <translation id="0">
+        <text>车票</text>
+      </translation>
+      <translation id="1">
+        <text>bilet</text>
+      </translation>
+    </entry>
+    <entry id="277">
+      <translation id="0">
+        <text>公司</text>
+      </translation>
+      <translation id="1">
+        <text>firma</text>
+      </translation>
+    </entry>
+    <entry id="278">
+      <translation id="0">
+        <text>刚才</text>
+      </translation>
+      <translation id="1">
+        <text>właśnie teraz, przed chwilką</text>
+      </translation>
+    </entry>
+    <entry id="279">
+      <translation id="0">
+        <text>刮风</text>
+      </translation>
+      <translation id="1">
+        <text>wietrznie</text>
+      </translation>
+    </entry>
+    <entry id="280">
+      <translation id="0">
+        <text>欢迎</text>
+      </translation>
+      <translation id="1">
+        <text>witać</text>
+      </translation>
+    </entry>
+    <entry id="281">
+      <translation id="0">
+        <text>经理</text>
+      </translation>
+      <translation id="1">
+        <text>menadżer, dyrektor</text>
+      </translation>
+    </entry>
+    <entry id="282">
+      <translation id="0">
+        <text>机会</text>
+      </translation>
+      <translation id="1">
+        <text>okazja</text>
+      </translation>
+    </entry>
+    <entry id="283">
+      <translation id="0">
+        <text>关心</text>
+      </translation>
+      <translation id="1">
+        <text>martwić się o</text>
+      </translation>
+    </entry>
+    <entry id="284">
+      <translation id="0">
+        <text>关于</text>
+      </translation>
+      <translation id="1">
+        <text>w związku z</text>
+      </translation>
+    </entry>
+    <entry id="285">
+      <translation id="0">
+        <text>开始</text>
+      </translation>
+      <translation id="1">
+        <text>rozpoczynać</text>
+      </translation>
+    </entry>
+    <entry id="286">
+      <translation id="0">
+        <text>高兴</text>
+      </translation>
+      <translation id="1">
+        <text>szczęśliwy</text>
+      </translation>
+    </entry>
+    <entry id="287">
+      <translation id="0">
+        <text>请</text>
+      </translation>
+      <translation id="1">
+        <text>proszę (forma uprzejma)</text>
+      </translation>
+    </entry>
+    <entry id="288">
+      <translation id="0">
+        <text>月</text>
+      </translation>
+      <translation id="1">
+        <text>księżyc, miesiąc</text>
+      </translation>
+    </entry>
+    <entry id="289">
+      <translation id="0">
+        <text>问</text>
+      </translation>
+      <translation id="1">
+        <text>pytać</text>
+      </translation>
+    </entry>
+    <entry id="290">
+      <translation id="0">
+        <text>今天</text>
+      </translation>
+      <translation id="1">
+        <text>dzisiaj</text>
+      </translation>
+    </entry>
+    <entry id="291">
+      <translation id="0">
+        <text>日</text>
+      </translation>
+      <translation id="1">
+        <text>słońce, dzień, dzień miesiąca</text>
+      </translation>
+    </entry>
+    <entry id="292">
+      <translation id="0">
+        <text>周末</text>
+      </translation>
+      <translation id="1">
+        <text>weekend</text>
+      </translation>
+    </entry>
+    <entry id="293">
+      <translation id="0">
+        <text>周</text>
+      </translation>
+      <translation id="1">
+        <text>tydzień (krótka forma)</text>
+      </translation>
+    </entry>
+    <entry id="294">
+      <translation id="0">
+        <text>明天</text>
+      </translation>
+      <translation id="1">
+        <text>jutro</text>
+      </translation>
+    </entry>
+    <entry id="295">
+      <translation id="0">
+        <text>号</text>
+      </translation>
+      <translation id="1">
+        <text>numer (dnia, miesiąca)</text>
+      </translation>
+    </entry>
+    <entry id="296">
+      <translation id="0">
+        <text>一个月</text>
+      </translation>
+      <translation id="1">
+        <text>jakiś miesiąc</text>
+      </translation>
+    </entry>
+    <entry id="297">
+      <translation id="0">
+        <text>两年</text>
+      </translation>
+      <translation id="1">
+        <text>dwa lata</text>
+      </translation>
+    </entry>
+    <entry id="298">
+      <translation id="0">
+        <text>两天</text>
+      </translation>
+      <translation id="1">
+        <text>dwa dni</text>
+      </translation>
+    </entry>
+    <entry id="299">
+      <translation id="0">
+        <text>几天</text>
+      </translation>
+      <translation id="1">
+        <text>ile dni?</text>
+      </translation>
+    </entry>
+    <entry id="300">
+      <translation id="0">
+        <text>看书</text>
+      </translation>
+      <translation id="1">
+        <text>czytać książkę, uczyć się</text>
+      </translation>
+    </entry>
+    <entry id="301">
+      <translation id="0">
+        <text>十一月</text>
+      </translation>
+      <translation id="1">
+        <text>listopad</text>
+      </translation>
+    </entry>
+    <entry id="302">
+      <translation id="0">
+        <text>十月</text>
+      </translation>
+      <translation id="1">
+        <text>październik</text>
+      </translation>
+    </entry>
+    <entry id="303">
+      <translation id="0">
+        <text>九月</text>
+      </translation>
+      <translation id="1">
+        <text>wrzesień</text>
+      </translation>
+    </entry>
+    <entry id="304">
+      <translation id="0">
+        <text>八月</text>
+      </translation>
+      <translation id="1">
+        <text>sierpień</text>
+      </translation>
+    </entry>
+    <entry id="305">
+      <translation id="0">
+        <text>七月</text>
+      </translation>
+      <translation id="1">
+        <text>lipiec</text>
+      </translation>
+    </entry>
+    <entry id="306">
+      <translation id="0">
+        <text>六月</text>
+      </translation>
+      <translation id="1">
+        <text>czerwiec</text>
+      </translation>
+    </entry>
+    <entry id="307">
+      <translation id="0">
+        <text>五月</text>
+      </translation>
+      <translation id="1">
+        <text>maj</text>
+      </translation>
+    </entry>
+    <entry id="308">
+      <translation id="0">
+        <text>四月</text>
+      </translation>
+      <translation id="1">
+        <text>kwiecień</text>
+      </translation>
+    </entry>
+    <entry id="309">
+      <translation id="0">
+        <text>三月</text>
+      </translation>
+      <translation id="1">
+        <text>marzec</text>
+      </translation>
+    </entry>
+    <entry id="310">
+      <translation id="0">
+        <text>二月</text>
+      </translation>
+      <translation id="1">
+        <text>luty</text>
+      </translation>
+    </entry>
+    <entry id="311">
+      <translation id="0">
+        <text>一月</text>
+      </translation>
+      <translation id="1">
+        <text>styczeń</text>
+      </translation>
+    </entry>
+    <entry id="312">
+      <translation id="0">
+        <text>十二月</text>
+      </translation>
+      <translation id="1">
+        <text>grudzień</text>
+      </translation>
+    </entry>
+    <entry id="313">
+      <translation id="0">
+        <text>星期六</text>
+      </translation>
+      <translation id="1">
+        <text>sobota</text>
+      </translation>
+    </entry>
+    <entry id="314">
+      <translation id="0">
+        <text>星期五</text>
+      </translation>
+      <translation id="1">
+        <text>piątek</text>
+      </translation>
+    </entry>
+    <entry id="315">
+      <translation id="0">
+        <text>星期四</text>
+      </translation>
+      <translation id="1">
+        <text>czwartek</text>
+      </translation>
+    </entry>
+    <entry id="316">
+      <translation id="0">
+        <text>星期三</text>
+      </translation>
+      <translation id="1">
+        <text>środa</text>
+      </translation>
+    </entry>
+    <entry id="317">
+      <translation id="0">
+        <text>星期日</text>
+      </translation>
+      <translation id="1">
+        <text>niedziela</text>
+      </translation>
+    </entry>
+    <entry id="318">
+      <translation id="0">
+        <text>星期二</text>
+      </translation>
+      <translation id="1">
+        <text>wtorek</text>
+      </translation>
+    </entry>
+    <entry id="319">
+      <translation id="0">
+        <text>星期一</text>
+      </translation>
+      <translation id="1">
+        <text>poniedziałek</text>
+      </translation>
+    </entry>
+    <entry id="320">
+      <translation id="0">
+        <text>请问</text>
+      </translation>
+      <translation id="1">
+        <text>Przepraszam, czy mogę zapytać?</text>
+      </translation>
+    </entry>
+    <entry id="321">
+      <translation id="0">
+        <text>请说</text>
+      </translation>
+      <translation id="1">
+        <text>proszę powiedzieć</text>
+      </translation>
+    </entry>
+    <entry id="322">
+      <translation id="0">
+        <text>请写</text>
+      </translation>
+      <translation id="1">
+        <text>proszę napisać</text>
+      </translation>
+    </entry>
+    <entry id="323">
+      <translation id="0">
+        <text>医院</text>
+      </translation>
+      <translation id="1">
+        <text>szpital</text>
+      </translation>
+    </entry>
+    <entry id="324">
+      <translation id="0">
+        <text>电影院</text>
+      </translation>
+      <translation id="1">
+        <text>kino</text>
+      </translation>
+    </entry>
+    <entry id="325">
+      <translation id="0">
+        <text>圣诞节</text>
+      </translation>
+      <translation id="1">
+        <text>Boże Narodzenie</text>
+      </translation>
+    </entry>
+    <entry id="326">
+      <translation id="0">
+        <text>电影</text>
+      </translation>
+      <translation id="1">
+        <text>film</text>
+      </translation>
+    </entry>
+    <entry id="327">
+      <translation id="0">
+        <text>上</text>
+      </translation>
+      <translation id="1">
+        <text>uczęszczać, nad</text>
+      </translation>
+    </entry>
+    <entry id="328">
+      <translation id="0">
+        <text>课</text>
+      </translation>
+      <translation id="1">
+        <text>lekcja</text>
+      </translation>
+    </entry>
+    <entry id="329">
+      <translation id="0">
+        <text>医生</text>
+      </translation>
+      <translation id="1">
+        <text>lekarz</text>
+      </translation>
+    </entry>
+    <entry id="330">
+      <translation id="0">
+        <text>地点</text>
+      </translation>
+      <translation id="1">
+        <text>miejsce</text>
+      </translation>
+    </entry>
+    <entry id="331">
+      <translation id="0">
+        <text>银行</text>
+      </translation>
+      <translation id="1">
+        <text>bank</text>
+      </translation>
+    </entry>
+    <entry id="332">
+      <translation id="0">
+        <text>时间</text>
+      </translation>
+      <translation id="1">
+        <text>czas, punkt w czasie, czas trwania</text>
+      </translation>
+    </entry>
+    <entry id="333">
+      <translation id="0">
+        <text>上课</text>
+      </translation>
+      <translation id="1">
+        <text>uczęszczać na zajęcia</text>
+      </translation>
+    </entry>
+    <entry id="334">
+      <translation id="0">
+        <text>上班</text>
+      </translation>
+      <translation id="1">
+        <text>iść do pracy</text>
+      </translation>
+    </entry>
+    <entry id="335">
+      <translation id="0">
+        <text>运动</text>
+      </translation>
+      <translation id="1">
+        <text>uprawiać sport</text>
+      </translation>
+    </entry>
+    <entry id="336">
+      <translation id="0">
+        <text>健身房</text>
+      </translation>
+      <translation id="1">
+        <text>siłownia, klub fitness</text>
+      </translation>
+    </entry>
+    <entry id="337">
+      <translation id="0">
+        <text>图书馆</text>
+      </translation>
+      <translation id="1">
+        <text>biblioteka</text>
+      </translation>
+    </entry>
+    <entry id="338">
+      <translation id="0">
+        <text>蓝色</text>
+      </translation>
+      <translation id="1">
+        <text>niebieski</text>
+      </translation>
+    </entry>
+    <entry id="339">
+      <translation id="0">
+        <text>词典</text>
+      </translation>
+      <translation id="1">
+        <text>słownik</text>
+      </translation>
+    </entry>
+    <entry id="340">
+      <translation id="0">
+        <text>楼房</text>
+      </translation>
+      <translation id="1">
+        <text>budynek z co najmniej dwoma piętrami</text>
+      </translation>
+    </entry>
+    <entry id="341">
+      <translation id="0">
+        <text>苹果</text>
+      </translation>
+      <translation id="1">
+        <text>jabłko</text>
+      </translation>
+    </entry>
+    <entry id="342">
+      <translation id="0">
+        <text>环境</text>
+      </translation>
+      <translation id="1">
+        <text>środowisko, otoczenie</text>
+      </translation>
+    </entry>
+    <entry id="343">
+      <translation id="0">
+        <text>篮球</text>
+      </translation>
+      <translation id="1">
+        <text>koszykówka</text>
+      </translation>
+    </entry>
+    <entry id="344">
+      <translation id="0">
+        <text>皮球</text>
+      </translation>
+      <translation id="1">
+        <text>piłka</text>
+      </translation>
+    </entry>
+    <entry id="345">
+      <translation id="0">
+        <text>寒假</text>
+      </translation>
+      <translation id="1">
+        <text>ferie zimowe</text>
+      </translation>
+    </entry>
+    <entry id="346">
+      <translation id="0">
+        <text>牛肉</text>
+      </translation>
+      <translation id="1">
+        <text>wołowina</text>
+      </translation>
+    </entry>
+    <entry id="347">
+      <translation id="0">
+        <text>年轻</text>
+      </translation>
+      <translation id="1">
+        <text>młody</text>
+      </translation>
+    </entry>
+    <entry id="348">
+      <translation id="0">
+        <text>生肖</text>
+      </translation>
+      <translation id="1">
+        <text>chińskie znaki zodiacu</text>
+      </translation>
+    </entry>
+    <entry id="349">
+      <translation id="0">
+        <text>鼠</text>
+      </translation>
+      <translation id="1">
+        <text>szczur</text>
+      </translation>
+    </entry>
+    <entry id="350">
+      <translation id="0">
+        <text>兔</text>
+      </translation>
+      <translation id="1">
+        <text>królik</text>
+      </translation>
+    </entry>
+    <entry id="351">
+      <translation id="0">
+        <text>龙</text>
+      </translation>
+      <translation id="1">
+        <text>smok</text>
+      </translation>
+    </entry>
+    <entry id="352">
+      <translation id="0">
+        <text>蛇</text>
+      </translation>
+      <translation id="1">
+        <text>wąż</text>
+      </translation>
+    </entry>
+    <entry id="353">
+      <translation id="0">
+        <text>鸡</text>
+      </translation>
+      <translation id="1">
+        <text>kura/kurczak</text>
+      </translation>
+    </entry>
+    <entry id="354">
+      <translation id="0">
+        <text>本命年</text>
+      </translation>
+      <translation id="1">
+        <text>rok zgadzający się ze znakiem zodiaku roku narodziń</text>
+      </translation>
+    </entry>
+    <entry id="355">
+      <translation id="0">
+        <text>属</text>
+      </translation>
+      <translation id="1">
+        <text>kategoria, należeć, urodzić się w roku (jakiegoś zwierzęcia)</text>
+      </translation>
+    </entry>
+    <entry id="356">
+      <translation id="0">
+        <text>漂亮</text>
+      </translation>
+      <translation id="1">
+        <text>ładny</text>
+      </translation>
+    </entry>
+    <entry id="357">
+      <translation id="0">
+        <text>帅</text>
+      </translation>
+      <translation id="1">
+        <text>przystojny</text>
+      </translation>
+    </entry>
+    <entry id="358">
+      <translation id="0">
+        <text>性感</text>
+      </translation>
+      <translation id="1">
+        <text>uwodzicielski, erotyczny</text>
+      </translation>
+    </entry>
+    <entry id="359">
+      <translation id="0">
+        <text>优雅</text>
+      </translation>
+      <translation id="1">
+        <text>elegancki</text>
+      </translation>
+    </entry>
+    <entry id="360">
+      <translation id="0">
+        <text>馆</text>
+      </translation>
+      <translation id="1">
+        <text>budynek użyteczności publicznej</text>
+      </translation>
+    </entry>
+    <entry id="361">
+      <translation id="0">
+        <text>图</text>
+      </translation>
+      <translation id="1">
+        <text>mapa, diagram, wykres</text>
+      </translation>
+    </entry>
+    <entry id="362">
+      <translation id="0">
+        <text>时</text>
+      </translation>
+      <translation id="1">
+        <text>czas, godzina, okres</text>
+      </translation>
+    </entry>
+    <entry id="363">
+      <translation id="0">
+        <text>间</text>
+      </translation>
+      <translation id="1">
+        <text>pomiędzy, pokój, (kwantyfikator dla pokoi)</text>
+      </translation>
+    </entry>
+    <entry id="364">
+      <translation id="0">
+        <text>颈</text>
+      </translation>
+      <translation id="1">
+        <text>szyja</text>
+      </translation>
+    </entry>
+    <entry id="365">
+      <translation id="0">
+        <text>长</text>
+      </translation>
+      <translation id="1">
+        <text>długi</text>
+      </translation>
+    </entry>
+    <entry id="366">
+      <translation id="0">
+        <text>银</text>
+      </translation>
+      <translation id="1">
+        <text>srebro, srebrny</text>
+      </translation>
+    </entry>
+    <entry id="367">
+      <translation id="0">
+        <text>行</text>
+      </translation>
+      <translation id="1">
+        <text>(znak: linia, wiersz, firma komercyjna)</text>
+      </translation>
+    </entry>
+    <entry id="368">
+      <translation id="0">
+        <text>昨天</text>
+      </translation>
+      <translation id="1">
+        <text>wczoraj</text>
+      </translation>
+    </entry>
+    <entry id="369">
+      <translation id="0">
+        <text>杯子</text>
+      </translation>
+      <translation id="1">
+        <text>kubek, szklanka</text>
+      </translation>
+    </entry>
+    <entry id="370">
+      <translation id="0">
+        <text>钱</text>
+      </translation>
+      <translation id="1">
+        <text>pieniądze, monety</text>
+      </translation>
+    </entry>
+    <entry id="371">
+      <translation id="0">
+        <text>想</text>
+      </translation>
+      <translation id="1">
+        <text>chcieć</text>
+      </translation>
+    </entry>
+    <entry id="372">
+      <translation id="0">
+        <text>商店</text>
+      </translation>
+      <translation id="1">
+        <text>sklep</text>
+      </translation>
+    </entry>
+    <entry id="373">
+      <translation id="0">
+        <text>商</text>
+      </translation>
+      <translation id="1">
+        <text>kupiec, handel</text>
+      </translation>
+    </entry>
+    <entry id="374">
+      <translation id="0">
+        <text>买</text>
+      </translation>
+      <translation id="1">
+        <text>kupować</text>
+      </translation>
+    </entry>
+    <entry id="375">
+      <translation id="0">
+        <text>块</text>
+      </translation>
+      <translation id="1">
+        <text>(kwantyfikator dla pieniędzy)</text>
+      </translation>
+    </entry>
+    <entry id="376">
+      <translation id="0">
+        <text>下午</text>
+      </translation>
+      <translation id="1">
+        <text>popołudnie</text>
+      </translation>
+    </entry>
+    <entry id="377">
+      <translation id="0">
+        <text>绿茶</text>
+      </translation>
+      <translation id="1">
+        <text>zielona herbata</text>
+      </translation>
+    </entry>
+    <entry id="378">
+      <translation id="0">
+        <text>红茶</text>
+      </translation>
+      <translation id="1">
+        <text>czarna herbata</text>
+      </translation>
+    </entry>
+    <entry id="379">
+      <translation id="0">
+        <text>茶叶</text>
+      </translation>
+      <translation id="1">
+        <text>liść herbaty</text>
+      </translation>
+    </entry>
+    <entry id="380">
+      <translation id="0">
+        <text>普洱茶</text>
+      </translation>
+      <translation id="1">
+        <text>herbate pu-erh</text>
+      </translation>
+    </entry>
+    <entry id="381">
+      <translation id="0">
+        <text>香片</text>
+      </translation>
+      <translation id="1">
+        <text>herbata aromatyzowana</text>
+      </translation>
+    </entry>
+    <entry id="382">
+      <translation id="0">
+        <text>茶垢</text>
+      </translation>
+      <translation id="1">
+        <text>osad z herbaty</text>
+      </translation>
+    </entry>
+    <entry id="383">
+      <translation id="0">
+        <text>人走茶凉</text>
+      </translation>
+      <translation id="1">
+        <text>powiedzenie: "Kiedy człowiek odchodzi, herbata stygnie" (po stracie władzy, człowiek jest zapominany)</text>
+      </translation>
+    </entry>
+    <entry id="384">
+      <translation id="0">
+        <text>果茶</text>
+      </translation>
+      <translation id="1">
+        <text>herbata owocowa</text>
+      </translation>
+    </entry>
+    <entry id="385">
+      <translation id="0">
+        <text>早茶</text>
+      </translation>
+      <translation id="1">
+        <text>poranna herbata</text>
+      </translation>
+    </entry>
+    <entry id="386">
+      <translation id="0">
+        <text>三茶六饭</text>
+      </translation>
+      <translation id="1">
+        <text>powiedzenie: "Oferować 3 typy herbaty i 6 potraw" (być bardzo gościnnym)</text>
+      </translation>
+    </entry>
+    <entry id="387">
+      <translation id="0">
+        <text>乌龙茶</text>
+      </translation>
+      <translation id="1">
+        <text>herbata oolong</text>
+      </translation>
+    </entry>
+    <entry id="388">
+      <translation id="0">
+        <text>茉莉花茶</text>
+      </translation>
+      <translation id="1">
+        <text>herbata jaśminowa</text>
+      </translation>
+    </entry>
+    <entry id="389">
+      <translation id="0">
+        <text>茶袋</text>
+      </translation>
+      <translation id="1">
+        <text>woreczek herbaty</text>
+      </translation>
+    </entry>
+    <entry id="390">
+      <translation id="0">
+        <text>博士茶</text>
+      </translation>
+      <translation id="1">
+        <text>roibos</text>
+      </translation>
+    </entry>
+    <entry id="391">
+      <translation id="0">
+        <text>商</text>
+      </translation>
+      <translation id="1">
+        <text>kupiec, handel</text>
+      </translation>
+    </entry>
+    <entry id="392">
+      <translation id="0">
+        <text>店</text>
+      </translation>
+      <translation id="1">
+        <text>karczma, hotel, (forma związana) sklep</text>
+      </translation>
+    </entry>
+    <entry id="393">
+      <translation id="0">
+        <text>绿</text>
+      </translation>
+      <translation id="1">
+        <text>zielony</text>
+      </translation>
+    </entry>
+    <entry id="394">
+      <translation id="0">
+        <text>红</text>
+      </translation>
+      <translation id="1">
+        <text>czerwony</text>
+      </translation>
+    </entry>
+    <entry id="395">
+      <translation id="0">
+        <text>上午</text>
+      </translation>
+      <translation id="1">
+        <text>poranek</text>
+      </translation>
+    </entry>
+    <entry id="396">
+      <translation id="0">
+        <text>中午</text>
+      </translation>
+      <translation id="1">
+        <text>południe</text>
+      </translation>
+    </entry>
+    <entry id="397">
+      <translation id="0">
+        <text>午饭</text>
+      </translation>
+      <translation id="1">
+        <text>lunch</text>
+      </translation>
+    </entry>
+    <entry id="398">
+      <translation id="0">
+        <text>晚上</text>
+      </translation>
+      <translation id="1">
+        <text>wieczór</text>
+      </translation>
+    </entry>
+    <entry id="399">
+      <translation id="0">
+        <text>早饭</text>
+      </translation>
+      <translation id="1">
+        <text>śniadanie</text>
+      </translation>
+    </entry>
+    <entry id="400">
+      <translation id="0">
+        <text>晚饭</text>
+      </translation>
+      <translation id="1">
+        <text>kolacja</text>
+      </translation>
+    </entry>
+    <entry id="401">
+      <translation id="0">
+        <text>早上好</text>
+      </translation>
+      <translation id="1">
+        <text>dobrego ranka! (ang: good morning)</text>
+      </translation>
+    </entry>
+    <entry id="402">
+      <translation id="0">
+        <text>晚上好</text>
+      </translation>
+      <translation id="1">
+        <text>dobry wieczór!</text>
+      </translation>
+    </entry>
+    <entry id="403">
+      <translation id="0">
+        <text>卖</text>
+      </translation>
+      <translation id="1">
+        <text>sprzedawać</text>
+      </translation>
+    </entry>
+    <entry id="404">
+      <translation id="0">
+        <text>看医生</text>
+      </translation>
+      <translation id="1">
+        <text>zobaczyć się z lekarzem</text>
+      </translation>
+    </entry>
+    <entry id="405">
+      <translation id="0">
+        <text>坐</text>
+      </translation>
+      <translation id="1">
+        <text>siadać, zająć miejsce, przynieść owoce</text>
+      </translation>
+    </entry>
+    <entry id="406">
+      <translation id="0">
+        <text>愉快</text>
+      </translation>
+      <translation id="1">
+        <text>szczęśliwy, zadowolony, zachwycony</text>
+      </translation>
+    </entry>
+    <entry id="407">
+      <translation id="0">
+        <text>过</text>
+      </translation>
+      <translation id="1">
+        <text>przekraczać, mijać (czas), świętować, żyć</text>
+      </translation>
+    </entry>
+    <entry id="408">
+      <translation id="0">
+        <text>喜欢</text>
+      </translation>
+      <translation id="1">
+        <text>lubić</text>
+      </translation>
+    </entry>
+    <entry id="409">
+      <translation id="0">
+        <text>为</text>
+      </translation>
+      <translation id="1">
+        <text>ponieważ</text>
+      </translation>
+    </entry>
+    <entry id="410">
+      <translation id="0">
+        <text>干杯</text>
+      </translation>
+      <translation id="1">
+        <text>wypić toast</text>
+      </translation>
+    </entry>
+    <entry id="411">
+      <translation id="0">
+        <text>鱼</text>
+      </translation>
+      <translation id="1">
+        <text>ryba</text>
+      </translation>
+    </entry>
+    <entry id="412">
+      <translation id="0">
+        <text>真</text>
+      </translation>
+      <translation id="1">
+        <text>naprawdę, prawdziwie</text>
+      </translation>
+    </entry>
+    <entry id="413">
+      <translation id="0">
+        <text>别</text>
+      </translation>
+      <translation id="1">
+        <text>opuszczać, odróżniać</text>
+      </translation>
+    </entry>
+    <entry id="414">
+      <translation id="0">
+        <text>客气</text>
+      </translation>
+      <translation id="1">
+        <text>uprzejmy, skromny, formalny</text>
+      </translation>
+    </entry>
+    <entry id="415">
+      <translation id="0">
+        <text>一样</text>
+      </translation>
+      <translation id="1">
+        <text>taki sam, tak samo</text>
+      </translation>
+    </entry>
+    <entry id="416">
+      <translation id="0">
+        <text>慢</text>
+      </translation>
+      <translation id="1">
+        <text>powoli</text>
+      </translation>
+    </entry>
+    <entry id="417">
+      <translation id="0">
+        <text>吧</text>
+      </translation>
+      <translation id="1">
+        <text>(cząstka wyrażająca sugestię, przypuszczenie), "..., ok?"</text>
+      </translation>
+    </entry>
+    <entry id="418">
+      <translation id="0">
+        <text>常常</text>
+      </translation>
+      <translation id="1">
+        <text>często</text>
+      </translation>
+    </entry>
+    <entry id="419">
+      <translation id="0">
+        <text>尝</text>
+      </translation>
+      <translation id="1">
+        <text>smakować, doświadczać</text>
+      </translation>
+    </entry>
+    <entry id="420">
+      <translation id="0">
+        <text>健康</text>
+      </translation>
+      <translation id="1">
+        <text>zdrowy</text>
+      </translation>
+    </entry>
+    <entry id="421">
+      <translation id="0">
+        <text>酒</text>
+      </translation>
+      <translation id="1">
+        <text>wino, likier, napój alkoholowy</text>
+      </translation>
+    </entry>
+    <entry id="422">
+      <translation id="0">
+        <text>面条</text>
+      </translation>
+      <translation id="1">
+        <text>makaron</text>
+      </translation>
+    </entry>
+    <entry id="423">
+      <translation id="0">
+        <text>啤酒</text>
+      </translation>
+      <translation id="1">
+        <text>piwo</text>
+      </translation>
+    </entry>
+    <entry id="424">
+      <translation id="0">
+        <text>手镯</text>
+      </translation>
+      <translation id="1">
+        <text>bransoletka</text>
+      </translation>
+    </entry>
+    <entry id="425">
+      <translation id="0">
+        <text>手套</text>
+      </translation>
+      <translation id="1">
+        <text>rękawiczka</text>
+      </translation>
+    </entry>
+    <entry id="426">
+      <translation id="0">
+        <text>海边</text>
+      </translation>
+      <translation id="1">
+        <text>nadmorski</text>
+      </translation>
+    </entry>
+    <entry id="427">
+      <translation id="0">
+        <text>海绵</text>
+      </translation>
+      <translation id="1">
+        <text>gąbka</text>
+      </translation>
+    </entry>
+    <entry id="428">
+      <translation id="0">
+        <text>以前</text>
+      </translation>
+      <translation id="1">
+        <text>poprzednio</text>
+      </translation>
+    </entry>
+    <entry id="429">
+      <translation id="0">
+        <text>表演</text>
+      </translation>
+      <translation id="1">
+        <text>prezentować, występ</text>
+      </translation>
+    </entry>
+    <entry id="430">
+      <translation id="0">
+        <text>表现</text>
+      </translation>
+      <translation id="1">
+        <text>pokazywać, prezentować, zachowywać (się), manifestować</text>
+      </translation>
+    </entry>
+    <entry id="431">
+      <translation id="0">
+        <text>老人</text>
+      </translation>
+      <translation id="1">
+        <text>stara osoba</text>
+      </translation>
+    </entry>
+    <entry id="432">
+      <translation id="0">
+        <text>雨伞</text>
+      </translation>
+      <translation id="1">
+        <text>parasol</text>
+      </translation>
+    </entry>
+    <entry id="433">
+      <translation id="0">
+        <text>每天</text>
+      </translation>
+      <translation id="1">
+        <text>codziennie</text>
+      </translation>
+    </entry>
+    <entry id="434">
+      <translation id="0">
+        <text>每年</text>
+      </translation>
+      <translation id="1">
+        <text>co roku</text>
+      </translation>
+    </entry>
+    <entry id="435">
+      <translation id="0">
+        <text>美好</text>
+      </translation>
+      <translation id="1">
+        <text>piękny, delikatny</text>
+      </translation>
+    </entry>
+    <entry id="436">
+      <translation id="0">
+        <text>美丽</text>
+      </translation>
+      <translation id="1">
+        <text>piękny</text>
+      </translation>
+    </entry>
+    <entry id="437">
+      <translation id="0">
+        <text>洗澡</text>
+      </translation>
+      <translation id="1">
+        <text>wziąć prysznic/kąpiel</text>
+      </translation>
+    </entry>
+    <entry id="438">
+      <translation id="0">
+        <text>感谢</text>
+      </translation>
+      <translation id="1">
+        <text>wyrażać podziękowania, wdzięczny</text>
+      </translation>
+    </entry>
+    <entry id="439">
+      <translation id="0">
+        <text>已经</text>
+      </translation>
+      <translation id="1">
+        <text>już</text>
+      </translation>
+    </entry>
+    <entry id="440">
+      <translation id="0">
+        <text>椅子</text>
+      </translation>
+      <translation id="1">
+        <text>krzesło</text>
+      </translation>
+    </entry>
+    <entry id="441">
+      <translation id="0">
+        <text>那儿</text>
+      </translation>
+      <translation id="1">
+        <text>tam</text>
+      </translation>
+    </entry>
+    <entry id="442">
+      <translation id="0">
+        <text>下面</text>
+      </translation>
+      <translation id="1">
+        <text>pod</text>
+      </translation>
+    </entry>
+    <entry id="443">
+      <translation id="0">
+        <text>工作</text>
+      </translation>
+      <translation id="1">
+        <text>pracować</text>
+      </translation>
+    </entry>
+    <entry id="444">
+      <translation id="0">
+        <text>哪儿</text>
+      </translation>
+      <translation id="1">
+        <text>gdzie</text>
+      </translation>
+    </entry>
+    <entry id="445">
+      <translation id="0">
+        <text>在</text>
+      </translation>
+      <translation id="1">
+        <text>(być) w/na</text>
+      </translation>
+    </entry>
+    <entry id="446">
+      <translation id="0">
+        <text>桌子</text>
+      </translation>
+      <translation id="1">
+        <text>stół</text>
+      </translation>
+    </entry>
+    <entry id="447">
+      <translation id="0">
+        <text>外面</text>
+      </translation>
+      <translation id="1">
+        <text>(na) zewnątrz</text>
+      </translation>
+    </entry>
+    <entry id="448">
+      <translation id="0">
+        <text>右边</text>
+      </translation>
+      <translation id="1">
+        <text>prawa strona</text>
+      </translation>
+    </entry>
+    <entry id="449">
+      <translation id="0">
+        <text>后面</text>
+      </translation>
+      <translation id="1">
+        <text>z tyłu</text>
+      </translation>
+    </entry>
+    <entry id="450">
+      <translation id="0">
+        <text>上面</text>
+      </translation>
+      <translation id="1">
+        <text>górna strona</text>
+      </translation>
+    </entry>
+    <entry id="451">
+      <translation id="0">
+        <text>里面</text>
+      </translation>
+      <translation id="1">
+        <text>wewnętrzna strona</text>
+      </translation>
+    </entry>
+    <entry id="452">
+      <translation id="0">
+        <text>左边</text>
+      </translation>
+      <translation id="1">
+        <text>lewa strona</text>
+      </translation>
+    </entry>
+    <entry id="453">
+      <translation id="0">
+        <text>前面</text>
+      </translation>
+      <translation id="1">
+        <text>z przodu</text>
+      </translation>
+    </entry>
+    <entry id="454">
+      <translation id="0">
+        <text>警察</text>
+      </translation>
+      <translation id="1">
+        <text>policjant</text>
+      </translation>
+    </entry>
+    <entry id="455">
+      <translation id="0">
+        <text>警察局</text>
+      </translation>
+      <translation id="1">
+        <text>komenda policji</text>
+      </translation>
+    </entry>
+    <entry id="456">
+      <translation id="0">
+        <text>局</text>
+      </translation>
+      <translation id="1">
+        <text>biuro</text>
+      </translation>
+    </entry>
+    <entry id="457">
+      <translation id="0">
+        <text>警</text>
+      </translation>
+      <translation id="1">
+        <text>strażnik, alarm</text>
+      </translation>
+    </entry>
+    <entry id="458">
+      <translation id="0">
+        <text>察</text>
+      </translation>
+      <translation id="1">
+        <text>analizować, dochodzić</text>
+      </translation>
+    </entry>
+    <entry id="459">
+      <translation id="0">
+        <text>眼镜</text>
+      </translation>
+      <translation id="1">
+        <text>okulary</text>
+      </translation>
+    </entry>
+    <entry id="460">
+      <translation id="0">
+        <text>地铁站</text>
+      </translation>
+      <translation id="1">
+        <text>stacja metra</text>
+      </translation>
+    </entry>
+    <entry id="461">
+      <translation id="0">
+        <text>药店</text>
+      </translation>
+      <translation id="1">
+        <text>apteka</text>
+      </translation>
+    </entry>
+    <entry id="462">
+      <translation id="0">
+        <text>玩具</text>
+      </translation>
+      <translation id="1">
+        <text>zabawka</text>
+      </translation>
+    </entry>
+    <entry id="463">
+      <translation id="0">
+        <text>电梯</text>
+      </translation>
+      <translation id="1">
+        <text>winda</text>
+      </translation>
+    </entry>
+    <entry id="464">
+      <translation id="0">
+        <text>干洗</text>
+      </translation>
+      <translation id="1">
+        <text>suszyć</text>
+      </translation>
+    </entry>
+    <entry id="465">
+      <translation id="0">
+        <text>鲜花</text>
+      </translation>
+      <translation id="1">
+        <text>kwiaty</text>
+      </translation>
+    </entry>
+    <entry id="466">
+      <translation id="0">
+        <text>书店</text>
+      </translation>
+      <translation id="1">
+        <text>księgarnia</text>
+      </translation>
+    </entry>
+    <entry id="467">
+      <translation id="0">
+        <text>面包</text>
+      </translation>
+      <translation id="1">
+        <text>chleb</text>
+      </translation>
+    </entry>
+    <entry id="468">
+      <translation id="0">
+        <text>电脑</text>
+      </translation>
+      <translation id="1">
+        <text>komputer</text>
+      </translation>
+    </entry>
+    <entry id="469">
+      <translation id="0">
+        <text>电话</text>
+      </translation>
+      <translation id="1">
+        <text>telefon</text>
+      </translation>
+    </entry>
+    <entry id="470">
+      <translation id="0">
+        <text>电</text>
+      </translation>
+      <translation id="1">
+        <text>elektryczność</text>
+      </translation>
+    </entry>
+    <entry id="471">
+      <translation id="0">
+        <text>夏天</text>
+      </translation>
+      <translation id="1">
+        <text>lato</text>
+      </translation>
+    </entry>
+    <entry id="472">
+      <translation id="0">
+        <text>跳舞</text>
+      </translation>
+      <translation id="1">
+        <text>tańczyć</text>
+      </translation>
+    </entry>
+    <entry id="473">
+      <translation id="0">
+        <text>睡觉</text>
+      </translation>
+      <translation id="1">
+        <text>spać, iść spać</text>
+      </translation>
+    </entry>
+    <entry id="474">
+      <translation id="0">
+        <text>电灯</text>
+      </translation>
+      <translation id="1">
+        <text>żarówka, światło elektryczne</text>
+      </translation>
+    </entry>
+    <entry id="475">
+      <translation id="0">
+        <text>电池</text>
+      </translation>
+      <translation id="1">
+        <text>bateria</text>
+      </translation>
+    </entry>
+    <entry id="476">
+      <translation id="0">
+        <text>电视</text>
+      </translation>
+      <translation id="1">
+        <text>telewizja</text>
+      </translation>
+    </entry>
+    <entry id="477">
+      <translation id="0">
+        <text>唱歌</text>
+      </translation>
+      <translation id="1">
+        <text>śpiewać piosenkę</text>
+      </translation>
+    </entry>
+    <entry id="478">
+      <translation id="0">
+        <text>复习</text>
+      </translation>
+      <translation id="1">
+        <text>przeglądać, rewizja (np. kodu)</text>
+      </translation>
+    </entry>
+    <entry id="479">
+      <translation id="0">
+        <text>地铁</text>
+      </translation>
+      <translation id="1">
+        <text>metro, kolej podziemna</text>
+      </translation>
+    </entry>
+    <entry id="480">
+      <translation id="0">
+        <text>见面</text>
+      </translation>
+      <translation id="1">
+        <text>spotykać</text>
+      </translation>
+    </entry>
+    <entry id="481">
+      <translation id="0">
+        <text>能</text>
+      </translation>
+      <translation id="1">
+        <text>móc, mieć możliwość</text>
+      </translation>
+    </entry>
+    <entry id="482">
+      <translation id="0">
+        <text>旁边</text>
+      </translation>
+      <translation id="1">
+        <text>obok</text>
+      </translation>
+    </entry>
+    <entry id="483">
+      <translation id="0">
+        <text>站</text>
+      </translation>
+      <translation id="1">
+        <text>stać, zatrzymać się</text>
+      </translation>
+    </entry>
+    <entry id="484">
+      <translation id="0">
+        <text>里</text>
+      </translation>
+      <translation id="1">
+        <text>wewnątrz</text>
+      </translation>
+    </entry>
+    <entry id="485">
+      <translation id="0">
+        <text>中间</text>
+      </translation>
+      <translation id="1">
+        <text>punkt w środku, środek, wewnątrz</text>
+      </translation>
+    </entry>
+    <entry id="486">
+      <translation id="0">
+        <text>电车</text>
+      </translation>
+      <translation id="1">
+        <text>trolejbus</text>
+      </translation>
+    </entry>
+    <entry id="487">
+      <translation id="0">
+        <text>笔记本</text>
+      </translation>
+      <translation id="1">
+        <text>notatnik</text>
+      </translation>
+    </entry>
+    <entry id="488">
+      <translation id="0">
+        <text>只</text>
+      </translation>
+      <translation id="1">
+        <text>klasyfikator dla zwierząt (z nogami)</text>
+      </translation>
+    </entry>
+    <entry id="489">
+      <translation id="0">
+        <text>耳环</text>
+      </translation>
+      <translation id="1">
+        <text>kolczyki</text>
+      </translation>
+    </entry>
+    <entry id="490">
+      <translation id="0">
+        <text>耳朵</text>
+      </translation>
+      <translation id="1">
+        <text>ucho</text>
+      </translation>
+    </entry>
+    <entry id="491">
+      <translation id="0">
+        <text>走</text>
+      </translation>
+      <translation id="1">
+        <text>iść, spacerować</text>
+      </translation>
+    </entry>
+    <entry id="492">
+      <translation id="0">
+        <text>跑</text>
+      </translation>
+      <translation id="1">
+        <text>biec, uciekać</text>
+      </translation>
+    </entry>
+    <entry id="493">
+      <translation id="0">
+        <text>房间</text>
+      </translation>
+      <translation id="1">
+        <text>pokój</text>
+      </translation>
+    </entry>
+    <entry id="494">
+      <translation id="0">
+        <text>猪肉</text>
+      </translation>
+      <translation id="1">
+        <text>wieprzowina</text>
+      </translation>
+    </entry>
+    <entry id="495">
+      <translation id="0">
+        <text>肉</text>
+      </translation>
+      <translation id="1">
+        <text>mięso</text>
+      </translation>
+    </entry>
+    <entry id="496">
+      <translation id="0">
+        <text>鸡肉</text>
+      </translation>
+      <translation id="1">
+        <text>mięso z kurczaka</text>
+      </translation>
+    </entry>
+    <entry id="497">
+      <translation id="0">
+        <text>进来</text>
+      </translation>
+      <translation id="1">
+        <text>wejść (do pomieszczenia)</text>
+      </translation>
+    </entry>
+    <entry id="498">
+      <translation id="0">
+        <text>厕所</text>
+      </translation>
+      <translation id="1">
+        <text>toaleta</text>
+      </translation>
+    </entry>
+    <entry id="499">
+      <translation id="0">
+        <text>下雨</text>
+      </translation>
+      <translation id="1">
+        <text>pada deszcz</text>
+      </translation>
+    </entry>
+    <entry id="500">
+      <translation id="0">
+        <text>盘子</text>
+      </translation>
+      <translation id="1">
+        <text>talerz</text>
+      </translation>
+    </entry>
+    <entry id="501">
+      <translation id="0">
+        <text>裤子</text>
+      </translation>
+      <translation id="1">
+        <text>spodnie</text>
+      </translation>
+    </entry>
+    <entry id="502">
+      <translation id="0">
+        <text>舌头</text>
+      </translation>
+      <translation id="1">
+        <text>język (część ciała)</text>
+      </translation>
+    </entry>
+    <entry id="503">
+      <translation id="0">
+        <text>枕头</text>
+      </translation>
+      <translation id="1">
+        <text>poduszka</text>
+      </translation>
+    </entry>
+    <entry id="504">
+      <translation id="0">
+        <text>石头</text>
+      </translation>
+      <translation id="1">
+        <text>kamień</text>
+      </translation>
+    </entry>
+    <entry id="505">
+      <translation id="0">
+        <text>木头</text>
+      </translation>
+      <translation id="1">
+        <text>kłoda (drewna)</text>
+      </translation>
+    </entry>
+    <entry id="506">
+      <translation id="0">
+        <text>被子</text>
+      </translation>
+      <translation id="1">
+        <text>koc</text>
+      </translation>
+    </entry>
+    <entry id="507">
+      <translation id="0">
+        <text>现在</text>
+      </translation>
+      <translation id="1">
+        <text>teraz</text>
+      </translation>
+    </entry>
+    <entry id="508">
+      <translation id="0">
+        <text>分</text>
+      </translation>
+      <translation id="1">
+        <text>minuta</text>
+      </translation>
+    </entry>
+    <entry id="509">
+      <translation id="0">
+        <text>回</text>
+      </translation>
+      <translation id="1">
+        <text>wracać</text>
+      </translation>
+    </entry>
+    <entry id="510">
+      <translation id="0">
+        <text>半</text>
+      </translation>
+      <translation id="1">
+        <text>połowa</text>
+      </translation>
+    </entry>
+    <entry id="511">
+      <translation id="0">
+        <text>点</text>
+      </translation>
+      <translation id="1">
+        <text>godzina (ang. o'clock)</text>
+      </translation>
+    </entry>
+    <entry id="512">
+      <translation id="0">
+        <text>每</text>
+      </translation>
+      <translation id="1">
+        <text>każdy</text>
+      </translation>
+    </entry>
+    <entry id="513">
+      <translation id="0">
+        <text>时候</text>
+      </translation>
+      <translation id="1">
+        <text>czas, moment</text>
+      </translation>
+    </entry>
+    <entry id="514">
+      <translation id="0">
+        <text>住</text>
+      </translation>
+      <translation id="1">
+        <text>żyć, zostać</text>
+      </translation>
+    </entry>
+    <entry id="515">
+      <translation id="0">
+        <text>宿舍</text>
+      </translation>
+      <translation id="1">
+        <text>akademik</text>
+      </translation>
+    </entry>
+    <entry id="516">
+      <translation id="0">
+        <text>凌晨</text>
+      </translation>
+      <translation id="1">
+        <text>w nocy (24:00-2:00)</text>
+      </translation>
+    </entry>
+    <entry id="517">
+      <translation id="0">
+        <text>傍晚</text>
+      </translation>
+      <translation id="1">
+        <text>o zmierzchu (17:00-18:00)</text>
+      </translation>
+    </entry>
+    <entry id="518">
+      <translation id="0">
+        <text>回国</text>
+      </translation>
+      <translation id="1">
+        <text>wracać do kraju</text>
+      </translation>
+    </entry>
+    <entry id="519">
+      <translation id="0">
+        <text>每本书</text>
+      </translation>
+      <translation id="1">
+        <text>każda książka</text>
+      </translation>
+    </entry>
+    <entry id="520">
+      <translation id="0">
+        <text>每个人</text>
+      </translation>
+      <translation id="1">
+        <text>każda osoba</text>
+      </translation>
+    </entry>
+    <entry id="521">
+      <translation id="0">
+        <text>什么时候</text>
+      </translation>
+      <translation id="1">
+        <text>o której godzinie?</text>
+      </translation>
+    </entry>
+    <entry id="522">
+      <translation id="0">
+        <text>夜里</text>
+      </translation>
+      <translation id="1">
+        <text>w nocy</text>
+      </translation>
+    </entry>
+    <entry id="523">
+      <translation id="0">
+        <text>刻</text>
+      </translation>
+      <translation id="1">
+        <text>kwadrans</text>
+      </translation>
+    </entry>
+    <entry id="524">
+      <translation id="0">
+        <text>秒</text>
+      </translation>
+      <translation id="1">
+        <text>sekunda</text>
+      </translation>
+    </entry>
+    <entry id="525">
+      <translation id="0">
+        <text>不到</text>
+      </translation>
+      <translation id="1">
+        <text>niewystarczająco, mniej</text>
+      </translation>
+    </entry>
+    <entry id="526">
+      <translation id="0">
+        <text>左右</text>
+      </translation>
+      <translation id="1">
+        <text>prawo i lewo, około, w przybliżeniu</text>
+      </translation>
+    </entry>
+    <entry id="527">
+      <translation id="0">
+        <text>大概</text>
+      </translation>
+      <translation id="1">
+        <text>prawdopodobnie</text>
+      </translation>
+    </entry>
+    <entry id="528">
+      <translation id="0">
+        <text>起床</text>
+      </translation>
+      <translation id="1">
+        <text>wstać z łóżka</text>
+      </translation>
+    </entry>
+    <entry id="529">
+      <translation id="0">
+        <text>学习</text>
+      </translation>
+      <translation id="1">
+        <text>uczyć się</text>
+      </translation>
+    </entry>
+    <entry id="530">
+      <translation id="0">
+        <text>下班</text>
+      </translation>
+      <translation id="1">
+        <text>kończyć pracę</text>
+      </translation>
+    </entry>
+    <entry id="531">
+      <translation id="0">
+        <text>下课</text>
+      </translation>
+      <translation id="1">
+        <text>kończyć lekcje</text>
+      </translation>
+    </entry>
+    <entry id="532">
+      <translation id="0">
+        <text>衣服</text>
+      </translation>
+      <translation id="1">
+        <text>ubrania</text>
+      </translation>
+    </entry>
+    <entry id="533">
+      <translation id="0">
+        <text>白天</text>
+      </translation>
+      <translation id="1">
+        <text>w trakcie dnia, dzień</text>
+      </translation>
+    </entry>
+    <entry id="534">
+      <translation id="0">
+        <text>考试</text>
+      </translation>
+      <translation id="1">
+        <text>egzamin</text>
+      </translation>
+    </entry>
+    <entry id="535">
+      <translation id="0">
+        <text>放假</text>
+      </translation>
+      <translation id="1">
+        <text>wakacje</text>
+      </translation>
+    </entry>
+    <entry id="536">
+      <translation id="0">
+        <text>圣诞树</text>
+      </translation>
+      <translation id="1">
+        <text>choinka</text>
+      </translation>
+    </entry>
+    <entry id="537">
+      <translation id="0">
+        <text>平安夜</text>
+      </translation>
+      <translation id="1">
+        <text>wigilia</text>
+      </translation>
+    </entry>
+    <entry id="538">
+      <translation id="0">
+        <text>圣诞卡片</text>
+      </translation>
+      <translation id="1">
+        <text>kartka z życzeniami z okazji Bożego Narodzenia</text>
+      </translation>
+    </entry>
+    <entry id="539">
+      <translation id="0">
+        <text>圣诞礼物</text>
+      </translation>
+      <translation id="1">
+        <text>prezent podczas świąt Bożego Narodzenia</text>
+      </translation>
+    </entry>
+    <entry id="540">
+      <translation id="0">
+        <text>快乐</text>
+      </translation>
+      <translation id="1">
+        <text>szczęśliwy, wesoły</text>
+      </translation>
+    </entry>
+    <entry id="541">
+      <translation id="0">
+        <text>祝</text>
+      </translation>
+      <translation id="1">
+        <text>życzyć (komuś), modlić się</text>
+      </translation>
+    </entry>
+    <entry id="542">
+      <translation id="0">
+        <text>祝你圣诞节快乐</text>
+      </translation>
+      <translation id="1">
+        <text>Życzę Ci wesołych świąt Bożego Narodzenia</text>
+      </translation>
+    </entry>
+    <entry id="543">
+      <translation id="0">
+        <text>部首</text>
+      </translation>
+      <translation id="1">
+        <text>klucz/pierwistek pisma chińskiego (ang. radical)</text>
+      </translation>
+    </entry>
+    <entry id="544">
+      <translation id="0">
+        <text>刀</text>
+      </translation>
+      <translation id="1">
+        <text>nóż</text>
+      </translation>
+    </entry>
+    <entry id="545">
+      <translation id="0">
+        <text>刂</text>
+      </translation>
+      <translation id="1">
+        <text>nóż [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="546">
+      <translation id="0">
+        <text>亻</text>
+      </translation>
+      <translation id="1">
+        <text>człowiek [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="547">
+      <translation id="0">
+        <text>土</text>
+      </translation>
+      <translation id="1">
+        <text>ziemia, grunt</text>
+      </translation>
+    </entry>
+    <entry id="548">
+      <translation id="0">
+        <text>犬</text>
+      </translation>
+      <translation id="1">
+        <text>pies, zwierzęta (o czterech nogach)</text>
+      </translation>
+    </entry>
+    <entry id="549">
+      <translation id="0">
+        <text>犭</text>
+      </translation>
+      <translation id="1">
+        <text>pies, zwierzęta (o czterech nogach) [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="550">
+      <translation id="0">
+        <text>心</text>
+      </translation>
+      <translation id="1">
+        <text>serce, emocje, czynności mentalne</text>
+      </translation>
+    </entry>
+    <entry id="551">
+      <translation id="0">
+        <text>忄</text>
+      </translation>
+      <translation id="1">
+        <text>serce, emocje, czynności mentalne [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="552">
+      <translation id="0">
+        <text>扌</text>
+      </translation>
+      <translation id="1">
+        <text>ręka, czynności wykonywane rękoma [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="553">
+      <translation id="0">
+        <text>氵</text>
+      </translation>
+      <translation id="1">
+        <text>woda [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="554">
+      <translation id="0">
+        <text>木</text>
+      </translation>
+      <translation id="1">
+        <text>drewno, drzewo</text>
+      </translation>
+    </entry>
+    <entry id="555">
+      <translation id="0">
+        <text>火</text>
+      </translation>
+      <translation id="1">
+        <text>ogień</text>
+      </translation>
+    </entry>
+    <entry id="556">
+      <translation id="0">
+        <text>灬</text>
+      </translation>
+      <translation id="1">
+        <text>ogień [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="557">
+      <translation id="0">
+        <text>目</text>
+      </translation>
+      <translation id="1">
+        <text>oko</text>
+      </translation>
+    </entry>
+    <entry id="558">
+      <translation id="0">
+        <text>禾</text>
+      </translation>
+      <translation id="1">
+        <text>zboże</text>
+      </translation>
+    </entry>
+    <entry id="559">
+      <translation id="0">
+        <text>玉</text>
+      </translation>
+      <translation id="1">
+        <text>jadeit</text>
+      </translation>
+    </entry>
+    <entry id="560">
+      <translation id="0">
+        <text>示</text>
+      </translation>
+      <translation id="1">
+        <text>objawić, boskość, świętość, obrzęd religijny</text>
+      </translation>
+    </entry>
+    <entry id="561">
+      <translation id="0">
+        <text>礻</text>
+      </translation>
+      <translation id="1">
+        <text>objawić, boskość, świętość, obrzęd religijny [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="562">
+      <translation id="0">
+        <text>石</text>
+      </translation>
+      <translation id="1">
+        <text>kamień</text>
+      </translation>
+    </entry>
+    <entry id="563">
+      <translation id="0">
+        <text>田</text>
+      </translation>
+      <translation id="1">
+        <text>pole (uprawne)</text>
+      </translation>
+    </entry>
+    <entry id="564">
+      <translation id="0">
+        <text>疒</text>
+      </translation>
+      <translation id="1">
+        <text>choroba</text>
+      </translation>
+    </entry>
+    <entry id="565">
+      <translation id="0">
+        <text>舌</text>
+      </translation>
+      <translation id="1">
+        <text>język (część ciała)</text>
+      </translation>
+    </entry>
+    <entry id="566">
+      <translation id="0">
+        <text>肉</text>
+      </translation>
+      <translation id="1">
+        <text>mięso, po lewej stronie znaku: część ciała</text>
+      </translation>
+    </entry>
+    <entry id="567">
+      <translation id="0">
+        <text>月</text>
+      </translation>
+      <translation id="1">
+        <text>mięso, po lewej stronie znaku: część ciała [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="568">
+      <translation id="0">
+        <text>虫</text>
+      </translation>
+      <translation id="1">
+        <text>owad</text>
+      </translation>
+    </entry>
+    <entry id="569">
+      <translation id="0">
+        <text>艹</text>
+      </translation>
+      <translation id="1">
+        <text>trawa, rośliny</text>
+      </translation>
+    </entry>
+    <entry id="570">
+      <translation id="0">
+        <text>耳</text>
+      </translation>
+      <translation id="1">
+        <text>ucho, po lewej stronie znaku: wzgórze, teren; po prawej stronie: miasto</text>
+      </translation>
+    </entry>
+    <entry id="571">
+      <translation id="0">
+        <text>阝</text>
+      </translation>
+      <translation id="1">
+        <text>ucho, po lewej stronie znaku: wzgórze, teren; po prawej stronie: miasto [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="572">
+      <translation id="0">
+        <text>衣</text>
+      </translation>
+      <translation id="1">
+        <text>ubrania</text>
+      </translation>
+    </entry>
+    <entry id="573">
+      <translation id="0">
+        <text>衤</text>
+      </translation>
+      <translation id="1">
+        <text>ubrania [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="574">
+      <translation id="0">
+        <text>竹</text>
+      </translation>
+      <translation id="1">
+        <text>bambus</text>
+      </translation>
+    </entry>
+    <entry id="575">
+      <translation id="0">
+        <text>⺮</text>
+      </translation>
+      <translation id="1">
+        <text>bambus [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="576">
+      <translation id="0">
+        <text>贝</text>
+      </translation>
+      <translation id="1">
+        <text>muszla, pieniądze, bogactwo</text>
+      </translation>
+    </entry>
+    <entry id="577">
+      <translation id="0">
+        <text>足</text>
+      </translation>
+      <translation id="1">
+        <text>stopa</text>
+      </translation>
+    </entry>
+    <entry id="578">
+      <translation id="0">
+        <text>𧾷</text>
+      </translation>
+      <translation id="1">
+        <text>stopa [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="579">
+      <translation id="0">
+        <text>门</text>
+      </translation>
+      <translation id="1">
+        <text>drzwi</text>
+      </translation>
+    </entry>
+    <entry id="580">
+      <translation id="0">
+        <text>雨</text>
+      </translation>
+      <translation id="1">
+        <text>deszcz</text>
+      </translation>
+    </entry>
+    <entry id="581">
+      <translation id="0">
+        <text>⻗</text>
+      </translation>
+      <translation id="1">
+        <text>deszcz [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="582">
+      <translation id="0">
+        <text>金</text>
+      </translation>
+      <translation id="1">
+        <text>złoto, metale</text>
+      </translation>
+    </entry>
+    <entry id="583">
+      <translation id="0">
+        <text>风</text>
+      </translation>
+      <translation id="1">
+        <text>wiatr</text>
+      </translation>
+    </entry>
+    <entry id="584">
+      <translation id="0">
+        <text>食</text>
+      </translation>
+      <translation id="1">
+        <text>jedzenie</text>
+      </translation>
+    </entry>
+    <entry id="585">
+      <translation id="0">
+        <text>饣</text>
+      </translation>
+      <translation id="1">
+        <text>jedzenie [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="586">
+      <translation id="0">
+        <text>讠</text>
+      </translation>
+      <translation id="1">
+        <text>język (komunikacyjny), mowa</text>
+      </translation>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Lekcja 1</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+      <entry id="22"/>
+      <entry id="23"/>
+      <entry id="24"/>
+      <entry id="25"/>
+      <entry id="26"/>
+      <entry id="27"/>
+      <entry id="28"/>
+      <entry id="29"/>
+      <entry id="30"/>
+      <entry id="31"/>
+    </container>
+    <container>
+      <name>Lekcja 2</name>
+      <inpractice>true</inpractice>
+      <entry id="32"/>
+      <entry id="33"/>
+      <entry id="34"/>
+      <entry id="35"/>
+      <entry id="36"/>
+      <entry id="37"/>
+      <entry id="38"/>
+      <entry id="39"/>
+      <entry id="40"/>
+      <entry id="41"/>
+      <entry id="42"/>
+      <entry id="43"/>
+      <entry id="44"/>
+      <entry id="45"/>
+      <entry id="46"/>
+      <entry id="47"/>
+      <entry id="48"/>
+      <entry id="49"/>
+      <entry id="50"/>
+      <entry id="51"/>
+      <entry id="52"/>
+      <entry id="53"/>
+      <entry id="54"/>
+      <entry id="55"/>
+      <entry id="56"/>
+      <entry id="57"/>
+      <entry id="58"/>
+      <entry id="59"/>
+      <entry id="60"/>
+      <entry id="61"/>
+      <entry id="62"/>
+      <entry id="63"/>
+      <entry id="64"/>
+      <entry id="65"/>
+      <entry id="66"/>
+      <entry id="67"/>
+      <entry id="68"/>
+      <entry id="69"/>
+      <entry id="70"/>
+      <entry id="71"/>
+      <entry id="72"/>
+      <entry id="73"/>
+      <entry id="74"/>
+      <entry id="75"/>
+      <entry id="76"/>
+      <entry id="77"/>
+      <entry id="78"/>
+      <entry id="79"/>
+      <entry id="80"/>
+      <entry id="81"/>
+      <entry id="82"/>
+      <entry id="83"/>
+      <entry id="84"/>
+      <entry id="85"/>
+      <entry id="86"/>
+      <entry id="87"/>
+      <entry id="88"/>
+      <entry id="89"/>
+      <entry id="90"/>
+      <entry id="91"/>
+      <entry id="92"/>
+      <entry id="93"/>
+      <entry id="94"/>
+      <entry id="95"/>
+      <entry id="96"/>
+      <entry id="97"/>
+      <entry id="98"/>
+      <entry id="99"/>
+      <entry id="100"/>
+      <entry id="101"/>
+    </container>
+    <container>
+      <name>Lekcja 3</name>
+      <inpractice>true</inpractice>
+      <entry id="102"/>
+      <entry id="103"/>
+      <entry id="104"/>
+      <entry id="105"/>
+      <entry id="106"/>
+      <entry id="107"/>
+      <entry id="108"/>
+      <entry id="109"/>
+      <entry id="110"/>
+      <entry id="111"/>
+      <entry id="112"/>
+      <entry id="113"/>
+      <entry id="114"/>
+      <entry id="115"/>
+      <entry id="116"/>
+      <entry id="117"/>
+      <entry id="118"/>
+      <entry id="119"/>
+      <entry id="120"/>
+      <entry id="121"/>
+      <entry id="122"/>
+      <entry id="123"/>
+      <entry id="124"/>
+      <entry id="125"/>
+      <entry id="126"/>
+    </container>
+    <container>
+      <name>Zwierzęta</name>
+      <inpractice>true</inpractice>
+      <entry id="127"/>
+      <entry id="128"/>
+      <entry id="129"/>
+      <entry id="130"/>
+      <entry id="131"/>
+      <entry id="132"/>
+      <entry id="133"/>
+      <entry id="134"/>
+      <entry id="135"/>
+      <entry id="136"/>
+      <entry id="137"/>
+      <entry id="138"/>
+      <entry id="139"/>
+      <entry id="140"/>
+      <entry id="141"/>
+      <entry id="142"/>
+      <entry id="143"/>
+      <entry id="144"/>
+      <entry id="145"/>
+      <entry id="146"/>
+      <entry id="147"/>
+      <entry id="148"/>
+    </container>
+    <container>
+      <name>Lekcja 4</name>
+      <inpractice>true</inpractice>
+      <entry id="149"/>
+      <entry id="150"/>
+      <entry id="151"/>
+      <entry id="152"/>
+      <entry id="153"/>
+      <entry id="154"/>
+      <entry id="155"/>
+      <entry id="156"/>
+      <entry id="157"/>
+      <entry id="158"/>
+      <entry id="159"/>
+      <entry id="160"/>
+      <entry id="161"/>
+      <entry id="162"/>
+      <entry id="163"/>
+      <entry id="164"/>
+      <entry id="165"/>
+      <entry id="166"/>
+      <entry id="167"/>
+      <entry id="168"/>
+      <entry id="169"/>
+      <entry id="170"/>
+      <entry id="171"/>
+      <entry id="172"/>
+      <entry id="173"/>
+      <entry id="174"/>
+      <entry id="175"/>
+      <entry id="176"/>
+      <entry id="177"/>
+      <entry id="178"/>
+      <entry id="179"/>
+      <entry id="180"/>
+      <entry id="181"/>
+      <entry id="182"/>
+      <entry id="183"/>
+      <entry id="184"/>
+      <entry id="185"/>
+      <entry id="186"/>
+      <entry id="187"/>
+      <entry id="188"/>
+      <entry id="189"/>
+      <entry id="190"/>
+      <entry id="191"/>
+      <entry id="192"/>
+      <entry id="193"/>
+      <entry id="194"/>
+    </container>
+    <container>
+      <name>Lekcja 5</name>
+      <inpractice>true</inpractice>
+      <entry id="195"/>
+      <entry id="196"/>
+      <entry id="197"/>
+      <entry id="198"/>
+      <entry id="199"/>
+      <entry id="200"/>
+      <entry id="201"/>
+      <entry id="202"/>
+      <entry id="203"/>
+      <entry id="204"/>
+      <entry id="205"/>
+      <entry id="206"/>
+      <entry id="207"/>
+      <entry id="208"/>
+      <entry id="209"/>
+      <entry id="210"/>
+      <entry id="211"/>
+      <entry id="212"/>
+      <entry id="213"/>
+      <entry id="214"/>
+      <entry id="215"/>
+      <entry id="216"/>
+      <entry id="217"/>
+      <entry id="218"/>
+      <entry id="219"/>
+      <entry id="220"/>
+      <entry id="221"/>
+      <entry id="222"/>
+      <entry id="223"/>
+      <entry id="224"/>
+      <entry id="225"/>
+      <entry id="226"/>
+      <entry id="227"/>
+      <entry id="228"/>
+      <entry id="229"/>
+      <entry id="230"/>
+      <entry id="231"/>
+      <entry id="232"/>
+      <entry id="233"/>
+      <entry id="234"/>
+      <entry id="235"/>
+      <entry id="236"/>
+      <entry id="237"/>
+      <entry id="238"/>
+      <entry id="239"/>
+      <entry id="240"/>
+      <entry id="241"/>
+      <entry id="242"/>
+      <entry id="243"/>
+      <entry id="244"/>
+    </container>
+    <container>
+      <name>Lekcja 6 - podstawowe</name>
+      <inpractice>true</inpractice>
+      <entry id="245"/>
+      <entry id="246"/>
+      <entry id="247"/>
+      <entry id="248"/>
+    </container>
+    <container>
+      <name>Lekcja 6 - dodatkowe</name>
+      <inpractice>true</inpractice>
+      <entry id="249"/>
+      <entry id="250"/>
+      <entry id="251"/>
+      <entry id="252"/>
+      <entry id="253"/>
+      <entry id="254"/>
+      <entry id="255"/>
+      <entry id="256"/>
+      <entry id="257"/>
+      <entry id="258"/>
+      <entry id="259"/>
+      <entry id="260"/>
+      <entry id="261"/>
+      <entry id="262"/>
+      <entry id="263"/>
+      <entry id="264"/>
+      <entry id="265"/>
+      <entry id="266"/>
+      <entry id="267"/>
+      <entry id="268"/>
+      <entry id="269"/>
+      <entry id="270"/>
+      <entry id="271"/>
+      <entry id="272"/>
+      <entry id="273"/>
+      <entry id="274"/>
+      <entry id="275"/>
+      <entry id="276"/>
+      <entry id="277"/>
+      <entry id="278"/>
+      <entry id="279"/>
+      <entry id="280"/>
+      <entry id="281"/>
+      <entry id="282"/>
+      <entry id="283"/>
+      <entry id="284"/>
+      <entry id="285"/>
+      <entry id="286"/>
+    </container>
+    <container>
+      <name>Lekcja 7 - podstawowe</name>
+      <inpractice>true</inpractice>
+      <entry id="287"/>
+      <entry id="288"/>
+      <entry id="289"/>
+      <entry id="290"/>
+      <entry id="291"/>
+      <entry id="292"/>
+      <entry id="293"/>
+      <entry id="294"/>
+      <entry id="295"/>
+    </container>
+    <container>
+      <name>Lekcja 7 - dodatkowe</name>
+      <inpractice>true</inpractice>
+      <entry id="296"/>
+      <entry id="297"/>
+      <entry id="298"/>
+      <entry id="299"/>
+      <entry id="300"/>
+      <entry id="301"/>
+      <entry id="302"/>
+      <entry id="303"/>
+      <entry id="304"/>
+      <entry id="305"/>
+      <entry id="306"/>
+      <entry id="307"/>
+      <entry id="308"/>
+      <entry id="309"/>
+      <entry id="310"/>
+      <entry id="311"/>
+      <entry id="312"/>
+      <entry id="313"/>
+      <entry id="314"/>
+      <entry id="315"/>
+      <entry id="316"/>
+      <entry id="317"/>
+      <entry id="318"/>
+      <entry id="319"/>
+      <entry id="320"/>
+      <entry id="321"/>
+      <entry id="322"/>
+      <entry id="323"/>
+      <entry id="324"/>
+      <entry id="325"/>
+      <entry id="326"/>
+      <entry id="327"/>
+      <entry id="328"/>
+      <entry id="329"/>
+      <entry id="330"/>
+      <entry id="331"/>
+      <entry id="332"/>
+      <entry id="333"/>
+      <entry id="334"/>
+      <entry id="335"/>
+      <entry id="336"/>
+      <entry id="337"/>
+      <entry id="338"/>
+      <entry id="339"/>
+      <entry id="340"/>
+      <entry id="341"/>
+      <entry id="342"/>
+      <entry id="343"/>
+      <entry id="344"/>
+      <entry id="345"/>
+      <entry id="346"/>
+      <entry id="347"/>
+      <entry id="348"/>
+      <entry id="349"/>
+      <entry id="350"/>
+      <entry id="351"/>
+      <entry id="352"/>
+      <entry id="353"/>
+      <entry id="354"/>
+      <entry id="355"/>
+      <entry id="356"/>
+      <entry id="357"/>
+      <entry id="358"/>
+      <entry id="359"/>
+    </container>
+    <container>
+      <name>Lekcja 7 - rozbicie długich słów</name>
+      <inpractice>true</inpractice>
+      <entry id="360"/>
+      <entry id="361"/>
+      <entry id="362"/>
+      <entry id="363"/>
+      <entry id="364"/>
+      <entry id="365"/>
+      <entry id="366"/>
+      <entry id="367"/>
+    </container>
+    <container>
+      <name>Lekcja 8 - podstawowe</name>
+      <entry id="368"/>
+      <entry id="369"/>
+      <entry id="370"/>
+      <entry id="371"/>
+      <entry id="372"/>
+      <entry id="373"/>
+      <entry id="374"/>
+      <entry id="375"/>
+      <entry id="376"/>
+    </container>
+    <container>
+      <name>Lekcja 8 - herbata</name>
+      <entry id="377"/>
+      <entry id="378"/>
+      <entry id="379"/>
+      <entry id="380"/>
+      <entry id="381"/>
+      <entry id="382"/>
+      <entry id="383"/>
+      <entry id="384"/>
+      <entry id="385"/>
+      <entry id="386"/>
+      <entry id="387"/>
+      <entry id="388"/>
+      <entry id="389"/>
+      <entry id="390"/>
+    </container>
+    <container>
+      <name>Lekcja 8 - rozbicie długich słów</name>
+      <entry id="391"/>
+      <entry id="392"/>
+      <entry id="393"/>
+      <entry id="394"/>
+    </container>
+    <container>
+      <name>Lekcja 8 - dodatkowe</name>
+      <entry id="395"/>
+      <entry id="396"/>
+      <entry id="397"/>
+      <entry id="398"/>
+      <entry id="399"/>
+      <entry id="400"/>
+      <entry id="401"/>
+      <entry id="402"/>
+      <entry id="403"/>
+      <entry id="404"/>
+      <entry id="405"/>
+      <entry id="406"/>
+      <entry id="407"/>
+      <entry id="408"/>
+      <entry id="409"/>
+      <entry id="410"/>
+      <entry id="411"/>
+      <entry id="412"/>
+      <entry id="413"/>
+      <entry id="414"/>
+      <entry id="415"/>
+      <entry id="416"/>
+      <entry id="417"/>
+      <entry id="418"/>
+      <entry id="419"/>
+      <entry id="420"/>
+      <entry id="421"/>
+      <entry id="422"/>
+      <entry id="423"/>
+      <entry id="424"/>
+      <entry id="425"/>
+      <entry id="426"/>
+      <entry id="427"/>
+      <entry id="428"/>
+      <entry id="429"/>
+      <entry id="430"/>
+      <entry id="431"/>
+      <entry id="432"/>
+      <entry id="433"/>
+      <entry id="434"/>
+      <entry id="435"/>
+      <entry id="436"/>
+      <entry id="437"/>
+      <entry id="438"/>
+      <entry id="439"/>
+    </container>
+    <container>
+      <name>Lekcja 9 - podstawowe</name>
+      <entry id="440"/>
+      <entry id="441"/>
+      <entry id="442"/>
+      <entry id="443"/>
+      <entry id="444"/>
+      <entry id="445"/>
+      <entry id="446"/>
+      <entry id="447"/>
+      <entry id="448"/>
+      <entry id="449"/>
+      <entry id="450"/>
+      <entry id="451"/>
+      <entry id="452"/>
+      <entry id="453"/>
+    </container>
+    <container>
+      <name>Lekcja 9 - dodatkowe</name>
+      <entry id="454"/>
+      <entry id="455"/>
+      <entry id="456"/>
+      <entry id="457"/>
+      <entry id="458"/>
+      <entry id="459"/>
+      <entry id="460"/>
+      <entry id="461"/>
+      <entry id="462"/>
+      <entry id="463"/>
+      <entry id="464"/>
+      <entry id="465"/>
+      <entry id="466"/>
+      <entry id="467"/>
+      <entry id="468"/>
+      <entry id="469"/>
+      <entry id="470"/>
+      <entry id="471"/>
+      <entry id="472"/>
+      <entry id="473"/>
+      <entry id="474"/>
+      <entry id="475"/>
+      <entry id="476"/>
+      <entry id="477"/>
+      <entry id="478"/>
+      <entry id="479"/>
+      <entry id="480"/>
+    </container>
+    <container>
+      <name>Lekcja 10 - podstawowe</name>
+      <entry id="481"/>
+      <entry id="482"/>
+      <entry id="483"/>
+      <entry id="484"/>
+      <entry id="485"/>
+      <entry id="486"/>
+      <entry id="487"/>
+      <entry id="488"/>
+    </container>
+    <container>
+      <name>Lekcja 10 - dodatkowe</name>
+      <entry id="489"/>
+      <entry id="490"/>
+      <entry id="491"/>
+      <entry id="492"/>
+      <entry id="493"/>
+      <entry id="494"/>
+      <entry id="495"/>
+      <entry id="496"/>
+      <entry id="497"/>
+      <entry id="498"/>
+      <entry id="499"/>
+      <entry id="500"/>
+      <entry id="501"/>
+      <entry id="502"/>
+      <entry id="503"/>
+      <entry id="504"/>
+      <entry id="505"/>
+      <entry id="506"/>
+    </container>
+    <container>
+      <name>Lekcja 11 - podstawowe</name>
+      <entry id="507"/>
+      <entry id="508"/>
+      <entry id="509"/>
+      <entry id="510"/>
+      <entry id="511"/>
+      <entry id="512"/>
+      <entry id="513"/>
+      <entry id="514"/>
+      <entry id="515"/>
+    </container>
+    <container>
+      <name>Lekcja 11 - dodatkowe</name>
+      <entry id="516"/>
+      <entry id="517"/>
+      <entry id="518"/>
+      <entry id="519"/>
+      <entry id="520"/>
+      <entry id="521"/>
+      <entry id="522"/>
+      <entry id="523"/>
+      <entry id="524"/>
+      <entry id="525"/>
+      <entry id="526"/>
+      <entry id="527"/>
+      <entry id="528"/>
+      <entry id="529"/>
+      <entry id="530"/>
+      <entry id="531"/>
+      <entry id="532"/>
+      <entry id="533"/>
+      <entry id="534"/>
+      <entry id="535"/>
+      <entry id="536"/>
+      <entry id="537"/>
+      <entry id="538"/>
+      <entry id="539"/>
+      <entry id="540"/>
+      <entry id="541"/>
+      <entry id="542"/>
+      <entry id="543"/>
+    </container>
+    <container>
+      <name>Klucze</name>
+      <entry id="544"/>
+      <entry id="545"/>
+      <entry id="546"/>
+      <entry id="547"/>
+      <entry id="548"/>
+      <entry id="549"/>
+      <entry id="550"/>
+      <entry id="551"/>
+      <entry id="552"/>
+      <entry id="553"/>
+      <entry id="554"/>
+      <entry id="555"/>
+      <entry id="556"/>
+      <entry id="557"/>
+      <entry id="558"/>
+      <entry id="559"/>
+      <entry id="560"/>
+      <entry id="561"/>
+      <entry id="562"/>
+      <entry id="563"/>
+      <entry id="564"/>
+      <entry id="565"/>
+      <entry id="566"/>
+      <entry id="567"/>
+      <entry id="568"/>
+      <entry id="569"/>
+      <entry id="570"/>
+      <entry id="571"/>
+      <entry id="572"/>
+      <entry id="573"/>
+      <entry id="574"/>
+      <entry id="575"/>
+      <entry id="576"/>
+      <entry id="577"/>
+      <entry id="578"/>
+      <entry id="579"/>
+      <entry id="580"/>
+      <entry id="581"/>
+      <entry id="582"/>
+      <entry id="583"/>
+      <entry id="584"/>
+      <entry id="585"/>
+      <entry id="586"/>
+    </container>
+  </lessons>
+  <wordtypes>
+    <container>
+      <name>Rzeczownik</name>
+      <specialwordtype>noun</specialwordtype>
+      <container>
+        <name>Męski</name>
+        <specialwordtype>noun/male</specialwordtype>
+      </container>
+      <container>
+        <name>Żeński</name>
+        <specialwordtype>noun/female</specialwordtype>
+      </container>
+      <container>
+        <name>Nijaki</name>
+        <specialwordtype>noun/neutral</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Czasownik</name>
+      <specialwordtype>verb</specialwordtype>
+    </container>
+    <container>
+      <name>Przymiotnik</name>
+      <specialwordtype>adjective</specialwordtype>
+    </container>
+    <container>
+      <name>Przysłówek</name>
+      <specialwordtype>adverb</specialwordtype>
+    </container>
+    <container>
+      <name>Spójnik</name>
+      <specialwordtype>conjunction</specialwordtype>
+    </container>
+  </wordtypes>
+</kvtml>
