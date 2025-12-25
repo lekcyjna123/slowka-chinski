@@ -25,6 +25,14 @@
       </translation>
       <translation id="1">
         <text>ty</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:56:00</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="1">
@@ -65,6 +73,14 @@
       </translation>
       <translation id="1">
         <text>sławny artysta / sportowiec</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:58:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="6">
@@ -81,6 +97,14 @@
       </translation>
       <translation id="1">
         <text>Japonia</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:14:50</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="8">
@@ -97,6 +121,14 @@
       </translation>
       <translation id="1">
         <text>Hiszpania</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:35:14</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="10">
@@ -113,6 +145,14 @@
       </translation>
       <translation id="1">
         <text>Chiny</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:14:15</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="12">
@@ -137,6 +177,14 @@
       </translation>
       <translation id="1">
         <text>student</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-25T16:56:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="15">
@@ -145,6 +193,14 @@
       </translation>
       <translation id="1">
         <text>Polska</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:39:11</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="16">
@@ -177,6 +233,14 @@
       </translation>
       <translation id="1">
         <text>kochać</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:40:38</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="20">
@@ -201,6 +265,14 @@
       </translation>
       <translation id="1">
         <text>nie ma sprawy</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:07:48</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="23">
@@ -233,6 +305,14 @@
       </translation>
       <translation id="1">
         <text>mówić</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:13:55</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="27">
@@ -241,6 +321,14 @@
       </translation>
       <translation id="1">
         <text>czytać, uczyć się, wymawiać</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:40:48</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="28">
@@ -257,6 +345,14 @@
       </translation>
       <translation id="1">
         <text>dobrze</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:34:19</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="30">
@@ -265,6 +361,14 @@
       </translation>
       <translation id="1">
         <text>on</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:48:40</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="31">
@@ -273,6 +377,14 @@
       </translation>
       <translation id="1">
         <text>ono (zwierzę)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:30:39</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="32">
@@ -313,6 +425,14 @@
       </translation>
       <translation id="1">
         <text>pięć</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:54:35</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="37">
@@ -433,6 +553,14 @@
       </translation>
       <translation id="1">
         <text>mieć, posiadać</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:35:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="52">
@@ -441,6 +569,14 @@
       </translation>
       <translation id="1">
         <text>kolega/koleżanka z klasy</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:49:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="53">
@@ -449,6 +585,14 @@
       </translation>
       <translation id="1">
         <text>ten sam, podobny, razem z [znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:10:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="54">
@@ -489,6 +633,14 @@
       </translation>
       <translation id="1">
         <text>ryż nieugotowany</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:30:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="59">
@@ -497,6 +649,14 @@
       </translation>
       <translation id="1">
         <text>jedzenie, posiłek</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:46:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="60">
@@ -505,6 +665,14 @@
       </translation>
       <translation id="1">
         <text>owoc</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T17:00:03</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="61">
@@ -513,6 +681,14 @@
       </translation>
       <translation id="1">
         <text>woda</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:48:28</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="62">
@@ -521,6 +697,14 @@
       </translation>
       <translation id="1">
         <text>herbata</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:16:26</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="63">
@@ -537,6 +721,14 @@
       </translation>
       <translation id="1">
         <text>pić</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:50:17</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="65">
@@ -545,6 +737,14 @@
       </translation>
       <translation id="1">
         <text>zero</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:32:50</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="66">
@@ -569,6 +769,14 @@
       </translation>
       <translation id="1">
         <text>ręka</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:47:55</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="69">
@@ -585,6 +793,14 @@
       </translation>
       <translation id="1">
         <text>personel, członek (jakiegoś zgomadzenia) [znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:17:23</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="71">
@@ -593,6 +809,14 @@
       </translation>
       <translation id="1">
         <text>wystawiać (przedstawienie, sztukę), ćwiczyć [znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:58:17</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="72">
@@ -601,6 +825,14 @@
       </translation>
       <translation id="1">
         <text>sportowiec, atleta</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:34:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="73">
@@ -609,6 +841,14 @@
       </translation>
       <translation id="1">
         <text>góra</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:31:06</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="74">
@@ -633,6 +873,14 @@
       </translation>
       <translation id="1">
         <text>niedźwiedź</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:48:25</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="77">
@@ -649,6 +897,14 @@
       </translation>
       <translation id="1">
         <text>gwiazda, planeta</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:53:22</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="79">
@@ -673,6 +929,14 @@
       </translation>
       <translation id="1">
         <text>rozgrzewać, podgrzewać</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:59:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="82">
@@ -681,6 +945,14 @@
       </translation>
       <translation id="1">
         <text>lodówka</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:29:10</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="83">
@@ -697,6 +969,14 @@
       </translation>
       <translation id="1">
         <text>kierowca</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:56:44</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="85">
@@ -705,6 +985,14 @@
       </translation>
       <translation id="1">
         <text>piłka do piłki nożnej</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:18:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="86">
@@ -729,6 +1017,14 @@
       </translation>
       <translation id="1">
         <text>wspinać się</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:30:50</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="89">
@@ -753,6 +1049,14 @@
       </translation>
       <translation id="1">
         <text>panda</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:48:32</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="92">
@@ -761,6 +1065,14 @@
       </translation>
       <translation id="1">
         <text>kot</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:16:19</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="93">
@@ -785,6 +1097,14 @@
       </translation>
       <translation id="1">
         <text>dużo, bardzo</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-25T16:59:07</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="96">
@@ -793,6 +1113,14 @@
       </translation>
       <translation id="1">
         <text>pytanie, problem</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:34:09</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="97">
@@ -801,6 +1129,14 @@
       </translation>
       <translation id="1">
         <text>książka, list, dokument</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:20:49</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="98">
@@ -817,6 +1153,14 @@
       </translation>
       <translation id="1">
         <text>wszędzie, (cząstka określająca akcje jednorazowe)</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:09:49</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="100">
@@ -841,6 +1185,14 @@
       </translation>
       <translation id="1">
         <text>kraj pochodzenia</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:30:06</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="103">
@@ -849,6 +1201,14 @@
       </translation>
       <translation id="1">
         <text>który</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:14:27</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="104">
@@ -865,6 +1225,14 @@
       </translation>
       <translation id="1">
         <text>tamten, tamta, tamto (odpowiednik that)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:24:22</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="106">
@@ -873,6 +1241,14 @@
       </translation>
       <translation id="1">
         <text>naukowiec (on/ona)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:12:05</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="107">
@@ -881,6 +1257,14 @@
       </translation>
       <translation id="1">
         <text>Włochy</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:28:29</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="108">
@@ -889,6 +1273,14 @@
       </translation>
       <translation id="1">
         <text>Francja</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:41:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="109">
@@ -913,6 +1305,14 @@
       </translation>
       <translation id="1">
         <text>odpoczynek, odpoczywać</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-25T16:41:27</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="112">
@@ -937,6 +1337,14 @@
       </translation>
       <translation id="1">
         <text>iteresować się, zainteresowanie, hobby</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:49:32</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="115">
@@ -953,6 +1361,14 @@
       </translation>
       <translation id="1">
         <text>banan</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:59:25</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="117">
@@ -961,6 +1377,14 @@
       </translation>
       <translation id="1">
         <text>tydzień, dzień tygodnia</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:31:11</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="118">
@@ -977,6 +1401,14 @@
       </translation>
       <translation id="1">
         <text>chiński znak</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:20:23</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="120">
@@ -1009,6 +1441,14 @@
       </translation>
       <translation id="1">
         <text>wczoraj</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:14:10</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="124">
@@ -1017,6 +1457,14 @@
       </translation>
       <translation id="1">
         <text>samodzielnie, własny</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:22:25</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="125">
@@ -1033,6 +1481,14 @@
       </translation>
       <translation id="1">
         <text>słowo, litera</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:16:24</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="127">
@@ -1057,6 +1513,14 @@
       </translation>
       <translation id="1">
         <text>wół</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:22:46</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="130">
@@ -1073,6 +1537,14 @@
       </translation>
       <translation id="1">
         <text>małpa</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:23:51</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="132">
@@ -1081,6 +1553,14 @@
       </translation>
       <translation id="1">
         <text>lampart</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:39:04</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="133">
@@ -1097,6 +1577,14 @@
       </translation>
       <translation id="1">
         <text>koń</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:48:38</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="135">
@@ -1113,6 +1601,14 @@
       </translation>
       <translation id="1">
         <text>wielbłąd</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:57:54</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="137">
@@ -1121,6 +1617,14 @@
       </translation>
       <translation id="1">
         <text>słoń</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:11:06</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="138">
@@ -1129,6 +1633,14 @@
       </translation>
       <translation id="1">
         <text>pies</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:28:49</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="139">
@@ -1137,6 +1649,14 @@
       </translation>
       <translation id="1">
         <text>nosorożec</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:13:46</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="140">
@@ -1161,6 +1681,14 @@
       </translation>
       <translation id="1">
         <text>osioł</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:59:35</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="143">
@@ -1185,6 +1713,14 @@
       </translation>
       <translation id="1">
         <text>rekin</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:49:05</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="146">
@@ -1209,6 +1745,14 @@
       </translation>
       <translation id="1">
         <text>paw</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:23:03</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="149">
@@ -1233,6 +1777,14 @@
       </translation>
       <translation id="1">
         <text>kto?</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:49:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="152">
@@ -1241,6 +1793,14 @@
       </translation>
       <translation id="1">
         <text>lubić</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:53:54</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="153">
@@ -1249,6 +1809,14 @@
       </translation>
       <translation id="1">
         <text>dom, rodzina</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:53:07</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="154">
@@ -1265,6 +1833,14 @@
       </translation>
       <translation id="1">
         <text>kobieta</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:49:12</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="156">
@@ -1273,6 +1849,14 @@
       </translation>
       <translation id="1">
         <text>mężczyzna</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:30:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="157">
@@ -1361,6 +1945,14 @@
       </translation>
       <translation id="1">
         <text>urodziny</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:47:25</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="168">
@@ -1377,6 +1969,14 @@
       </translation>
       <translation id="1">
         <text>wiedza</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:23:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="170">
@@ -1385,6 +1985,14 @@
       </translation>
       <translation id="1">
         <text>żywotny, hałaśliwy</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:18:11</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="171">
@@ -1409,6 +2017,14 @@
       </translation>
       <translation id="1">
         <text>fakt</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T17:00:38</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="174">
@@ -1425,6 +2041,14 @@
       </translation>
       <translation id="1">
         <text>centrum handlowe, plac targowy</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:16:44</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="176">
@@ -1473,6 +2097,14 @@
       </translation>
       <translation id="1">
         <text>pływać, pływanie</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:49:54</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="182">
@@ -1481,6 +2113,14 @@
       </translation>
       <translation id="1">
         <text>przydatny, mieć zastosowanie</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:33:19</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="183">
@@ -1505,6 +2145,14 @@
       </translation>
       <translation id="1">
         <text>bohater</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T17:00:40</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="186">
@@ -1521,6 +2169,14 @@
       </translation>
       <translation id="1">
         <text>powód, przyczyna</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:39:09</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="188">
@@ -1537,6 +2193,14 @@
       </translation>
       <translation id="1">
         <text>pochmurny dzień</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:55:02</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="190">
@@ -1609,6 +2273,14 @@
       </translation>
       <translation id="1">
         <text>(cząstka wskazująca na zmianę stanu)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:47:50</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="199">
@@ -1689,6 +2361,14 @@
       </translation>
       <translation id="1">
         <text>młodsza siostra</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:53:49</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="209">
@@ -1705,6 +2385,14 @@
       </translation>
       <translation id="1">
         <text>starszy brat</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:13:51</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="211">
@@ -1713,6 +2401,14 @@
       </translation>
       <translation id="1">
         <text>babcia (ze strony ojca)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:49:24</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="212">
@@ -1721,6 +2417,14 @@
       </translation>
       <translation id="1">
         <text>ojciec</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:59:31</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="213">
@@ -1729,6 +2433,14 @@
       </translation>
       <translation id="1">
         <text>babcia ze strony matki</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:35:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="214">
@@ -1753,6 +2465,14 @@
       </translation>
       <translation id="1">
         <text>żona</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:35:19</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="217">
@@ -1785,6 +2505,14 @@
       </translation>
       <translation id="1">
         <text>jak dużo?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:08:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="221">
@@ -1801,6 +2529,14 @@
       </translation>
       <translation id="1">
         <text>szkoła podstawowa</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:45:14</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="223">
@@ -1809,6 +2545,14 @@
       </translation>
       <translation id="1">
         <text>uniwersytet</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:49:41</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="224">
@@ -1817,6 +2561,14 @@
       </translation>
       <translation id="1">
         <text>następny</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:57:12</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="225">
@@ -1825,6 +2577,14 @@
       </translation>
       <translation id="1">
         <text>aktualny, obecny, współczesny</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:19:32</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="226">
@@ -1841,6 +2601,14 @@
       </translation>
       <translation id="1">
         <text>iść, niedawny</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:40:41</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="228">
@@ -1849,6 +2617,14 @@
       </translation>
       <translation id="1">
         <text>z tyłu, za, po (czymś), później</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:15:50</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="229">
@@ -1857,6 +2633,14 @@
       </translation>
       <translation id="1">
         <text>jak stary? jakiej wielkości?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:14:58</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="230">
@@ -1873,6 +2657,14 @@
       </translation>
       <translation id="1">
         <text>mały, młody</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:28:09</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="232">
@@ -1881,6 +2673,14 @@
       </translation>
       <translation id="1">
         <text>środek, w środku</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:48:11</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="233">
@@ -1889,6 +2689,14 @@
       </translation>
       <translation id="1">
         <text>mało, kilka</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:33:49</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="234">
@@ -1897,6 +2705,14 @@
       </translation>
       <translation id="1">
         <text>teściowa</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:32:05</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="235">
@@ -1913,6 +2729,14 @@
       </translation>
       <translation id="1">
         <text>butelka</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:58:09</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="237">
@@ -1937,6 +2761,14 @@
       </translation>
       <translation id="1">
         <text>teść</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:33:11</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="240">
@@ -1961,6 +2793,14 @@
       </translation>
       <translation id="1">
         <text>mały ptaszek</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:48:51</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="243">
@@ -1969,6 +2809,14 @@
       </translation>
       <translation id="1">
         <text>restauracja</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:22:54</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="244">
@@ -1977,6 +2825,14 @@
       </translation>
       <translation id="1">
         <text>otrzymać</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:53:46</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="245">
@@ -1985,6 +2841,14 @@
       </translation>
       <translation id="1">
         <text>kuchnia chińska</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:19:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="246">
@@ -2001,6 +2865,14 @@
       </translation>
       <translation id="1">
         <text>smaczne (jedzenie)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:28:58</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="248">
@@ -2009,6 +2881,14 @@
       </translation>
       <translation id="1">
         <text>jak? (w połączeniu z czasownikiem)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:09:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="249">
@@ -2017,6 +2897,14 @@
       </translation>
       <translation id="1">
         <text>Potrawy z jakiego kraju?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:49:16</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="250">
@@ -2025,6 +2913,14 @@
       </translation>
       <translation id="1">
         <text>gotować</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:57:15</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="251">
@@ -2049,6 +2945,14 @@
       </translation>
       <translation id="1">
         <text>język japoński</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:35:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="254">
@@ -2057,6 +2961,14 @@
       </translation>
       <translation id="1">
         <text>język koreański</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:16:10</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="255">
@@ -2073,6 +2985,14 @@
       </translation>
       <translation id="1">
         <text>Jak dużo znaków? (spodziewamy się mniej niż 10)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:07:33</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="257">
@@ -2097,6 +3017,14 @@
       </translation>
       <translation id="1">
         <text>pierogi</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:29:39</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="260">
@@ -2113,6 +3041,14 @@
       </translation>
       <translation id="1">
         <text>smaczny napój</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:40:27</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="262">
@@ -2121,6 +3057,14 @@
       </translation>
       <translation id="1">
         <text>dobrze wyglądający</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:16:30</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="263">
@@ -2137,6 +3081,14 @@
       </translation>
       <translation id="1">
         <text>grać, bawić się</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-25T16:30:33</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="265">
@@ -2145,6 +3097,14 @@
       </translation>
       <translation id="1">
         <text>mleko</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:48:12</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="266">
@@ -2161,6 +3121,14 @@
       </translation>
       <translation id="1">
         <text>telefon komórkowy</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:56:57</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="268">
@@ -2177,6 +3145,14 @@
       </translation>
       <translation id="1">
         <text>gra na telefon komórkowy</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:45:28</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="270">
@@ -2193,6 +3169,14 @@
       </translation>
       <translation id="1">
         <text>użyć, wykorzystać (coś)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:29:19</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="272">
@@ -2217,6 +3201,14 @@
       </translation>
       <translation id="1">
         <text>przystanek, peron</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:40:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="275">
@@ -2225,6 +3217,14 @@
       </translation>
       <translation id="1">
         <text>wspaniały, niesamowity</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:54:26</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="276">
@@ -2241,6 +3241,14 @@
       </translation>
       <translation id="1">
         <text>firma</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:40:34</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="278">
@@ -2289,6 +3297,14 @@
       </translation>
       <translation id="1">
         <text>martwić się o</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:35:08</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="284">
@@ -2313,6 +3329,14 @@
       </translation>
       <translation id="1">
         <text>szczęśliwy</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:54:23</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="287">
@@ -2345,6 +3369,14 @@
       </translation>
       <translation id="1">
         <text>dzisiaj</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:49:05</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="291">
@@ -2369,6 +3401,14 @@
       </translation>
       <translation id="1">
         <text>tydzień (krótka forma)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:34:35</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="294">
@@ -2385,6 +3425,14 @@
       </translation>
       <translation id="1">
         <text>numer (dnia, miesiąca)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:53:33</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="296">
@@ -2401,6 +3449,14 @@
       </translation>
       <translation id="1">
         <text>dwa lata</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:30:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="298">
@@ -2425,6 +3481,14 @@
       </translation>
       <translation id="1">
         <text>czytać książkę, uczyć się</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:58:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="301">
@@ -2433,6 +3497,14 @@
       </translation>
       <translation id="1">
         <text>listopad</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:48:20</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="302">
@@ -2457,6 +3529,14 @@
       </translation>
       <translation id="1">
         <text>sierpień</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:47:35</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="305">
@@ -2529,6 +3609,14 @@
       </translation>
       <translation id="1">
         <text>sobota</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:07:20</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="314">
@@ -2537,6 +3625,14 @@
       </translation>
       <translation id="1">
         <text>piątek</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:28:37</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="315">
@@ -2585,6 +3681,14 @@
       </translation>
       <translation id="1">
         <text>Przepraszam, czy mogę zapytać?</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:41:58</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="321">
@@ -2625,6 +3729,14 @@
       </translation>
       <translation id="1">
         <text>Boże Narodzenie</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:46:44</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="326">
@@ -2657,6 +3769,14 @@
       </translation>
       <translation id="1">
         <text>lekarz</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:10:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="330">
@@ -2681,6 +3801,14 @@
       </translation>
       <translation id="1">
         <text>czas, punkt w czasie, czas trwania</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:38:17</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="333">
@@ -2689,6 +3817,14 @@
       </translation>
       <translation id="1">
         <text>uczęszczać na zajęcia</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:18:38</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="334">
@@ -2721,6 +3857,14 @@
       </translation>
       <translation id="1">
         <text>biblioteka</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:56:07</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="338">
@@ -2737,6 +3881,14 @@
       </translation>
       <translation id="1">
         <text>słownik</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:54:17</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="340">
@@ -2761,6 +3913,14 @@
       </translation>
       <translation id="1">
         <text>środowisko, otoczenie</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:37:40</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="343">
@@ -2801,6 +3961,14 @@
       </translation>
       <translation id="1">
         <text>młody</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:59:34</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="348">
@@ -2817,6 +3985,14 @@
       </translation>
       <translation id="1">
         <text>szczur</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:14:41</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="350">
@@ -2833,6 +4009,14 @@
       </translation>
       <translation id="1">
         <text>smok</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-25T16:48:06</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="352">
@@ -2841,6 +4025,14 @@
       </translation>
       <translation id="1">
         <text>wąż</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:06:24</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="353">
@@ -2849,6 +4041,14 @@
       </translation>
       <translation id="1">
         <text>kura/kurczak</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:35:49</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="354">
@@ -2873,6 +4073,14 @@
       </translation>
       <translation id="1">
         <text>ładny</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:34:40</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="357">
@@ -2889,6 +4097,14 @@
       </translation>
       <translation id="1">
         <text>uwodzicielski, erotyczny</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:57:48</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="359">
@@ -2913,6 +4129,14 @@
       </translation>
       <translation id="1">
         <text>mapa, diagram, wykres</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:14:19</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="362">
@@ -2929,6 +4153,14 @@
       </translation>
       <translation id="1">
         <text>pomiędzy, pokój, (kwantyfikator dla pokoi)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:47:11</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="364">
@@ -2937,6 +4169,14 @@
       </translation>
       <translation id="1">
         <text>szyja</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:06:19</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="365">
@@ -2945,6 +4185,14 @@
       </translation>
       <translation id="1">
         <text>długi</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:40:43</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="366">
@@ -2969,6 +4217,14 @@
       </translation>
       <translation id="1">
         <text>wczoraj</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:56:48</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="369">
@@ -2977,6 +4233,14 @@
       </translation>
       <translation id="1">
         <text>kubek, szklanka</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:28:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="370">
@@ -2985,6 +4249,14 @@
       </translation>
       <translation id="1">
         <text>pieniądze, monety</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-25T16:56:35</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="371">
@@ -3001,6 +4273,14 @@
       </translation>
       <translation id="1">
         <text>sklep</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:48:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="373">
@@ -3017,6 +4297,14 @@
       </translation>
       <translation id="1">
         <text>kupować</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:34:44</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="375">
@@ -3025,6 +4313,14 @@
       </translation>
       <translation id="1">
         <text>(kwantyfikator dla pieniędzy)</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T17:00:29</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="376">
@@ -3073,6 +4369,14 @@
       </translation>
       <translation id="1">
         <text>herbata aromatyzowana</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:50:09</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="382">
@@ -3105,6 +4409,14 @@
       </translation>
       <translation id="1">
         <text>poranna herbata</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:16:38</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="386">
@@ -3137,6 +4449,14 @@
       </translation>
       <translation id="1">
         <text>woreczek herbaty</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:59:44</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="390">
@@ -3153,6 +4473,14 @@
       </translation>
       <translation id="1">
         <text>kupiec, handel</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:20:14</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="392">
@@ -3169,6 +4497,14 @@
       </translation>
       <translation id="1">
         <text>zielony</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:22:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="394">
@@ -3177,6 +4513,14 @@
       </translation>
       <translation id="1">
         <text>czerwony</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:12:54</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="395">
@@ -3553,6 +4897,14 @@
       </translation>
       <translation id="1">
         <text>tam</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:40:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="442">
@@ -3569,6 +4921,14 @@
       </translation>
       <translation id="1">
         <text>pracować</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-25T16:41:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="444">
@@ -3585,6 +4945,14 @@
       </translation>
       <translation id="1">
         <text>(być) w/na</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:41:08</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="446">
@@ -3609,6 +4977,14 @@
       </translation>
       <translation id="1">
         <text>prawa strona</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-25T16:54:19</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="449">
@@ -3617,6 +4993,14 @@
       </translation>
       <translation id="1">
         <text>z tyłu</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:37:22</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="450">
@@ -3625,6 +5009,14 @@
       </translation>
       <translation id="1">
         <text>górna strona</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:30:18</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="451">
@@ -3641,6 +5033,14 @@
       </translation>
       <translation id="1">
         <text>lewa strona</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:30:27</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="453">
@@ -3889,6 +5289,14 @@
       </translation>
       <translation id="1">
         <text>stać, zatrzymać się</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:55:58</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="484">
@@ -4105,6 +5513,14 @@
       </translation>
       <translation id="1">
         <text>połowa</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:57:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="511">
@@ -4121,6 +5537,14 @@
       </translation>
       <translation id="1">
         <text>każdy</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:38:07</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="513">
@@ -4129,6 +5553,14 @@
       </translation>
       <translation id="1">
         <text>czas, moment</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:19:28</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="514">
@@ -4137,6 +5569,14 @@
       </translation>
       <translation id="1">
         <text>żyć, zostać</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:32:38</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="515">
@@ -4377,6 +5817,14 @@
       </translation>
       <translation id="1">
         <text>nóż</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:33:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="545">
@@ -4385,6 +5833,14 @@
       </translation>
       <translation id="1">
         <text>nóż [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:49:49</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="546">
@@ -4393,6 +5849,14 @@
       </translation>
       <translation id="1">
         <text>człowiek [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:57:24</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="547">
@@ -4401,6 +5865,14 @@
       </translation>
       <translation id="1">
         <text>ziemia, grunt</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:59:17</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="548">
@@ -4409,6 +5881,14 @@
       </translation>
       <translation id="1">
         <text>pies, zwierzęta (o czterech nogach)</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:53:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="549">
@@ -4417,6 +5897,14 @@
       </translation>
       <translation id="1">
         <text>pies, zwierzęta (o czterech nogach) [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:59:58</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="550">
@@ -4425,6 +5913,14 @@
       </translation>
       <translation id="1">
         <text>serce, emocje, czynności mentalne</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:50:20</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="551">
@@ -4433,6 +5929,14 @@
       </translation>
       <translation id="1">
         <text>serce, emocje, czynności mentalne [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:55:49</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="552">
@@ -4441,6 +5945,14 @@
       </translation>
       <translation id="1">
         <text>ręka, czynności wykonywane rękoma [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:58:41</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="553">
@@ -4449,6 +5961,14 @@
       </translation>
       <translation id="1">
         <text>woda [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:05:33</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="554">
@@ -4457,6 +5977,14 @@
       </translation>
       <translation id="1">
         <text>drewno, drzewo</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:58:52</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="555">
@@ -4465,6 +5993,14 @@
       </translation>
       <translation id="1">
         <text>ogień</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:31:20</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="556">
@@ -4473,6 +6009,14 @@
       </translation>
       <translation id="1">
         <text>ogień [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T16:05:22</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="557">
@@ -4481,6 +6025,14 @@
       </translation>
       <translation id="1">
         <text>oko</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:53:09</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="558">
@@ -4489,6 +6041,14 @@
       </translation>
       <translation id="1">
         <text>zboże</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:37:34</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="559">
@@ -4497,6 +6057,14 @@
       </translation>
       <translation id="1">
         <text>jadeit</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:33:14</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="560">
@@ -4505,6 +6073,14 @@
       </translation>
       <translation id="1">
         <text>objawić, boskość, świętość, obrzęd religijny</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:29:55</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="561">
@@ -4513,6 +6089,14 @@
       </translation>
       <translation id="1">
         <text>objawić, boskość, świętość, obrzęd religijny [zdeformowany znak]</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:39:38</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="562">
@@ -4521,6 +6105,14 @@
       </translation>
       <translation id="1">
         <text>kamień</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:37:27</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="563">
@@ -4529,6 +6121,14 @@
       </translation>
       <translation id="1">
         <text>pole (uprawne)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:58:02</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="564">
@@ -4537,6 +6137,14 @@
       </translation>
       <translation id="1">
         <text>choroba</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:57:50</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="565">
@@ -4545,6 +6153,14 @@
       </translation>
       <translation id="1">
         <text>język (część ciała)</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-25T16:15:55</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="566">
@@ -4553,6 +6169,14 @@
       </translation>
       <translation id="1">
         <text>mięso, po lewej stronie znaku: część ciała</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:56:05</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="567">
@@ -4561,6 +6185,14 @@
       </translation>
       <translation id="1">
         <text>mięso, po lewej stronie znaku: część ciała [zdeformowany znak]</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:38:50</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="568">
@@ -4569,6 +6201,14 @@
       </translation>
       <translation id="1">
         <text>owad</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:49:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="569">
@@ -4577,6 +6217,14 @@
       </translation>
       <translation id="1">
         <text>trawa, rośliny</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:57:26</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="570">
@@ -4585,6 +6233,14 @@
       </translation>
       <translation id="1">
         <text>ucho, po lewej stronie znaku: wzgórze, teren; po prawej stronie: miasto</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-25T16:22:22</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="571">
@@ -4593,6 +6249,14 @@
       </translation>
       <translation id="1">
         <text>ucho, po lewej stronie znaku: wzgórze, teren; po prawej stronie: miasto [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:57:22</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="572">
@@ -4601,6 +6265,14 @@
       </translation>
       <translation id="1">
         <text>ubrania</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:53:52</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="573">
@@ -4609,6 +6281,14 @@
       </translation>
       <translation id="1">
         <text>ubrania [zdeformowany znak]</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:33:44</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="574">
@@ -4617,6 +6297,14 @@
       </translation>
       <translation id="1">
         <text>bambus</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:34:11</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="575">
@@ -4625,6 +6313,14 @@
       </translation>
       <translation id="1">
         <text>bambus [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:55:46</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="576">
@@ -4633,6 +6329,14 @@
       </translation>
       <translation id="1">
         <text>muszla, pieniądze, bogactwo</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:50:12</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="577">
@@ -4641,6 +6345,14 @@
       </translation>
       <translation id="1">
         <text>stopa</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:55:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="578">
@@ -4649,6 +6361,14 @@
       </translation>
       <translation id="1">
         <text>stopa [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:55:41</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="579">
@@ -4657,6 +6377,14 @@
       </translation>
       <translation id="1">
         <text>drzwi</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:55:02</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="580">
@@ -4665,6 +6393,14 @@
       </translation>
       <translation id="1">
         <text>deszcz</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:58:29</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="581">
@@ -4673,6 +6409,14 @@
       </translation>
       <translation id="1">
         <text>deszcz [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:59:47</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="582">
@@ -4681,6 +6425,14 @@
       </translation>
       <translation id="1">
         <text>złoto, metale</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:40:22</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="583">
@@ -4689,6 +6441,14 @@
       </translation>
       <translation id="1">
         <text>wiatr</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:58:48</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="584">
@@ -4697,6 +6457,14 @@
       </translation>
       <translation id="1">
         <text>jedzenie</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-25T16:34:31</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="585">
@@ -4705,6 +6473,14 @@
       </translation>
       <translation id="1">
         <text>jedzenie [zdeformowany znak]</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:59:13</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="586">
@@ -4713,6 +6489,14 @@
       </translation>
       <translation id="1">
         <text>język (komunikacyjny), mowa</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-25T15:56:19</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
   </entries>
@@ -5131,6 +6915,7 @@
     </container>
     <container>
       <name>Lekcja 8 - podstawowe</name>
+      <inpractice>true</inpractice>
       <entry id="368"/>
       <entry id="369"/>
       <entry id="370"/>
@@ -5143,6 +6928,7 @@
     </container>
     <container>
       <name>Lekcja 8 - herbata</name>
+      <inpractice>true</inpractice>
       <entry id="377"/>
       <entry id="378"/>
       <entry id="379"/>
@@ -5160,6 +6946,7 @@
     </container>
     <container>
       <name>Lekcja 8 - rozbicie długich słów</name>
+      <inpractice>true</inpractice>
       <entry id="391"/>
       <entry id="392"/>
       <entry id="393"/>
@@ -5215,6 +7002,7 @@
     </container>
     <container>
       <name>Lekcja 9 - podstawowe</name>
+      <inpractice>true</inpractice>
       <entry id="440"/>
       <entry id="441"/>
       <entry id="442"/>
@@ -5262,6 +7050,7 @@
     </container>
     <container>
       <name>Lekcja 10 - podstawowe</name>
+      <inpractice>true</inpractice>
       <entry id="481"/>
       <entry id="482"/>
       <entry id="483"/>
@@ -5294,6 +7083,7 @@
     </container>
     <container>
       <name>Lekcja 11 - podstawowe</name>
+      <inpractice>true</inpractice>
       <entry id="507"/>
       <entry id="508"/>
       <entry id="509"/>
@@ -5337,6 +7127,7 @@
     </container>
     <container>
       <name>Klucze</name>
+      <inpractice>true</inpractice>
       <entry id="544"/>
       <entry id="545"/>
       <entry id="546"/>
