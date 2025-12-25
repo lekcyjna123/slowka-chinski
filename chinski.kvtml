@@ -10791,6 +10791,399 @@
         <text>Życzę Ci wesołych świąt Bożego Narodzenia</text>
       </translation>
     </entry>
+    <entry id="543">
+      <translation id="0">
+        <text>部首</text>
+        <pronunciation>bù​shǒu​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>klucz/pierwistek pisma chińskiego (ang. radical)</text>
+      </translation>
+    </entry>
+    <entry id="544">
+      <translation id="0">
+        <text>刀</text>
+        <pronunciation>dāo</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>nóż</text>
+      </translation>
+    </entry>
+    <entry id="545">
+      <translation id="0">
+        <text>刂</text>
+        <pronunciation>dāo</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>nóż [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="546">
+      <translation id="0">
+        <text>亻</text>
+        <pronunciation>rén</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>człowiek [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="547">
+      <translation id="0">
+        <text>土</text>
+        <pronunciation>tǔ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ziemia, grunt</text>
+      </translation>
+    </entry>
+    <entry id="548">
+      <translation id="0">
+        <text>犬</text>
+        <pronunciation>quǎn</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>pies, zwierzęta (o czterech nogach)</text>
+      </translation>
+    </entry>
+    <entry id="549">
+      <translation id="0">
+        <text>犭</text>
+        <pronunciation>quǎn</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>pies, zwierzęta (o czterech nogach) [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="550">
+      <translation id="0">
+        <text>心</text>
+        <pronunciation>xīn</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>serce, emocje, czynności mentalne</text>
+      </translation>
+    </entry>
+    <entry id="551">
+      <translation id="0">
+        <text>忄</text>
+        <pronunciation>xīn</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>serce, emocje, czynności mentalne [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="552">
+      <translation id="0">
+        <text>扌</text>
+        <pronunciation>shǒu</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ręka, czynności wykonywane rękoma [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="553">
+      <translation id="0">
+        <text>氵</text>
+        <pronunciation>shuǐ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>woda [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="554">
+      <translation id="0">
+        <text>木</text>
+        <pronunciation>mù</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>drewno, drzewo</text>
+      </translation>
+    </entry>
+    <entry id="555">
+      <translation id="0">
+        <text>火</text>
+        <pronunciation>huǒ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ogień</text>
+      </translation>
+    </entry>
+    <entry id="556">
+      <translation id="0">
+        <text>灬</text>
+        <pronunciation>huǒ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ogień [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="557">
+      <translation id="0">
+        <text>目</text>
+        <pronunciation>mù</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>oko</text>
+      </translation>
+    </entry>
+    <entry id="558">
+      <translation id="0">
+        <text>禾</text>
+        <pronunciation>hé</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>zboże</text>
+      </translation>
+    </entry>
+    <entry id="559">
+      <translation id="0">
+        <text>玉</text>
+        <pronunciation>yù</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>jadeit</text>
+      </translation>
+    </entry>
+    <entry id="560">
+      <translation id="0">
+        <text>示</text>
+        <pronunciation>shì</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>objawić, boskość, świętość, obrzęd religijny</text>
+      </translation>
+    </entry>
+    <entry id="561">
+      <translation id="0">
+        <text>礻</text>
+        <pronunciation>shì</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>objawić, boskość, świętość, obrzęd religijny [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="562">
+      <translation id="0">
+        <text>石</text>
+        <pronunciation>shí</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>kamień</text>
+      </translation>
+    </entry>
+    <entry id="563">
+      <translation id="0">
+        <text>田</text>
+        <pronunciation>tián</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>pole (uprawne)</text>
+      </translation>
+    </entry>
+    <entry id="564">
+      <translation id="0">
+        <text>疒</text>
+      </translation>
+      <translation id="1">
+        <text>choroba</text>
+      </translation>
+    </entry>
+    <entry id="565">
+      <translation id="0">
+        <text>舌</text>
+        <pronunciation>shé</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>język (część ciała)</text>
+      </translation>
+    </entry>
+    <entry id="566">
+      <translation id="0">
+        <text>肉</text>
+        <pronunciation>ròu</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>mięso, po lewej stronie znaku: część ciała</text>
+      </translation>
+    </entry>
+    <entry id="567">
+      <translation id="0">
+        <text>月</text>
+        <pronunciation>ròu</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>mięso, po lewej stronie znaku: część ciała [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="568">
+      <translation id="0">
+        <text>虫</text>
+        <pronunciation>chóng</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>owad</text>
+      </translation>
+    </entry>
+    <entry id="569">
+      <translation id="0">
+        <text>艹</text>
+      </translation>
+      <translation id="1">
+        <text>trawa, rośliny</text>
+      </translation>
+    </entry>
+    <entry id="570">
+      <translation id="0">
+        <text>耳</text>
+        <pronunciation>ěr</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ucho, po lewej stronie znaku: wzgórze, teren; po prawej stronie: miasto</text>
+      </translation>
+    </entry>
+    <entry id="571">
+      <translation id="0">
+        <text>阝</text>
+        <pronunciation>ěr</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ucho, po lewej stronie znaku: wzgórze, teren; po prawej stronie: miasto [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="572">
+      <translation id="0">
+        <text>衣</text>
+        <pronunciation>yī</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ubrania</text>
+      </translation>
+    </entry>
+    <entry id="573">
+      <translation id="0">
+        <text>衤</text>
+        <pronunciation>yī</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ubrania [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="574">
+      <translation id="0">
+        <text>竹</text>
+        <pronunciation>zhú</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>bambus</text>
+      </translation>
+    </entry>
+    <entry id="575">
+      <translation id="0">
+        <text>⺮</text>
+        <pronunciation>zhú</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>bambus [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="576">
+      <translation id="0">
+        <text>贝</text>
+        <pronunciation>bèi</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>muszla, pieniądze, bogactwo</text>
+      </translation>
+    </entry>
+    <entry id="577">
+      <translation id="0">
+        <text>足</text>
+        <pronunciation>zú</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>stopa</text>
+      </translation>
+    </entry>
+    <entry id="578">
+      <translation id="0">
+        <text>𧾷</text>
+        <pronunciation>zú</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>stopa [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="579">
+      <translation id="0">
+        <text>门</text>
+        <pronunciation>mén</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>drzwi</text>
+      </translation>
+    </entry>
+    <entry id="580">
+      <translation id="0">
+        <text>雨</text>
+        <pronunciation>yǔ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>deszcz</text>
+      </translation>
+    </entry>
+    <entry id="581">
+      <translation id="0">
+        <text>⻗</text>
+        <pronunciation>yǔ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>deszcz [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="582">
+      <translation id="0">
+        <text>金</text>
+        <pronunciation>jīn</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>złoto, metale</text>
+      </translation>
+    </entry>
+    <entry id="583">
+      <translation id="0">
+        <text>风</text>
+        <pronunciation>fēng</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>wiatr</text>
+      </translation>
+    </entry>
+    <entry id="584">
+      <translation id="0">
+        <text>食</text>
+        <pronunciation>shí</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>jedzenie</text>
+      </translation>
+    </entry>
+    <entry id="585">
+      <translation id="0">
+        <text>饣</text>
+        <pronunciation>shí</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>jedzenie [zdeformowany znak]</text>
+      </translation>
+    </entry>
+    <entry id="586">
+      <translation id="0">
+        <text>讠</text>
+      </translation>
+      <translation id="1">
+        <text>język (komunikacyjny), mowa</text>
+      </translation>
+    </entry>
   </entries>
   <lessons>
     <container>
@@ -11409,6 +11802,53 @@
       <entry id="540"/>
       <entry id="541"/>
       <entry id="542"/>
+      <entry id="543"/>
+    </container>
+    <container>
+      <name>Klucze</name>
+      <entry id="544"/>
+      <entry id="545"/>
+      <entry id="546"/>
+      <entry id="547"/>
+      <entry id="548"/>
+      <entry id="549"/>
+      <entry id="550"/>
+      <entry id="551"/>
+      <entry id="552"/>
+      <entry id="553"/>
+      <entry id="554"/>
+      <entry id="555"/>
+      <entry id="556"/>
+      <entry id="557"/>
+      <entry id="558"/>
+      <entry id="559"/>
+      <entry id="560"/>
+      <entry id="561"/>
+      <entry id="562"/>
+      <entry id="563"/>
+      <entry id="564"/>
+      <entry id="565"/>
+      <entry id="566"/>
+      <entry id="567"/>
+      <entry id="568"/>
+      <entry id="569"/>
+      <entry id="570"/>
+      <entry id="571"/>
+      <entry id="572"/>
+      <entry id="573"/>
+      <entry id="574"/>
+      <entry id="575"/>
+      <entry id="576"/>
+      <entry id="577"/>
+      <entry id="578"/>
+      <entry id="579"/>
+      <entry id="580"/>
+      <entry id="581"/>
+      <entry id="582"/>
+      <entry id="583"/>
+      <entry id="584"/>
+      <entry id="585"/>
+      <entry id="586"/>
     </container>
   </lessons>
   <wordtypes>
