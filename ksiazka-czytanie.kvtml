@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>Parley 25.08.3</generator>
+    <title>Książka czytanie</title>
+    <license>Domena publiczna</license>
+    <date>2025-12-29</date>
+    <category>Języki</category>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>中文 (中国)</name>
+      <locale>zh_CN</locale>
+    </identifier>
+    <identifier id="1">
+      <name>polski (Polska)</name>
+      <locale>pl_PL</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>古</text>
+        
+      </translation>
+      <translation id="1">
+        <text>antyczny</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>恩</text>
+        
+      </translation>
+      <translation id="1">
+        <text>przychylność</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>北</text>
+        
+      </translation>
+      <translation id="1">
+        <text>północ</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>境</text>
+        
+      </translation>
+      <translation id="1">
+        <text>granica (np. kraju)</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>芬</text>
+        
+      </translation>
+      <translation id="1">
+        <text>perfumy, zapach</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>城</text>
+        
+      </translation>
+      <translation id="1">
+        <text>mury miejskie, miasto</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>港</text>
+        
+      </translation>
+      <translation id="1">
+        <text>port (wodny, dla statków)</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>黑</text>
+        
+      </translation>
+      <translation id="1">
+        <text>mroczny, ciemny</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>夜</text>
+        
+      </translation>
+      <translation id="1">
+        <text>noc</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>冷</text>
+        
+      </translation>
+      <translation id="1">
+        <text>zimny</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:23:24</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>得</text>
+        
+      </translation>
+      <translation id="1">
+        <text>musieć</text>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>像</text>
+        
+      </translation>
+      <translation id="1">
+        <text>wyglądać (jak), przypominać</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>骨头</text>
+        
+      </translation>
+      <translation id="1">
+        <text>kość</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>缝</text>
+        
+      </translation>
+      <translation id="1">
+        <text>szyć, zszywać / szew, pęknięcie, pękać</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:23:39</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>冰碴</text>
+        
+      </translation>
+      <translation id="1">
+        <text>odłamki lodu</text>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>塞</text>
+        
+      </translation>
+      <translation id="1">
+        <text>wsadzać, wypełniać</text>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>维</text>
+        
+      </translation>
+      <translation id="1">
+        <text>utrzymywać</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>克</text>
+        
+      </translation>
+      <translation id="1">
+        <text>być w stanie, przezwyciężyć (trudności)</text>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>烘焙店</text>
+        
+      </translation>
+      <translation id="1">
+        <text>piekarnia</text>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>胖</text>
+        
+      </translation>
+      <translation id="1">
+        <text>gruby</text>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>柜台</text>
+        
+      </translation>
+      <translation id="1">
+        <text>kontuar, bar</text>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>打折</text>
+        
+      </translation>
+      <translation id="1">
+        <text>dawać zniżkę</text>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>盯</text>
+        
+      </translation>
+      <translation id="1">
+        <text>wpatrywać się w</text>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>最</text>
+        
+      </translation>
+      <translation id="1">
+        <text>w najwyższym stopniu (przed czasownikiem lub przymiotnikiem)</text>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>有些</text>
+        
+      </translation>
+      <translation id="1">
+        <text>trochę, nieco</text>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>烤焦</text>
+        
+      </translation>
+      <translation id="1">
+        <text>spalone (jedzenie)</text>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>肉松</text>
+        
+      </translation>
+      <translation id="1">
+        <text>mięsna nić (składnik potraw będący wysyszonym i bardzo drobno posiekanym mięsem)</text>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>卷</text>
+        
+      </translation>
+      <translation id="1">
+        <text>zwinięty, otoczony</text>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>喉结</text>
+        
+      </translation>
+      <translation id="1">
+        <text>jabłko Adama</text>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>滚动</text>
+        
+      </translation>
+      <translation id="1">
+        <text>toczyć się, (robić coś) w pętli</text>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>东</text>
+        
+      </translation>
+      <translation id="1">
+        <text>wschód, właściciel ziemski, gospodarz</text>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>只要</text>
+        
+      </translation>
+      <translation id="1">
+        <text>tak długo jak</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:23:17</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>铜</text>
+        
+      </translation>
+      <translation id="1">
+        <text>miedź</text>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>比</text>
+        
+      </translation>
+      <translation id="1">
+        <text>porównywać</text>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>平</text>
+        
+      </translation>
+      <translation id="1">
+        <text>płaski, równy</text>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>便宜</text>
+        
+      </translation>
+      <translation id="1">
+        <text>tani</text>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>虽然</text>
+        
+      </translation>
+      <translation id="1">
+        <text>chociaż</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:23:05</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>皮</text>
+        
+      </translation>
+      <translation id="1">
+        <text>skóra</text>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>有点</text>
+        
+      </translation>
+      <translation id="1">
+        <text>trochę</text>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>硬</text>
+        
+      </translation>
+      <translation id="1">
+        <text>twardy, sztywny</text>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>但</text>
+        
+      </translation>
+      <translation id="1">
+        <text>ale</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:23:09</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>劣质</text>
+        
+      </translation>
+      <translation id="1">
+        <text>słabej jakości, tandetne</text>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>奶油</text>
+        
+      </translation>
+      <translation id="1">
+        <text>masło, śmietana</text>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>混</text>
+        
+      </translation>
+      <translation id="1">
+        <text>mieszać, wałęsać się</text>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>香气</text>
+        
+      </translation>
+      <translation id="1">
+        <text>aromat</text>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>正</text>
+        
+      </translation>
+      <translation id="1">
+        <text>prosto, pionowo, poprawiać</text>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>拼命</text>
+        
+      </translation>
+      <translation id="1">
+        <text>z całych sił, dać z siebie wszystko</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:23:31</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>往</text>
+        
+      </translation>
+      <translation id="1">
+        <text>iść w kierunku</text>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>鼻孔</text>
+        
+      </translation>
+      <translation id="1">
+        <text>nozdrza</text>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>钻</text>
+        
+      </translation>
+      <translation id="1">
+        <text>wiercić, borować, wwiercać się</text>
+      </translation>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Rozdział 1</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+      <entry id="22"/>
+      <entry id="23"/>
+      <entry id="24"/>
+      <entry id="25"/>
+      <entry id="26"/>
+      <entry id="27"/>
+      <entry id="28"/>
+      <entry id="29"/>
+      <entry id="30"/>
+      <entry id="31"/>
+      <entry id="32"/>
+      <entry id="33"/>
+      <entry id="34"/>
+      <entry id="35"/>
+      <entry id="36"/>
+      <entry id="37"/>
+      <entry id="38"/>
+      <entry id="39"/>
+      <entry id="40"/>
+      <entry id="41"/>
+      <entry id="42"/>
+      <entry id="43"/>
+      <entry id="44"/>
+      <entry id="45"/>
+      <entry id="46"/>
+      <entry id="47"/>
+      <entry id="48"/>
+      <entry id="49"/>
+    </container>
+  </lessons>
+  <wordtypes>
+    <container>
+      <name>Rzeczownik</name>
+      <specialwordtype>noun</specialwordtype>
+      <container>
+        <name>Męski</name>
+        <specialwordtype>noun/male</specialwordtype>
+      </container>
+      <container>
+        <name>Żeński</name>
+        <specialwordtype>noun/female</specialwordtype>
+      </container>
+      <container>
+        <name>Nijaki</name>
+        <specialwordtype>noun/neutral</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Czasownik</name>
+      <specialwordtype>verb</specialwordtype>
+    </container>
+    <container>
+      <name>Przymiotnik</name>
+      <specialwordtype>adjective</specialwordtype>
+    </container>
+    <container>
+      <name>Przysłówek</name>
+      <specialwordtype>adverb</specialwordtype>
+    </container>
+    <container>
+      <name>Spójnik</name>
+      <specialwordtype>conjunction</specialwordtype>
+    </container>
+  </wordtypes>
+</kvtml>
