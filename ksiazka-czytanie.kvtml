@@ -22,97 +22,159 @@
     <entry id="0">
       <translation id="0">
         <text>古</text>
-        
       </translation>
       <translation id="1">
         <text>antyczny</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:42:26</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="1">
       <translation id="0">
         <text>恩</text>
-        
       </translation>
       <translation id="1">
         <text>przychylność</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:41:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="2">
       <translation id="0">
         <text>北</text>
-        
       </translation>
       <translation id="1">
         <text>północ</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:44:38</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="3">
       <translation id="0">
         <text>境</text>
-        
       </translation>
       <translation id="1">
         <text>granica (np. kraju)</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:44:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="4">
       <translation id="0">
         <text>芬</text>
-        
       </translation>
       <translation id="1">
         <text>perfumy, zapach</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:44:15</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="5">
       <translation id="0">
         <text>城</text>
-        
       </translation>
       <translation id="1">
         <text>mury miejskie, miasto</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:45:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="6">
       <translation id="0">
         <text>港</text>
-        
       </translation>
       <translation id="1">
         <text>port (wodny, dla statków)</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:43:10</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="7">
       <translation id="0">
         <text>黑</text>
-        
       </translation>
       <translation id="1">
         <text>mroczny, ciemny</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:42:29</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="8">
       <translation id="0">
         <text>夜</text>
-        
       </translation>
       <translation id="1">
         <text>noc</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:37:58</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="9">
       <translation id="0">
         <text>冷</text>
-        
       </translation>
       <translation id="1">
         <text>zimny</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
-          <errorcount>1</errorcount>
-          <date>2025-12-29T15:23:24</date>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:42:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -120,43 +182,63 @@
     <entry id="10">
       <translation id="0">
         <text>得</text>
-        
       </translation>
       <translation id="1">
         <text>musieć</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:42:32</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="11">
       <translation id="0">
         <text>像</text>
-        
       </translation>
       <translation id="1">
         <text>wyglądać (jak), przypominać</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>3</errorcount>
+          <date>2025-12-29T15:40:40</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="12">
       <translation id="0">
         <text>骨头</text>
-        
       </translation>
       <translation id="1">
         <text>kość</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:43:14</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="13">
       <translation id="0">
         <text>缝</text>
-        
       </translation>
       <translation id="1">
         <text>szyć, zszywać / szew, pęknięcie, pękać</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
-          <errorcount>1</errorcount>
-          <date>2025-12-29T15:23:39</date>
+          <count>5</count>
+          <errorcount>3</errorcount>
+          <date>2025-12-29T15:42:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -164,169 +246,287 @@
     <entry id="14">
       <translation id="0">
         <text>冰碴</text>
-        
       </translation>
       <translation id="1">
         <text>odłamki lodu</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-29T15:26:54</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="15">
       <translation id="0">
         <text>塞</text>
-        
       </translation>
       <translation id="1">
         <text>wsadzać, wypełniać</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:42:07</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="16">
       <translation id="0">
         <text>维</text>
-        
       </translation>
       <translation id="1">
         <text>utrzymywać</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:43:20</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="17">
       <translation id="0">
         <text>克</text>
-        
       </translation>
       <translation id="1">
         <text>być w stanie, przezwyciężyć (trudności)</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>3</errorcount>
+          <date>2025-12-29T15:41:14</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="18">
       <translation id="0">
         <text>烘焙店</text>
-        
       </translation>
       <translation id="1">
         <text>piekarnia</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:37:12</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="19">
       <translation id="0">
         <text>胖</text>
-        
       </translation>
       <translation id="1">
         <text>gruby</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:41:50</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="20">
       <translation id="0">
         <text>柜台</text>
-        
       </translation>
       <translation id="1">
         <text>kontuar, bar</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:40:46</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="21">
       <translation id="0">
         <text>打折</text>
-        
       </translation>
       <translation id="1">
         <text>dawać zniżkę</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:43:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="22">
       <translation id="0">
         <text>盯</text>
-        
       </translation>
       <translation id="1">
         <text>wpatrywać się w</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:44:40</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="23">
       <translation id="0">
         <text>最</text>
-        
       </translation>
       <translation id="1">
         <text>w najwyższym stopniu (przed czasownikiem lub przymiotnikiem)</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>3</errorcount>
+          <date>2025-12-29T15:45:17</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="24">
       <translation id="0">
         <text>有些</text>
-        
       </translation>
       <translation id="1">
         <text>trochę, nieco</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:44:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="25">
       <translation id="0">
         <text>烤焦</text>
-        
       </translation>
       <translation id="1">
         <text>spalone (jedzenie)</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:45:09</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="26">
       <translation id="0">
         <text>肉松</text>
-        
       </translation>
       <translation id="1">
         <text>mięsna nić (składnik potraw będący wysyszonym i bardzo drobno posiekanym mięsem)</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-29T15:38:26</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="27">
       <translation id="0">
         <text>卷</text>
-        
       </translation>
       <translation id="1">
         <text>zwinięty, otoczony</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:37:28</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="28">
       <translation id="0">
         <text>喉结</text>
-        
       </translation>
       <translation id="1">
         <text>jabłko Adama</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:41:33</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="29">
       <translation id="0">
         <text>滚动</text>
-        
       </translation>
       <translation id="1">
         <text>toczyć się, (robić coś) w pętli</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:41:07</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="30">
       <translation id="0">
         <text>东</text>
-        
       </translation>
       <translation id="1">
         <text>wschód, właściciel ziemski, gospodarz</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>3</errorcount>
+          <date>2025-12-29T15:43:27</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="31">
       <translation id="0">
         <text>只要</text>
-        
       </translation>
       <translation id="1">
         <text>tak długo jak</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
-          <errorcount>1</errorcount>
-          <date>2025-12-29T15:23:17</date>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:42:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -334,52 +534,79 @@
     <entry id="32">
       <translation id="0">
         <text>铜</text>
-        
       </translation>
       <translation id="1">
         <text>miedź</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:40:49</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="33">
       <translation id="0">
         <text>比</text>
-        
       </translation>
       <translation id="1">
         <text>porównywać</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:41:26</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="34">
       <translation id="0">
         <text>平</text>
-        
       </translation>
       <translation id="1">
         <text>płaski, równy</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:44:43</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="35">
       <translation id="0">
         <text>便宜</text>
-        
       </translation>
       <translation id="1">
         <text>tani</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:41:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="36">
       <translation id="0">
         <text>虽然</text>
-        
       </translation>
       <translation id="1">
         <text>chociaż</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
-          <errorcount>1</errorcount>
-          <date>2025-12-29T15:23:05</date>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:43:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -387,43 +614,63 @@
     <entry id="37">
       <translation id="0">
         <text>皮</text>
-        
       </translation>
       <translation id="1">
         <text>skóra</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:44:54</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="38">
       <translation id="0">
         <text>有点</text>
-        
       </translation>
       <translation id="1">
         <text>trochę</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:41:28</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="39">
       <translation id="0">
         <text>硬</text>
-        
       </translation>
       <translation id="1">
         <text>twardy, sztywny</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>3</errorcount>
+          <date>2025-12-29T15:44:25</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="40">
       <translation id="0">
         <text>但</text>
-        
       </translation>
       <translation id="1">
         <text>ale</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
-          <errorcount>1</errorcount>
-          <date>2025-12-29T15:23:09</date>
+          <count>5</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:45:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -431,61 +678,95 @@
     <entry id="41">
       <translation id="0">
         <text>劣质</text>
-        
       </translation>
       <translation id="1">
         <text>słabej jakości, tandetne</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:44:35</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="42">
       <translation id="0">
         <text>奶油</text>
-        
       </translation>
       <translation id="1">
         <text>masło, śmietana</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-29T15:37:54</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="43">
       <translation id="0">
         <text>混</text>
-        
       </translation>
       <translation id="1">
         <text>mieszać, wałęsać się</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>8</count>
+          <errorcount>5</errorcount>
+          <date>2025-12-29T15:44:05</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="44">
       <translation id="0">
         <text>香气</text>
-        
       </translation>
       <translation id="1">
         <text>aromat</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:41:38</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="45">
       <translation id="0">
         <text>正</text>
-        
       </translation>
       <translation id="1">
         <text>prosto, pionowo, poprawiać</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:42:39</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="46">
       <translation id="0">
         <text>拼命</text>
-        
       </translation>
       <translation id="1">
         <text>z całych sił, dać z siebie wszystko</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
-          <errorcount>1</errorcount>
-          <date>2025-12-29T15:23:31</date>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-12-29T15:41:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -493,28 +774,49 @@
     <entry id="47">
       <translation id="0">
         <text>往</text>
-        
       </translation>
       <translation id="1">
         <text>iść w kierunku</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-12-29T15:27:37</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="48">
       <translation id="0">
         <text>鼻孔</text>
-        
       </translation>
       <translation id="1">
         <text>nozdrza</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:40:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="49">
       <translation id="0">
         <text>钻</text>
-        
       </translation>
       <translation id="1">
         <text>wiercić, borować, wwiercać się</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-29T15:44:17</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
   </entries>
