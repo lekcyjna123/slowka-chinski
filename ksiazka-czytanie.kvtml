@@ -520,7 +520,7 @@
         <text>只要</text>
       </translation>
       <translation id="1">
-        <text>tak długo jak</text>
+        <text>tak długo jak, pod warunkiem, jeśli</text>
         <grade>
           <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
@@ -819,6 +819,406 @@
         </grade>
       </translation>
     </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>先生</text>
+      </translation>
+      <translation id="1">
+        <text>dżentelmen, Pan (ang. sir, mister)</text>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>着</text>
+      </translation>
+      <translation id="1">
+        <text>(cząstka określająca trwającą akcję, czynność)</text>
+      </translation>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>老板</text>
+      </translation>
+      <translation id="1">
+        <text>szef, właściciel firmy/przedsiębiorstwa</text>
+      </translation>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>擦</text>
+      </translation>
+      <translation id="1">
+        <text>trzeć, polerować, obierać</text>
+      </translation>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>油腻</text>
+      </translation>
+      <translation id="1">
+        <text>tłusty, tłuste jedzenie</text>
+      </translation>
+    </entry>
+    <entry id="55">
+      <translation id="0">
+        <text>眨眼</text>
+      </translation>
+      <translation id="1">
+        <text>mrugnąć</text>
+      </translation>
+    </entry>
+    <entry id="56">
+      <translation id="0">
+        <text>冲</text>
+      </translation>
+      <translation id="1">
+        <text>w kierunku, mocny, mieszać z wodą, zderzać się z</text>
+      </translation>
+    </entry>
+    <entry id="57">
+      <translation id="0">
+        <text>可</text>
+      </translation>
+      <translation id="1">
+        <text>pozwalać, (partykuła podkreślająca jakieś słowo "bardzo", "na pweno", "certainly")</text>
+      </translation>
+    </entry>
+    <entry id="58">
+      <translation id="0">
+        <text>相差</text>
+      </translation>
+      <translation id="1">
+        <text>różnić się</text>
+      </translation>
+    </entry>
+    <entry id="59">
+      <translation id="0">
+        <text>味道</text>
+      </translation>
+      <translation id="1">
+        <text>smak</text>
+      </translation>
+    </entry>
+    <entry id="60">
+      <translation id="0">
+        <text>变</text>
+      </translation>
+      <translation id="1">
+        <text>zmieniać się</text>
+      </translation>
+    </entry>
+    <entry id="61">
+      <translation id="0">
+        <text>推</text>
+      </translation>
+      <translation id="1">
+        <text>pchnąć, odmówić</text>
+      </translation>
+    </entry>
+    <entry id="62">
+      <translation id="0">
+        <text>掏钱</text>
+      </translation>
+      <translation id="1">
+        <text>zapłacić, wydać pieniądze</text>
+      </translation>
+    </entry>
+    <entry id="63">
+      <translation id="0">
+        <text>马上</text>
+      </translation>
+      <translation id="1">
+        <text>aktualnie, natychmiastowo, na koniu</text>
+      </translation>
+    </entry>
+    <entry id="64">
+      <translation id="0">
+        <text>并</text>
+      </translation>
+      <translation id="1">
+        <text>jednocześnie, łączyć (ang. merge)</text>
+      </translation>
+    </entry>
+    <entry id="65">
+      <translation id="0">
+        <text>其实</text>
+      </translation>
+      <translation id="1">
+        <text>po prawdzie, naprawdę</text>
+      </translation>
+    </entry>
+    <entry id="66">
+      <translation id="0">
+        <text>算</text>
+      </translation>
+      <translation id="1">
+        <text>uważać za, liczyć</text>
+      </translation>
+    </entry>
+    <entry id="67">
+      <translation id="0">
+        <text>贵</text>
+      </translation>
+      <translation id="1">
+        <text>drogi</text>
+      </translation>
+    </entry>
+    <entry id="68">
+      <translation id="0">
+        <text>还</text>
+      </translation>
+      <translation id="1">
+        <text>ciągle, spłacić, zwrócić</text>
+      </translation>
+    </entry>
+    <entry id="69">
+      <translation id="0">
+        <text>痛</text>
+      </translation>
+      <translation id="1">
+        <text>ból, żal</text>
+      </translation>
+    </entry>
+    <entry id="70">
+      <translation id="0">
+        <text>肉</text>
+      </translation>
+      <translation id="1">
+        <text>mięso, niezdecydowany</text>
+      </translation>
+    </entry>
+    <entry id="71">
+      <translation id="0">
+        <text>不光</text>
+      </translation>
+      <translation id="1">
+        <text>nie tylko</text>
+      </translation>
+    </entry>
+    <entry id="72">
+      <translation id="0">
+        <text>光</text>
+      </translation>
+      <translation id="1">
+        <text>światło, jasny, przyzwyczajony do, tylko</text>
+      </translation>
+    </entry>
+    <entry id="73">
+      <translation id="0">
+        <text>爱财</text>
+      </translation>
+      <translation id="1">
+        <text>chciwy</text>
+      </translation>
+    </entry>
+    <entry id="74">
+      <translation id="0">
+        <text>财</text>
+      </translation>
+      <translation id="1">
+        <text>bogactwo</text>
+      </translation>
+    </entry>
+    <entry id="75">
+      <translation id="0">
+        <text>还给</text>
+      </translation>
+      <translation id="1">
+        <text>zwracać coś komuś</text>
+      </translation>
+    </entry>
+    <entry id="76">
+      <translation id="0">
+        <text>前身</text>
+      </translation>
+      <translation id="1">
+        <text>przodek, poprzednie wcielenie</text>
+      </translation>
+    </entry>
+    <entry id="77">
+      <translation id="0">
+        <text>留</text>
+      </translation>
+      <translation id="1">
+        <text>zostawić (np. wiadomość), zostać, zachować</text>
+      </translation>
+    </entry>
+    <entry id="78">
+      <translation id="0">
+        <text>笔</text>
+      </translation>
+      <translation id="1">
+        <text>pędzel do pisania, (kwantyfikator dla "sum of money")</text>
+      </translation>
+    </entry>
+    <entry id="79">
+      <translation id="0">
+        <text>巨额</text>
+      </translation>
+      <translation id="1">
+        <text>ogromną sumę (pieniędzy)</text>
+      </translation>
+    </entry>
+    <entry id="80">
+      <translation id="0">
+        <text>债务</text>
+      </translation>
+      <translation id="1">
+        <text>dług, zadłużenie</text>
+      </translation>
+    </entry>
+    <entry id="81">
+      <translation id="0">
+        <text>巫师</text>
+      </translation>
+      <translation id="1">
+        <text>czarodziej, mag</text>
+      </translation>
+    </entry>
+    <entry id="82">
+      <translation id="0">
+        <text>学院</text>
+      </translation>
+      <translation id="1">
+        <text>wydział, koledż (ang. college)</text>
+      </translation>
+    </entry>
+    <entry id="83">
+      <translation id="0">
+        <text>教务处</text>
+      </translation>
+      <translation id="1">
+        <text>biuro administracji uczelni/szkoły</text>
+      </translation>
+    </entry>
+    <entry id="84">
+      <translation id="0">
+        <text>助学贷款</text>
+      </translation>
+      <translation id="1">
+        <text>pożyczka studencka</text>
+      </translation>
+    </entry>
+    <entry id="85">
+      <translation id="0">
+        <text>总额</text>
+      </translation>
+      <translation id="1">
+        <text>łącznie (wartość pieniędzy)</text>
+      </translation>
+    </entry>
+    <entry id="86">
+      <translation id="0">
+        <text>高达</text>
+      </translation>
+      <translation id="1">
+        <text>osiągać</text>
+      </translation>
+    </entry>
+    <entry id="87">
+      <translation id="0">
+        <text>索尔</text>
+      </translation>
+      <translation id="1">
+        <text>Thor (bóg skandynawski)</text>
+      </translation>
+    </entry>
+    <entry id="88">
+      <translation id="0">
+        <text>隔</text>
+      </translation>
+      <translation id="1">
+        <text>oddzielić, znajdować się pomiędzy</text>
+      </translation>
+    </entry>
+    <entry id="89">
+      <translation id="0">
+        <text>玻璃</text>
+      </translation>
+      <translation id="1">
+        <text>szkło</text>
+      </translation>
+    </entry>
+    <entry id="90">
+      <translation id="0">
+        <text>柜</text>
+      </translation>
+      <translation id="1">
+        <text>szafka, kredens</text>
+      </translation>
+    </entry>
+    <entry id="91">
+      <translation id="0">
+        <text>焦</text>
+      </translation>
+      <translation id="1">
+        <text>spalony, przypalony, zwęglony, zaniepokojony</text>
+      </translation>
+    </entry>
+    <entry id="92">
+      <translation id="0">
+        <text>皱起</text>
+      </translation>
+      <translation id="1">
+        <text>marszczyć (np. brwi)</text>
+      </translation>
+    </entry>
+    <entry id="93">
+      <translation id="0">
+        <text>眉头</text>
+      </translation>
+      <translation id="1">
+        <text>brwi</text>
+      </translation>
+    </entry>
+    <entry id="94">
+      <translation id="0">
+        <text>挑剔</text>
+      </translation>
+      <translation id="1">
+        <text>wybredny</text>
+      </translation>
+    </entry>
+    <entry id="95">
+      <translation id="0">
+        <text>略带</text>
+      </translation>
+      <translation id="1">
+        <text>mieć jakąś cechę w małym stopniu</text>
+      </translation>
+    </entry>
+    <entry id="96">
+      <translation id="0">
+        <text>种</text>
+      </translation>
+      <translation id="1">
+        <text>ziarno, typ, kategoria, (kwantyfikator dla typów, kindów i sortów)</text>
+      </translation>
+    </entry>
+    <entry id="97">
+      <translation id="0">
+        <text>口吻</text>
+      </translation>
+      <translation id="1">
+        <text>ton głosu, akcent,</text>
+      </translation>
+    </entry>
+    <entry id="98">
+      <translation id="0">
+        <text>火候</text>
+      </translation>
+      <translation id="1">
+        <text>kontrola ciepła, mistrzostwo (w przenośni), krytyczny moment (w przenośni)</text>
+      </translation>
+    </entry>
+    <entry id="99">
+      <translation id="0">
+        <text>太过</text>
+      </translation>
+      <translation id="1">
+        <text>zbytnio</text>
+      </translation>
+    </entry>
   </entries>
   <lessons>
     <container>
@@ -874,6 +1274,56 @@
       <entry id="47"/>
       <entry id="48"/>
       <entry id="49"/>
+      <entry id="50"/>
+      <entry id="51"/>
+      <entry id="52"/>
+      <entry id="53"/>
+      <entry id="54"/>
+      <entry id="55"/>
+      <entry id="56"/>
+      <entry id="57"/>
+      <entry id="58"/>
+      <entry id="59"/>
+      <entry id="60"/>
+      <entry id="61"/>
+      <entry id="62"/>
+      <entry id="63"/>
+      <entry id="64"/>
+      <entry id="65"/>
+      <entry id="66"/>
+      <entry id="67"/>
+      <entry id="68"/>
+      <entry id="69"/>
+      <entry id="70"/>
+      <entry id="71"/>
+      <entry id="72"/>
+      <entry id="73"/>
+      <entry id="74"/>
+      <entry id="75"/>
+      <entry id="76"/>
+      <entry id="77"/>
+      <entry id="78"/>
+      <entry id="79"/>
+      <entry id="80"/>
+      <entry id="81"/>
+      <entry id="82"/>
+      <entry id="83"/>
+      <entry id="84"/>
+      <entry id="85"/>
+      <entry id="86"/>
+      <entry id="87"/>
+      <entry id="88"/>
+      <entry id="89"/>
+      <entry id="90"/>
+      <entry id="91"/>
+      <entry id="92"/>
+      <entry id="93"/>
+      <entry id="94"/>
+      <entry id="95"/>
+      <entry id="96"/>
+      <entry id="97"/>
+      <entry id="98"/>
+      <entry id="99"/>
     </container>
   </lessons>
   <wordtypes>
