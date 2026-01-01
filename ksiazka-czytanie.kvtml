@@ -5,7 +5,7 @@
     <generator>Parley 25.08.3</generator>
     <title>Książka czytanie</title>
     <license>Domena publiczna</license>
-    <date>2025-12-31</date>
+    <date>2026-01-01</date>
     <category>Języki</category>
   </information>
   <identifiers>
@@ -26,11 +26,11 @@
       <translation id="1">
         <text>antyczny</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:55:45</date>
+          <date>2026-01-01T17:33:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -42,11 +42,11 @@
       <translation id="1">
         <text>przychylność</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:57:11</date>
+          <date>2026-01-01T17:23:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -58,11 +58,11 @@
       <translation id="1">
         <text>północ</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:44:30</date>
+          <date>2026-01-01T17:21:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -74,11 +74,11 @@
       <translation id="1">
         <text>granica (np. kraju)</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:45:16</date>
+          <date>2026-01-01T17:21:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -90,11 +90,11 @@
       <translation id="1">
         <text>perfumy, zapach</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:45:22</date>
+          <date>2026-01-01T17:22:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -106,11 +106,11 @@
       <translation id="1">
         <text>mury miejskie, miasto</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:38:40</date>
+          <date>2026-01-01T17:22:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -122,11 +122,11 @@
       <translation id="1">
         <text>port (wodny, dla statków)</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:43:43</date>
+          <date>2026-01-01T17:21:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -138,11 +138,11 @@
       <translation id="1">
         <text>mroczny, ciemny</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:53:05</date>
+          <date>2026-01-01T17:23:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -154,11 +154,11 @@
       <translation id="1">
         <text>noc</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:38:06</date>
+          <date>2026-01-01T17:22:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -170,11 +170,11 @@
       <translation id="1">
         <text>zimny</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:36:13</date>
+          <date>2026-01-01T17:23:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -186,11 +186,11 @@
       <translation id="1">
         <text>musieć</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:54:01</date>
+          <date>2026-01-01T17:34:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -202,11 +202,11 @@
       <translation id="1">
         <text>wyglądać (jak), przypominać</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>4</errorcount>
-          <date>2025-12-31T16:51:09</date>
+          <date>2026-01-01T17:32:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -218,11 +218,11 @@
       <translation id="1">
         <text>kość</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:53:26</date>
+          <date>2026-01-01T17:21:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -234,11 +234,11 @@
       <translation id="1">
         <text>szyć, zszywać / szew, pęknięcie, pękać</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>4</errorcount>
-          <date>2025-12-31T16:58:53</date>
+          <date>2026-01-01T17:32:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -266,11 +266,11 @@
       <translation id="1">
         <text>wsadzać, wypełniać</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:47:06</date>
+          <date>2026-01-01T17:21:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -282,11 +282,11 @@
       <translation id="1">
         <text>utrzymywać</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:43:32</date>
+          <date>2026-01-01T17:22:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -298,11 +298,11 @@
       <translation id="1">
         <text>być w stanie, przezwyciężyć (trudności)</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>4</errorcount>
-          <date>2025-12-31T16:59:49</date>
+          <date>2026-01-01T17:34:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -314,11 +314,11 @@
       <translation id="1">
         <text>piekarnia</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:48:55</date>
+          <date>2026-01-01T17:34:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -330,11 +330,11 @@
       <translation id="1">
         <text>gruby</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:38:50</date>
+          <date>2026-01-01T17:22:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -346,11 +346,11 @@
       <translation id="1">
         <text>kontuar, bar</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:52:29</date>
+          <date>2026-01-01T17:33:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -362,11 +362,11 @@
       <translation id="1">
         <text>dawać zniżkę</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T17:00:41</date>
+          <date>2026-01-01T17:33:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -378,11 +378,11 @@
       <translation id="1">
         <text>wpatrywać się w</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:44:42</date>
+          <date>2026-01-01T17:22:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -394,11 +394,11 @@
       <translation id="1">
         <text>w najwyższym stopniu (przed czasownikiem lub przymiotnikiem)</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>3</errorcount>
-          <date>2025-12-31T16:38:14</date>
+          <date>2026-01-01T17:22:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -410,11 +410,11 @@
       <translation id="1">
         <text>trochę, nieco</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:46:12</date>
+          <date>2026-01-01T17:23:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -426,11 +426,11 @@
       <translation id="1">
         <text>spalone (jedzenie)</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:51:52</date>
+          <date>2026-01-01T17:30:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -458,11 +458,11 @@
       <translation id="1">
         <text>zwinięty, otoczony</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:42:39</date>
+          <date>2026-01-01T17:22:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -474,11 +474,11 @@
       <translation id="1">
         <text>jabłko Adama</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>3</errorcount>
-          <date>2025-12-31T16:56:08</date>
+          <date>2026-01-01T17:33:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -490,11 +490,11 @@
       <translation id="1">
         <text>toczyć się, (robić coś) w pętli</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:51:46</date>
+          <date>2026-01-01T17:32:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -506,11 +506,11 @@
       <translation id="1">
         <text>wschód, właściciel ziemski, gospodarz</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>4</errorcount>
-          <date>2025-12-31T17:05:00</date>
+          <date>2026-01-01T17:31:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -522,11 +522,11 @@
       <translation id="1">
         <text>tak długo jak, pod warunkiem, jeśli</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:38:00</date>
+          <date>2026-01-01T17:22:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -538,11 +538,11 @@
       <translation id="1">
         <text>miedź</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:36:17</date>
+          <date>2026-01-01T17:22:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -554,11 +554,11 @@
       <translation id="1">
         <text>porównywać</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:44:27</date>
+          <date>2026-01-01T17:21:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -570,11 +570,11 @@
       <translation id="1">
         <text>płaski, równy</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:49:31</date>
+          <date>2026-01-01T17:21:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -586,11 +586,11 @@
       <translation id="1">
         <text>tani</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:46:09</date>
+          <date>2026-01-01T17:22:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -602,11 +602,11 @@
       <translation id="1">
         <text>chociaż</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>3</errorcount>
-          <date>2025-12-31T16:53:23</date>
+          <date>2026-01-01T17:33:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -618,11 +618,11 @@
       <translation id="1">
         <text>skóra</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:39:19</date>
+          <date>2026-01-01T17:22:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -634,11 +634,11 @@
       <translation id="1">
         <text>trochę</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:53:51</date>
+          <date>2026-01-01T17:22:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -650,11 +650,11 @@
       <translation id="1">
         <text>twardy, sztywny</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>3</errorcount>
-          <date>2025-12-31T16:53:20</date>
+          <date>2026-01-01T17:21:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -666,11 +666,11 @@
       <translation id="1">
         <text>ale</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:37:19</date>
+          <date>2026-01-01T17:22:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -682,11 +682,11 @@
       <translation id="1">
         <text>słabej jakości, tandetne</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T16:39:13</date>
+          <date>2026-01-01T17:22:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -714,11 +714,11 @@
       <translation id="1">
         <text>mieszać, wałęsać się</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>14</count>
+          <count>15</count>
           <errorcount>6</errorcount>
-          <date>2025-12-31T16:56:47</date>
+          <date>2026-01-01T17:33:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -730,11 +730,11 @@
       <translation id="1">
         <text>aromat</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:47:09</date>
+          <date>2026-01-01T17:22:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -746,11 +746,11 @@
       <translation id="1">
         <text>prosto, pionowo, poprawiać</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:44:13</date>
+          <date>2026-01-01T17:22:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -762,11 +762,11 @@
       <translation id="1">
         <text>z całych sił, dać z siebie wszystko</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>3</errorcount>
-          <date>2025-12-31T17:00:55</date>
+          <date>2026-01-01T17:33:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -778,11 +778,11 @@
       <translation id="1">
         <text>iść w kierunku</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:15:42</date>
+          <date>2026-01-01T17:31:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -794,11 +794,11 @@
       <translation id="1">
         <text>nozdrza</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:57:29</date>
+          <date>2026-01-01T17:32:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -810,11 +810,11 @@
       <translation id="1">
         <text>wiercić, borować, wwiercać się</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T16:46:50</date>
+          <date>2026-01-01T17:21:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -826,11 +826,11 @@
       <translation id="1">
         <text>dżentelmen, Pan (ang. sir, mister)</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
-          <errorcount>2</errorcount>
-          <date>2025-12-31T17:20:33</date>
+          <count>8</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-01T17:42:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -858,11 +858,11 @@
       <translation id="1">
         <text>szef, właściciel firmy/przedsiębiorstwa</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
-          <errorcount>3</errorcount>
-          <date>2025-12-31T17:19:17</date>
+          <count>9</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-01T17:42:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -874,11 +874,11 @@
       <translation id="1">
         <text>trzeć, polerować, obierać</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T17:18:59</date>
+          <date>2026-01-01T17:37:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -906,11 +906,11 @@
       <translation id="1">
         <text>mrugnąć</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>7</errorcount>
-          <date>2025-12-31T17:17:23</date>
+          <date>2026-01-01T17:42:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -922,11 +922,11 @@
       <translation id="1">
         <text>w kierunku, mocny, mieszać z wodą, zderzać się z</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
-          <errorcount>3</errorcount>
-          <date>2025-12-31T17:13:47</date>
+          <count>8</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-01T17:40:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -936,13 +936,13 @@
         <text>可</text>
       </translation>
       <translation id="1">
-        <text>pozwalać, (partykuła podkreślająca jakieś słowo "bardzo", "na pweno", "certainly")</text>
+        <text>pozwalać, (partykuła podkreślająca jakieś słowo "bardzo", "na pewno", "certainly")</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T17:17:07</date>
+          <date>2026-01-01T17:36:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -954,11 +954,11 @@
       <translation id="1">
         <text>różnić się</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
-          <errorcount>5</errorcount>
-          <date>2025-12-31T17:18:32</date>
+          <count>11</count>
+          <errorcount>7</errorcount>
+          <date>2026-01-01T17:42:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -970,11 +970,11 @@
       <translation id="1">
         <text>smak</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
-          <errorcount>6</errorcount>
-          <date>2025-12-31T17:19:13</date>
+          <count>12</count>
+          <errorcount>7</errorcount>
+          <date>2026-01-01T17:44:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -986,11 +986,11 @@
       <translation id="1">
         <text>zmieniać się</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>1</errorcount>
-          <date>2025-12-31T17:19:37</date>
+          <count>7</count>
+          <errorcount>2</errorcount>
+          <date>2026-01-01T17:42:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1002,11 +1002,11 @@
       <translation id="1">
         <text>pchnąć, odmówić</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:13:29</date>
+          <date>2026-01-01T17:31:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1018,11 +1018,11 @@
       <translation id="1">
         <text>zapłacić, wydać pieniądze</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:14:20</date>
+          <date>2026-01-01T17:35:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1050,11 +1050,11 @@
       <translation id="1">
         <text>jednocześnie, łączyć (ang. merge)</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
-          <errorcount>4</errorcount>
-          <date>2025-12-31T17:19:35</date>
+          <count>11</count>
+          <errorcount>6</errorcount>
+          <date>2026-01-01T17:44:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1066,11 +1066,11 @@
       <translation id="1">
         <text>po prawdzie, naprawdę</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T17:15:38</date>
+          <date>2026-01-01T17:33:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1082,11 +1082,11 @@
       <translation id="1">
         <text>uważać za, liczyć</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
-          <errorcount>3</errorcount>
-          <date>2025-12-31T17:20:46</date>
+          <count>9</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-01T17:44:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1098,11 +1098,11 @@
       <translation id="1">
         <text>drogi</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:19:23</date>
+          <date>2026-01-01T17:38:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1114,11 +1114,11 @@
       <translation id="1">
         <text>ciągle, spłacić, zwrócić</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
+          <count>7</count>
           <errorcount>3</errorcount>
-          <date>2025-12-31T17:19:50</date>
+          <date>2026-01-01T17:37:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1130,11 +1130,11 @@
       <translation id="1">
         <text>ból, żal</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:13:15</date>
+          <date>2026-01-01T17:34:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1146,11 +1146,11 @@
       <translation id="1">
         <text>mięso, niezdecydowany</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:17:11</date>
+          <date>2026-01-01T17:38:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1162,11 +1162,11 @@
       <translation id="1">
         <text>nie tylko</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:14:13</date>
+          <date>2026-01-01T17:39:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1178,11 +1178,11 @@
       <translation id="1">
         <text>światło, jasny, przyzwyczajony do, tylko</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T17:13:40</date>
+          <date>2026-01-01T17:33:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1210,11 +1210,11 @@
       <translation id="1">
         <text>bogactwo</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:18:34</date>
+          <date>2026-01-01T17:32:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1226,11 +1226,11 @@
       <translation id="1">
         <text>zwracać coś komuś</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T17:13:54</date>
+          <date>2026-01-01T17:31:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1242,11 +1242,11 @@
       <translation id="1">
         <text>przodek, poprzednie wcielenie</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:17:19</date>
+          <date>2026-01-01T17:37:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1258,11 +1258,11 @@
       <translation id="1">
         <text>zostawić (np. wiadomość), zostać, zachować</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>5</errorcount>
-          <date>2025-12-31T17:14:49</date>
+          <date>2026-01-01T17:38:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1274,11 +1274,11 @@
       <translation id="1">
         <text>pędzel do pisania, (kwantyfikator dla "sum of money")</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:13:23</date>
+          <date>2026-01-01T17:39:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1288,13 +1288,13 @@
         <text>巨额</text>
       </translation>
       <translation id="1">
-        <text>ogromną sumę (pieniędzy)</text>
+        <text>ogromna suma (pieniędzy)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
+          <count>7</count>
           <errorcount>3</errorcount>
-          <date>2025-12-31T17:17:14</date>
+          <date>2026-01-01T17:42:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1306,11 +1306,11 @@
       <translation id="1">
         <text>dług, zadłużenie</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
-          <errorcount>2</errorcount>
-          <date>2025-12-31T17:19:08</date>
+          <count>8</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-01T17:42:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1322,11 +1322,11 @@
       <translation id="1">
         <text>czarodziej, mag</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:13:32</date>
+          <date>2026-01-01T17:35:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1338,11 +1338,11 @@
       <translation id="1">
         <text>wydział, koledż (ang. college)</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:14:10</date>
+          <date>2026-01-01T17:34:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1354,11 +1354,11 @@
       <translation id="1">
         <text>biuro administracji uczelni/szkoły</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:15:27</date>
+          <date>2026-01-01T17:30:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1370,11 +1370,11 @@
       <translation id="1">
         <text>pożyczka studencka</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:19:03</date>
+          <date>2026-01-01T17:34:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1386,11 +1386,11 @@
       <translation id="1">
         <text>łącznie (wartość pieniędzy)</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
+          <count>7</count>
           <errorcount>3</errorcount>
-          <date>2025-12-31T17:18:27</date>
+          <date>2026-01-01T17:37:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1402,11 +1402,11 @@
       <translation id="1">
         <text>osiągać</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
-          <errorcount>3</errorcount>
-          <date>2025-12-31T17:17:46</date>
+          <count>10</count>
+          <errorcount>5</errorcount>
+          <date>2026-01-01T17:44:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1418,11 +1418,11 @@
       <translation id="1">
         <text>Thor (bóg skandynawski)</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:20:41</date>
+          <date>2026-01-01T17:32:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1434,11 +1434,11 @@
       <translation id="1">
         <text>oddzielić, znajdować się pomiędzy</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>4</errorcount>
-          <date>2025-12-31T17:16:05</date>
+          <date>2026-01-01T17:35:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1450,11 +1450,11 @@
       <translation id="1">
         <text>szkło</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:19:40</date>
+          <date>2026-01-01T17:40:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1466,11 +1466,11 @@
       <translation id="1">
         <text>szafka, kredens</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:19:20</date>
+          <date>2026-01-01T17:32:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1482,11 +1482,11 @@
       <translation id="1">
         <text>spalony, przypalony, zwęglony, zaniepokojony</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T17:16:11</date>
+          <date>2026-01-01T17:39:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1498,11 +1498,11 @@
       <translation id="1">
         <text>marszczyć (np. brwi)</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
-          <errorcount>3</errorcount>
-          <date>2025-12-31T17:14:23</date>
+          <count>9</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-01T17:42:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1514,11 +1514,11 @@
       <translation id="1">
         <text>brwi</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:13:50</date>
+          <date>2026-01-01T17:40:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1530,11 +1530,11 @@
       <translation id="1">
         <text>wybredny</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
-          <errorcount>3</errorcount>
-          <date>2025-12-31T17:17:53</date>
+          <count>8</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-01T17:42:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1546,11 +1546,11 @@
       <translation id="1">
         <text>mieć jakąś cechę w małym stopniu</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2025-12-31T17:17:58</date>
+          <date>2026-01-01T17:39:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1560,13 +1560,13 @@
         <text>种</text>
       </translation>
       <translation id="1">
-        <text>ziarno, typ, kategoria, (kwantyfikator dla typów, kindów i sortów)</text>
+        <text>nasiono, typ, kategoria, (kwantyfikator dla typów, kindów i sortów)</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>1</errorcount>
-          <date>2025-12-31T17:14:33</date>
+          <count>7</count>
+          <errorcount>2</errorcount>
+          <date>2026-01-01T17:44:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1576,13 +1576,13 @@
         <text>口吻</text>
       </translation>
       <translation id="1">
-        <text>ton głosu, akcent,</text>
+        <text>ton głosu, akcent</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-31T17:17:50</date>
+          <date>2026-01-01T17:38:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1610,120 +1610,605 @@
       <translation id="1">
         <text>zbytnio</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>11</count>
-          <errorcount>7</errorcount>
-          <date>2025-12-31T17:20:37</date>
+          <count>13</count>
+          <errorcount>8</errorcount>
+          <date>2026-01-01T17:42:00</date>
           <interval>0</interval>
         </grade>
+      </translation>
+    </entry>
+    <entry id="100">
+      <translation id="0">
+        <text>得了</text>
+      </translation>
+      <translation id="1">
+        <text>wystarczy! niech będzie! daj spokój</text>
+      </translation>
+    </entry>
+    <entry id="101">
+      <translation id="0">
+        <text>翻</text>
+      </translation>
+      <translation id="1">
+        <text>obrócić (np. kotlet), przewrócić, przetłumaczyć</text>
+      </translation>
+    </entry>
+    <entry id="102">
+      <translation id="0">
+        <text>白眼</text>
+      </translation>
+      <translation id="1">
+        <text>spojrzeć wyniosłym wzrokiem, spojrzeć z niesmakiem</text>
+      </translation>
+    </entry>
+    <entry id="103">
+      <translation id="0">
+        <text>件</text>
+      </translation>
+      <translation id="1">
+        <text>przedmiot, element, (klasyfikator dla zdarzeń, rzeczy i ubrań)</text>
+      </translation>
+    </entry>
+    <entry id="104">
+      <translation id="0">
+        <text>风衣</text>
+      </translation>
+      <translation id="1">
+        <text>kurtka przeciwwiatrowa</text>
+      </translation>
+    </entry>
+    <entry id="105">
+      <translation id="0">
+        <text>湿透</text>
+      </translation>
+      <translation id="1">
+        <text>przesiąknięty</text>
+      </translation>
+    </entry>
+    <entry id="106">
+      <translation id="0">
+        <text>都</text>
+      </translation>
+      <translation id="1">
+        <text>cały (ang. all, entirely)</text>
+      </translation>
+    </entry>
+    <entry id="107">
+      <translation id="0">
+        <text>赶紧</text>
+      </translation>
+      <translation id="1">
+        <text>pośpiesznie, bez opóźnień</text>
+      </translation>
+    </entry>
+    <entry id="108">
+      <translation id="0">
+        <text>热乎</text>
+      </translation>
+      <translation id="1">
+        <text>ciepłe</text>
+      </translation>
+    </entry>
+    <entry id="109">
+      <translation id="0">
+        <text>回去</text>
+      </translation>
+      <translation id="1">
+        <text>iść z powrotem</text>
+      </translation>
+    </entry>
+    <entry id="110">
+      <translation id="0">
+        <text>鬼天气</text>
+      </translation>
+      <translation id="1">
+        <text>okropna pogoda</text>
+      </translation>
+    </entry>
+    <entry id="111">
+      <translation id="0">
+        <text>连</text>
+      </translation>
+      <translation id="1">
+        <text>włącznie z, łączyć, ciągle, nawet (w połączeniu z 都)</text>
+      </translation>
+    </entry>
+    <entry id="112">
+      <translation id="0">
+        <text>愿意</text>
+      </translation>
+      <translation id="1">
+        <text>chcieć, być gotowym</text>
+      </translation>
+    </entry>
+    <entry id="113">
+      <translation id="0">
+        <text>出门</text>
+      </translation>
+      <translation id="1">
+        <text>wyjść na zewnątrz, wyjść z domu, wyruszyć w podróż</text>
+      </translation>
+    </entry>
+    <entry id="114">
+      <translation id="0">
+        <text>终</text>
+      </translation>
+      <translation id="1">
+        <text>koniec</text>
+      </translation>
+    </entry>
+    <entry id="115">
+      <translation id="0">
+        <text>最终</text>
+      </translation>
+      <translation id="1">
+        <text>ostatecznie</text>
+      </translation>
+    </entry>
+    <entry id="116">
+      <translation id="0">
+        <text>生理</text>
+      </translation>
+      <translation id="1">
+        <text>fizjologiczny</text>
+      </translation>
+    </entry>
+    <entry id="117">
+      <translation id="0">
+        <text>本能</text>
+      </translation>
+      <translation id="1">
+        <text>instynkt</text>
+      </translation>
+    </entry>
+    <entry id="118">
+      <translation id="0">
+        <text>占据</text>
+      </translation>
+      <translation id="1">
+        <text>okupować, kontrolować</text>
+      </translation>
+    </entry>
+    <entry id="119">
+      <translation id="0">
+        <text>抿</text>
+      </translation>
+      <translation id="1">
+        <text>wygładzić włosy mokrym grzebieniem, zamknąć (usta)</text>
+      </translation>
+    </entry>
+    <entry id="120">
+      <translation id="0">
+        <text>嘴唇</text>
+      </translation>
+      <translation id="1">
+        <text>warga</text>
+      </translation>
+    </entry>
+    <entry id="121">
+      <translation id="0">
+        <text>拍</text>
+      </translation>
+      <translation id="1">
+        <text>klasnąć, klepnąć</text>
+      </translation>
+    </entry>
+    <entry id="122">
+      <translation id="0">
+        <text>成交</text>
+      </translation>
+      <translation id="1">
+        <text>"umowa stoi"</text>
+      </translation>
+    </entry>
+    <entry id="123">
+      <translation id="0">
+        <text>从</text>
+      </translation>
+      <translation id="1">
+        <text>z (czegoś)</text>
+      </translation>
+    </entry>
+    <entry id="124">
+      <translation id="0">
+        <text>口袋</text>
+      </translation>
+      <translation id="1">
+        <text>kieszeń, torba</text>
+      </translation>
+    </entry>
+    <entry id="125">
+      <translation id="0">
+        <text>摸</text>
+      </translation>
+      <translation id="1">
+        <text>wyczuć dłonią, namacać, ukraść</text>
+      </translation>
+    </entry>
+    <entry id="126">
+      <translation id="0">
+        <text>出</text>
+      </translation>
+      <translation id="1">
+        <text>wyjść, wyprodukować, (po czasowniku implikuje do niego kierunek na zewnątrz)</text>
+      </translation>
+    </entry>
+    <entry id="127">
+      <translation id="0">
+        <text>枚</text>
+      </translation>
+      <translation id="1">
+        <text>(kwantyfikator dla małych obiektów, bardziej formalny)</text>
+      </translation>
+    </entry>
+    <entry id="128">
+      <translation id="0">
+        <text>带</text>
+      </translation>
+      <translation id="1">
+        <text>pas, wstążka, nosić</text>
+      </translation>
+    </entry>
+    <entry id="129">
+      <translation id="0">
+        <text>币</text>
+      </translation>
+      <translation id="1">
+        <text>moneta</text>
+      </translation>
+    </entry>
+    <entry id="130">
+      <translation id="0">
+        <text>体温</text>
+      </translation>
+      <translation id="1">
+        <text>temperatura (ciała)</text>
+      </translation>
+    </entry>
+    <entry id="131">
+      <translation id="0">
+        <text>整齐</text>
+      </translation>
+      <translation id="1">
+        <text>równo, uporządkowanie (coś zrobić)</text>
+      </translation>
+    </entry>
+    <entry id="132">
+      <translation id="0">
+        <text>排</text>
+      </translation>
+      <translation id="1">
+        <text>linia, wiersz</text>
+      </translation>
+    </entry>
+    <entry id="133">
+      <translation id="0">
+        <text>帮</text>
+      </translation>
+      <translation id="1">
+        <text>pomóc (komuś), wesprzeć (kogoś)</text>
+      </translation>
+    </entry>
+    <entry id="134">
+      <translation id="0">
+        <text>包</text>
+      </translation>
+      <translation id="1">
+        <text>pakować, opakowywać, torba</text>
+      </translation>
+    </entry>
+    <entry id="135">
+      <translation id="0">
+        <text>起来</text>
+      </translation>
+      <translation id="1">
+        <text>wstawać, (po czasowniku oznacza początek lub kontynuację akcji), (po czasowniku implikuje kierunek w górę)</text>
+      </translation>
+    </entry>
+    <entry id="136">
+      <translation id="0">
+        <text>记得</text>
+      </translation>
+      <translation id="1">
+        <text>pamiętać (coś)</text>
+      </translation>
+    </entry>
+    <entry id="137">
+      <translation id="0">
+        <text>垫</text>
+      </translation>
+      <translation id="1">
+        <text>wyścielać</text>
+      </translation>
+    </entry>
+    <entry id="138">
+      <translation id="0">
+        <text>张</text>
+      </translation>
+      <translation id="1">
+        <text>otwierać/rozpościerać (np. mapę), (kwantyfikator dla płaskich obiektów, np. kartek papiru)</text>
+      </translation>
+    </entry>
+    <entry id="139">
+      <translation id="0">
+        <text>油纸</text>
+      </translation>
+      <translation id="1">
+        <text>papier olejowy</text>
+      </translation>
+    </entry>
+    <entry id="140">
+      <translation id="0">
+        <text>弄脏</text>
+      </translation>
+      <translation id="1">
+        <text>brudzić</text>
+      </translation>
+    </entry>
+    <entry id="141">
+      <translation id="0">
+        <text>拿到</text>
+      </translation>
+      <translation id="1">
+        <text>otrzymać, nabyć</text>
+      </translation>
+    </entry>
+    <entry id="142">
+      <translation id="0">
+        <text>热乎乎</text>
+      </translation>
+      <translation id="1">
+        <text>bardzo ciepłe (jedzenie)</text>
+      </translation>
+    </entry>
+    <entry id="143">
+      <translation id="0">
+        <text>纸袋</text>
+      </translation>
+      <translation id="1">
+        <text>papierowa torba</text>
+      </translation>
+    </entry>
+    <entry id="144">
+      <translation id="0">
+        <text>感觉</text>
+      </translation>
+      <translation id="1">
+        <text>uczucie (np. w palcach), czuć, odczuwać</text>
+      </translation>
+    </entry>
+    <entry id="145">
+      <translation id="0">
+        <text>股</text>
+      </translation>
+      <translation id="1">
+        <text>udo, kawałek, (klasyfikator dla długich, wijących się, obiektów)</text>
+      </translation>
+    </entry>
+    <entry id="146">
+      <translation id="0">
+        <text>暖意</text>
+      </translation>
+      <translation id="1">
+        <text>ciepło</text>
+      </translation>
+    </entry>
+    <entry id="147">
+      <translation id="0">
+        <text>顺着</text>
+      </translation>
+      <translation id="1">
+        <text>podążać</text>
+      </translation>
+    </entry>
+    <entry id="148">
+      <translation id="0">
+        <text>指尖</text>
+      </translation>
+      <translation id="1">
+        <text>opuszki palców, końcówki palców</text>
+      </translation>
+    </entry>
+    <entry id="149">
+      <translation id="0">
+        <text>一直</text>
+      </translation>
+      <translation id="1">
+        <text>w prostej linii</text>
+      </translation>
+    </entry>
+    <entry id="150">
+      <translation id="0">
+        <text>传</text>
+      </translation>
+      <translation id="1">
+        <text>rozprzestrzeniać się, infekować</text>
+      </translation>
+    </entry>
+    <entry id="151">
+      <translation id="0">
+        <text>到了</text>
+      </translation>
+      <translation id="1">
+        <text>w końcu</text>
+      </translation>
+    </entry>
+    <entry id="152">
+      <translation id="0">
+        <text>心里</text>
+      </translation>
+      <translation id="1">
+        <text>serce, klatka piersiowa</text>
       </translation>
     </entry>
   </entries>
   <lessons>
     <container>
-      <name>Rozdział 1</name>
+      <name>R1</name>
       <inpractice>true</inpractice>
-      <entry id="0"/>
-      <entry id="1"/>
-      <entry id="2"/>
-      <entry id="3"/>
-      <entry id="4"/>
-      <entry id="5"/>
-      <entry id="6"/>
-      <entry id="7"/>
-      <entry id="8"/>
-      <entry id="9"/>
-      <entry id="10"/>
-      <entry id="11"/>
-      <entry id="12"/>
-      <entry id="13"/>
-      <entry id="14"/>
-      <entry id="15"/>
-      <entry id="16"/>
-      <entry id="17"/>
-      <entry id="18"/>
-      <entry id="19"/>
-      <entry id="20"/>
-      <entry id="21"/>
-      <entry id="22"/>
-      <entry id="23"/>
-      <entry id="24"/>
-      <entry id="25"/>
-      <entry id="26"/>
-      <entry id="27"/>
-      <entry id="28"/>
-      <entry id="29"/>
-      <entry id="30"/>
-      <entry id="31"/>
-      <entry id="32"/>
-      <entry id="33"/>
-      <entry id="34"/>
-      <entry id="35"/>
-      <entry id="36"/>
-      <entry id="37"/>
-      <entry id="38"/>
-      <entry id="39"/>
-      <entry id="40"/>
-      <entry id="41"/>
-      <entry id="42"/>
-      <entry id="43"/>
-      <entry id="44"/>
-      <entry id="45"/>
-      <entry id="46"/>
-      <entry id="47"/>
-      <entry id="48"/>
-      <entry id="49"/>
-      <entry id="50"/>
-      <entry id="51"/>
-      <entry id="52"/>
-      <entry id="53"/>
-      <entry id="54"/>
-      <entry id="55"/>
-      <entry id="56"/>
-      <entry id="57"/>
-      <entry id="58"/>
-      <entry id="59"/>
-      <entry id="60"/>
-      <entry id="61"/>
-      <entry id="62"/>
-      <entry id="63"/>
-      <entry id="64"/>
-      <entry id="65"/>
-      <entry id="66"/>
-      <entry id="67"/>
-      <entry id="68"/>
-      <entry id="69"/>
-      <entry id="70"/>
-      <entry id="71"/>
-      <entry id="72"/>
-      <entry id="73"/>
-      <entry id="74"/>
-      <entry id="75"/>
-      <entry id="76"/>
-      <entry id="77"/>
-      <entry id="78"/>
-      <entry id="79"/>
-      <entry id="80"/>
-      <entry id="81"/>
-      <entry id="82"/>
-      <entry id="83"/>
-      <entry id="84"/>
-      <entry id="85"/>
-      <entry id="86"/>
-      <entry id="87"/>
-      <entry id="88"/>
-      <entry id="89"/>
-      <entry id="90"/>
-      <entry id="91"/>
-      <entry id="92"/>
-      <entry id="93"/>
-      <entry id="94"/>
-      <entry id="95"/>
-      <entry id="96"/>
-      <entry id="97"/>
-      <entry id="98"/>
-      <entry id="99"/>
+      <container>
+        <name>Strona 1</name>
+        <inpractice>true</inpractice>
+        <entry id="0"/>
+        <entry id="1"/>
+        <entry id="2"/>
+        <entry id="3"/>
+        <entry id="4"/>
+        <entry id="5"/>
+        <entry id="6"/>
+        <entry id="7"/>
+        <entry id="8"/>
+        <entry id="9"/>
+        <entry id="10"/>
+        <entry id="11"/>
+        <entry id="12"/>
+        <entry id="13"/>
+        <entry id="14"/>
+        <entry id="15"/>
+        <entry id="16"/>
+        <entry id="17"/>
+        <entry id="18"/>
+        <entry id="19"/>
+        <entry id="20"/>
+        <entry id="21"/>
+        <entry id="22"/>
+        <entry id="23"/>
+        <entry id="24"/>
+        <entry id="25"/>
+        <entry id="26"/>
+        <entry id="27"/>
+        <entry id="28"/>
+        <entry id="29"/>
+        <entry id="30"/>
+        <entry id="31"/>
+        <entry id="32"/>
+        <entry id="33"/>
+        <entry id="34"/>
+        <entry id="35"/>
+        <entry id="36"/>
+        <entry id="37"/>
+        <entry id="38"/>
+        <entry id="39"/>
+        <entry id="40"/>
+        <entry id="41"/>
+        <entry id="42"/>
+        <entry id="43"/>
+        <entry id="44"/>
+        <entry id="45"/>
+        <entry id="46"/>
+        <entry id="47"/>
+        <entry id="48"/>
+        <entry id="49"/>
+        <entry id="50"/>
+        <entry id="51"/>
+        <entry id="52"/>
+        <entry id="53"/>
+        <entry id="54"/>
+        <entry id="55"/>
+        <entry id="56"/>
+        <entry id="57"/>
+        <entry id="58"/>
+        <entry id="59"/>
+        <entry id="60"/>
+        <entry id="61"/>
+        <entry id="62"/>
+        <entry id="63"/>
+        <entry id="64"/>
+        <entry id="65"/>
+        <entry id="66"/>
+        <entry id="67"/>
+        <entry id="68"/>
+        <entry id="69"/>
+        <entry id="70"/>
+        <entry id="71"/>
+        <entry id="72"/>
+        <entry id="73"/>
+        <entry id="74"/>
+        <entry id="75"/>
+        <entry id="76"/>
+        <entry id="77"/>
+        <entry id="78"/>
+        <entry id="79"/>
+        <entry id="80"/>
+        <entry id="81"/>
+        <entry id="82"/>
+        <entry id="83"/>
+        <entry id="84"/>
+        <entry id="85"/>
+        <entry id="86"/>
+        <entry id="87"/>
+        <entry id="88"/>
+        <entry id="89"/>
+        <entry id="90"/>
+        <entry id="91"/>
+        <entry id="92"/>
+        <entry id="93"/>
+        <entry id="94"/>
+        <entry id="95"/>
+        <entry id="96"/>
+        <entry id="97"/>
+        <entry id="98"/>
+        <entry id="99"/>
+      </container>
+      <container>
+        <name>Strona 2</name>
+        <inpractice>true</inpractice>
+        <entry id="100"/>
+        <entry id="101"/>
+        <entry id="102"/>
+        <entry id="103"/>
+        <entry id="104"/>
+        <entry id="105"/>
+        <entry id="106"/>
+        <entry id="107"/>
+        <entry id="108"/>
+        <entry id="109"/>
+        <entry id="110"/>
+        <entry id="111"/>
+        <entry id="112"/>
+        <entry id="113"/>
+        <entry id="114"/>
+        <entry id="115"/>
+        <entry id="116"/>
+        <entry id="117"/>
+        <entry id="118"/>
+        <entry id="119"/>
+        <entry id="120"/>
+        <entry id="121"/>
+        <entry id="122"/>
+        <entry id="123"/>
+        <entry id="124"/>
+        <entry id="125"/>
+        <entry id="126"/>
+        <entry id="127"/>
+        <entry id="128"/>
+        <entry id="129"/>
+        <entry id="130"/>
+        <entry id="131"/>
+        <entry id="132"/>
+        <entry id="133"/>
+        <entry id="134"/>
+        <entry id="135"/>
+        <entry id="136"/>
+        <entry id="137"/>
+        <entry id="138"/>
+        <entry id="139"/>
+        <entry id="140"/>
+        <entry id="141"/>
+        <entry id="142"/>
+        <entry id="143"/>
+        <entry id="144"/>
+        <entry id="145"/>
+        <entry id="146"/>
+        <entry id="147"/>
+        <entry id="148"/>
+        <entry id="149"/>
+        <entry id="150"/>
+        <entry id="151"/>
+        <entry id="152"/>
+      </container>
     </container>
   </lessons>
   <wordtypes>
