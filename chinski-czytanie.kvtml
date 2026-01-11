@@ -2,10 +2,10 @@
 <!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
 <kvtml version="2.0">
   <information>
-    <generator>Parley 25.08.3</generator>
+    <generator>Parley 25.12.0</generator>
     <title>Chiński czytanie</title>
     <license>Domena publiczna</license>
-    <date>2026-01-04</date>
+    <date>2026-01-11</date>
     <category>Języki</category>
   </information>
   <identifiers>
@@ -27,10 +27,10 @@
         <text>ty</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:39:23</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -43,10 +43,10 @@
         <text>nauczyciel</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:18:12</date>
+          <date>2026-01-11T09:49:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -59,10 +59,10 @@
         <text>ja</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:12:46</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -92,9 +92,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:51:30</date>
+          <date>2026-01-11T10:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -124,9 +124,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:07:40</date>
+          <date>2026-01-11T10:12:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -187,10 +187,10 @@
         <text>Anglia</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:27:30</date>
+          <date>2026-01-11T09:51:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -203,10 +203,10 @@
         <text>Chiny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:31:28</date>
+          <date>2026-01-11T09:38:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -219,10 +219,10 @@
         <text>USA</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:26:19</date>
+          <date>2026-01-11T09:41:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -235,10 +235,10 @@
         <text>człowiek, osoba</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:18:15</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -283,10 +283,10 @@
         <text>co? dlaczego? jak? (w połączeniu z rzeczowinikiem)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:19:54</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -315,10 +315,10 @@
         <text>nie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:22:19</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -364,9 +364,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:15:44</date>
+          <date>2026-01-11T10:24:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -380,9 +380,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:51:41</date>
+          <date>2026-01-11T10:12:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -396,9 +396,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:48:28</date>
+          <date>2026-01-11T10:22:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -411,10 +411,10 @@
         <text>patrzeć</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:12:10</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -443,10 +443,10 @@
         <text>mówić</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:38:25</date>
+          <date>2026-01-11T09:49:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -476,9 +476,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:12:08</date>
+          <date>2026-01-11T10:35:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -491,10 +491,10 @@
         <text>dobrze</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:31:40</date>
+          <date>2026-01-11T09:43:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -508,9 +508,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:06:51</date>
+          <date>2026-01-11T10:04:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -523,10 +523,10 @@
         <text>ono (zwierzę)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:31:44</date>
+          <date>2026-01-11T09:42:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -540,9 +540,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:18:29</date>
+          <date>2026-01-11T10:31:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -555,10 +555,10 @@
         <text>dwa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:46</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -571,10 +571,10 @@
         <text>trzy</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:14</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -587,10 +587,10 @@
         <text>cztery</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:30:26</date>
+          <date>2026-01-11T09:40:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -603,10 +603,10 @@
         <text>pięć</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:39:51</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -619,10 +619,10 @@
         <text>sześć</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:24:37</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -635,10 +635,10 @@
         <text>siedem</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:22:34</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -651,10 +651,10 @@
         <text>osiem</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:30:06</date>
+          <date>2026-01-11T10:02:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -668,9 +668,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:36</date>
+          <date>2026-01-11T10:17:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -684,9 +684,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:17:17</date>
+          <date>2026-01-11T10:31:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -700,9 +700,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:22</date>
+          <date>2026-01-11T10:25:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -716,9 +716,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:47</date>
+          <date>2026-01-11T10:21:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -732,9 +732,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:23:01</date>
+          <date>2026-01-11T10:34:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -747,10 +747,10 @@
         <text>sto milionów</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:44</date>
+          <date>2026-01-11T09:36:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -764,9 +764,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:16:36</date>
+          <date>2026-01-11T10:25:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -780,9 +780,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:52:14</date>
+          <date>2026-01-11T10:17:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -795,10 +795,10 @@
         <text>(cząstka tworząca pytanie tak/nie)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:38:36</date>
+          <date>2026-01-11T09:51:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -811,10 +811,10 @@
         <text>(cząstka określająca liczbę mnogą dla osób)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:44:40</date>
+          <date>2026-01-11T09:43:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -827,10 +827,10 @@
         <text>język chiński</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:19:59</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -843,10 +843,10 @@
         <text>mieć, posiadać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:15:59</date>
+          <date>2026-01-11T10:00:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -859,10 +859,10 @@
         <text>kolega/koleżanka z klasy</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>9</count>
+          <currentgrade>2</currentgrade>
+          <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:41:07</date>
+          <date>2026-01-11T09:36:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -875,10 +875,10 @@
         <text>ten sam, podobny, razem z [znak]</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:07</date>
+          <date>2026-01-11T09:57:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -891,10 +891,10 @@
         <text>nauka, szkoła, wiedza</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:57</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -923,10 +923,10 @@
         <text>potrawa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:46</date>
+          <date>2026-01-11T09:35:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -940,9 +940,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:46:35</date>
+          <date>2026-01-11T10:22:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -971,10 +971,10 @@
         <text>jedzenie, posiłek</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:25:13</date>
+          <date>2026-01-11T09:56:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -986,11 +986,11 @@
       <translation id="1">
         <text>owoc</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
-          <errorcount>0</errorcount>
-          <date>2026-01-02T17:24:30</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-11T09:37:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1003,10 +1003,10 @@
         <text>woda</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:45:13</date>
+          <date>2026-01-11T09:51:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1019,10 +1019,10 @@
         <text>herbata</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:17:19</date>
+          <date>2026-01-11T09:42:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1035,10 +1035,10 @@
         <text>jeść</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:29</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1051,10 +1051,10 @@
         <text>pić</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:29:39</date>
+          <date>2026-01-11T09:47:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1068,9 +1068,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:06:33</date>
+          <date>2026-01-11T10:25:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1083,10 +1083,10 @@
         <text>piosenkarz</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:12:26</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1100,9 +1100,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:46:25</date>
+          <date>2026-01-11T10:22:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1115,10 +1115,10 @@
         <text>ręka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:20:16</date>
+          <date>2026-01-11T09:41:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1132,9 +1132,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:20:49</date>
+          <date>2026-01-11T10:35:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1147,10 +1147,10 @@
         <text>personel, członek (jakiegoś zgomadzenia) [znak]</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:30:33</date>
+          <date>2026-01-11T10:02:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1163,10 +1163,10 @@
         <text>wystawiać (przedstawienie, sztukę), ćwiczyć [znak]</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:16:19</date>
+          <date>2026-01-11T09:37:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1179,10 +1179,10 @@
         <text>sportowiec, atleta</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:54</date>
+          <date>2026-01-11T09:47:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1195,10 +1195,10 @@
         <text>góra</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:18:31</date>
+          <date>2026-01-11T09:37:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1211,10 +1211,10 @@
         <text>zegar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:51</date>
+          <date>2026-01-11T09:43:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1244,9 +1244,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:41:00</date>
+          <date>2026-01-11T10:24:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1260,9 +1260,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:26</date>
+          <date>2026-01-11T10:12:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1275,10 +1275,10 @@
         <text>gwiazda, planeta</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:24:43</date>
+          <date>2026-01-11T09:58:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1291,10 +1291,10 @@
         <text>łódź</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:19:43</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1307,10 +1307,10 @@
         <text>łóżko</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:44:19</date>
+          <date>2026-01-11T09:48:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1322,11 +1322,11 @@
       <translation id="1">
         <text>rozgrzewać, podgrzewać</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
-          <errorcount>0</errorcount>
-          <date>2026-01-02T17:37:29</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-11T09:56:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1339,10 +1339,10 @@
         <text>lodówka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:23:38</date>
+          <date>2026-01-11T09:42:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1371,10 +1371,10 @@
         <text>kierowca</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:40:13</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1403,10 +1403,10 @@
         <text>lotnisko</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:17:04</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1420,9 +1420,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:21:27</date>
+          <date>2026-01-11T10:33:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1435,10 +1435,10 @@
         <text>wspinać się</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:39:16</date>
+          <date>2026-01-11T09:51:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1451,10 +1451,10 @@
         <text>zegarek na rękę</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:17:56</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1484,9 +1484,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:41</date>
+          <date>2026-01-11T10:16:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1548,9 +1548,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-04T15:41:17</date>
+          <date>2026-01-11T10:25:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1563,10 +1563,10 @@
         <text>pytanie, problem</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:44:09</date>
+          <date>2026-01-11T09:40:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1580,9 +1580,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:06:35</date>
+          <date>2026-01-11T10:04:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1596,9 +1596,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:06:52</date>
+          <date>2026-01-11T10:25:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1627,10 +1627,10 @@
         <text>ponownie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:47</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1659,10 +1659,10 @@
         <text>kraj pochodzenia</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:45:41</date>
+          <date>2026-01-11T09:35:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1676,9 +1676,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:07:19</date>
+          <date>2026-01-11T10:18:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1691,10 +1691,10 @@
         <text>ten, ta, to (odpowiednik this)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:32:18</date>
+          <date>2026-01-11T09:36:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1707,10 +1707,10 @@
         <text>tamten, tamta, tamto (odpowiednik that)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:32:23</date>
+          <date>2026-01-11T09:55:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1723,10 +1723,10 @@
         <text>naukowiec (on/ona)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:45:33</date>
+          <date>2026-01-11T09:52:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1771,10 +1771,10 @@
         <text>maszyna</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:16:33</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1835,10 +1835,10 @@
         <text>kontynuować</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:45</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1851,10 +1851,10 @@
         <text>iteresować się, zainteresowanie, hobby</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:28:38</date>
+          <date>2026-01-11T09:35:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1868,9 +1868,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:10:04</date>
+          <date>2026-01-11T10:16:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1899,10 +1899,10 @@
         <text>tydzień, dzień tygodnia</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:16:03</date>
+          <date>2026-01-11T09:39:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1916,9 +1916,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:51:26</date>
+          <date>2026-01-11T10:03:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1931,10 +1931,10 @@
         <text>chiński znak</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:37:19</date>
+          <date>2026-01-11T09:48:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1948,9 +1948,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:06:48</date>
+          <date>2026-01-11T10:17:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1980,9 +1980,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:56</date>
+          <date>2026-01-11T10:16:24</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1995,10 +1995,10 @@
         <text>wczoraj</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:31:55</date>
+          <date>2026-01-11T09:42:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2043,10 +2043,10 @@
         <text>słowo, litera</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:28:46</date>
+          <date>2026-01-11T09:40:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2059,10 +2059,10 @@
         <text>tygrys</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:15:56</date>
+          <date>2026-01-11T09:55:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2076,9 +2076,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:26</date>
+          <date>2026-01-11T10:17:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2090,11 +2090,11 @@
       <translation id="1">
         <text>wół</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
-          <errorcount>0</errorcount>
-          <date>2026-01-02T17:17:50</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-11T09:48:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2107,10 +2107,10 @@
         <text>orangutan</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:25:21</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2123,10 +2123,10 @@
         <text>małpa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:45:22</date>
+          <date>2026-01-11T09:40:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2155,10 +2155,10 @@
         <text>świnia</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:28:11</date>
+          <date>2026-01-11T09:55:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2171,10 +2171,10 @@
         <text>koń</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:23:11</date>
+          <date>2026-01-11T09:48:52</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2188,9 +2188,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:06:40</date>
+          <date>2026-01-11T10:18:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2220,9 +2220,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:34</date>
+          <date>2026-01-11T10:11:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2235,10 +2235,10 @@
         <text>pies</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:21:57</date>
+          <date>2026-01-11T09:50:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2251,10 +2251,10 @@
         <text>nosorożec</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:21:32</date>
+          <date>2026-01-11T09:42:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2267,10 +2267,10 @@
         <text>krokodyl</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:11:48</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2284,9 +2284,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:50:16</date>
+          <date>2026-01-11T10:20:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2315,10 +2315,10 @@
         <text>hipopotam</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:08:08</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2347,10 +2347,10 @@
         <text>rekin</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:01</date>
+          <date>2026-01-11T09:35:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2380,9 +2380,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:11:40</date>
+          <date>2026-01-11T10:31:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2412,9 +2412,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:50:06</date>
+          <date>2026-01-11T10:20:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2428,9 +2428,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:23:21</date>
+          <date>2026-01-11T10:32:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2443,10 +2443,10 @@
         <text>kto?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:40:20</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2460,9 +2460,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:39:31</date>
+          <date>2026-01-11T10:26:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2475,10 +2475,10 @@
         <text>dom, rodzina</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:38:44</date>
+          <date>2026-01-11T09:52:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2491,10 +2491,10 @@
         <text>niewolnik</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:37:53</date>
+          <date>2026-01-11T09:37:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2507,10 +2507,10 @@
         <text>kobieta</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:17:00</date>
+          <date>2026-01-11T10:01:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2556,9 +2556,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:46:41</date>
+          <date>2026-01-11T10:19:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2572,9 +2572,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:48:12</date>
+          <date>2026-01-11T10:05:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2602,11 +2602,11 @@
       <translation id="1">
         <text>móc, potrafić</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
-          <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:25</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-11T10:02:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2635,10 +2635,10 @@
         <text>zdrowy rozsądek, wiedza ogólna</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:14:41</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2652,9 +2652,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:18</date>
+          <date>2026-01-11T10:25:52</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2668,9 +2668,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:50:24</date>
+          <date>2026-01-11T10:30:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2684,9 +2684,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:12:13</date>
+          <date>2026-01-11T10:32:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2700,9 +2700,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:07:13</date>
+          <date>2026-01-11T10:03:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2748,9 +2748,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:46:19</date>
+          <date>2026-01-11T10:22:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2780,9 +2780,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:38</date>
+          <date>2026-01-11T10:04:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2811,10 +2811,10 @@
         <text>częsty, powszechni, normalny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:08:14</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2827,10 +2827,10 @@
         <text>centrum handlowe, plac targowy</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:40:12</date>
+          <date>2026-01-11T10:02:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2844,9 +2844,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:21:13</date>
+          <date>2026-01-11T10:35:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2874,11 +2874,11 @@
       <translation id="1">
         <text>podróż służbowa</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
-          <errorcount>0</errorcount>
-          <date>2026-01-02T17:51:15</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-11T10:17:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2892,9 +2892,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:21</date>
+          <date>2026-01-11T10:03:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2924,9 +2924,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:52:55</date>
+          <date>2026-01-11T10:20:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2939,10 +2939,10 @@
         <text>przydatny, mieć zastosowanie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:30:41</date>
+          <date>2026-01-11T09:58:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2955,10 +2955,10 @@
         <text>przyjaźń, partnerstwo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:17:33</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2972,9 +2972,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:13:31</date>
+          <date>2026-01-11T10:25:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3036,9 +3036,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:00</date>
+          <date>2026-01-11T10:15:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3067,10 +3067,10 @@
         <text>zagraniczny, obcy</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:31:23</date>
+          <date>2026-01-11T09:57:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3115,10 +3115,10 @@
         <text>bankiet</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:32:03</date>
+          <date>2026-01-11T09:57:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3132,9 +3132,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:42</date>
+          <date>2026-01-11T10:12:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3148,9 +3148,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:17:14</date>
+          <date>2026-01-11T10:30:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3163,10 +3163,10 @@
         <text>aktualny rok</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:22:44</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3180,9 +3180,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:07:28</date>
+          <date>2026-01-11T09:57:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3195,10 +3195,10 @@
         <text>(cząstka wskazująca na zmianę stanu)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:14:59</date>
+          <date>2026-01-11T10:01:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3211,10 +3211,10 @@
         <text>jak dużo? (spodziewamy się mniej niż 10)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:28:01</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3227,10 +3227,10 @@
         <text>usta, (kwantyfikator dla osób)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:21:16</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3244,9 +3244,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:40:57</date>
+          <date>2026-01-11T10:11:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3276,9 +3276,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:23</date>
+          <date>2026-01-11T10:16:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3291,10 +3291,10 @@
         <text>nie mieć</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:16:17</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3307,10 +3307,10 @@
         <text>duży, stary</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:26:16</date>
+          <date>2026-01-11T09:52:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3339,10 +3339,10 @@
         <text>starsza siostra</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:38</date>
+          <date>2026-01-11T09:49:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3387,10 +3387,10 @@
         <text>starszy brat</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:37:40</date>
+          <date>2026-01-11T09:37:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3404,9 +3404,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:14:35</date>
+          <date>2026-01-11T10:25:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3419,10 +3419,10 @@
         <text>ojciec</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:31:10</date>
+          <date>2026-01-11T09:49:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3451,10 +3451,10 @@
         <text>dziadek ze strony matki</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:14:32</date>
+          <date>2026-01-11T09:37:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3483,10 +3483,10 @@
         <text>żona</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:37:13</date>
+          <date>2026-01-11T10:02:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3499,10 +3499,10 @@
         <text>rok, ziarno</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:32:26</date>
+          <date>2026-01-11T09:50:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3516,9 +3516,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:52:40</date>
+          <date>2026-01-11T10:12:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3532,9 +3532,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:33</date>
+          <date>2026-01-11T10:03:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3547,10 +3547,10 @@
         <text>jak dużo?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:30:24</date>
+          <date>2026-01-11T09:40:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3563,10 +3563,10 @@
         <text>szkoła średnia</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:26:30</date>
+          <date>2026-01-11T09:47:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3579,10 +3579,10 @@
         <text>szkoła podstawowa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:22:07</date>
+          <date>2026-01-11T09:40:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3595,10 +3595,10 @@
         <text>uniwersytet</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:32:08</date>
+          <date>2026-01-11T09:35:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3611,10 +3611,10 @@
         <text>następny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:27:56</date>
+          <date>2026-01-11T09:41:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3628,9 +3628,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:37</date>
+          <date>2026-01-11T10:01:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3643,10 +3643,10 @@
         <text>pierwsze, z przodu, poprzednie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:22:03</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3676,9 +3676,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:34</date>
+          <date>2026-01-11T10:13:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3691,10 +3691,10 @@
         <text>jak stary? jakiej wielkości?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:27:05</date>
+          <date>2026-01-11T09:43:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3707,10 +3707,10 @@
         <text>szkoła</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:14:12</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3723,10 +3723,10 @@
         <text>mały, młody</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:44:16</date>
+          <date>2026-01-11T09:43:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3740,9 +3740,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:07:07</date>
+          <date>2026-01-11T10:21:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3755,10 +3755,10 @@
         <text>mało, kilka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:17:40</date>
+          <date>2026-01-11T09:49:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3771,10 +3771,10 @@
         <text>teściowa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:38:58</date>
+          <date>2026-01-11T09:47:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3802,11 +3802,11 @@
       <translation id="1">
         <text>butelka</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
-          <errorcount>0</errorcount>
-          <date>2026-01-02T17:28:23</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-11T09:51:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3819,10 +3819,10 @@
         <text>macocha</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:25:52</date>
+          <date>2026-01-11T09:55:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3835,10 +3835,10 @@
         <text>ojczym</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:18:03</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3851,10 +3851,10 @@
         <text>teść</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:20:01</date>
+          <date>2026-01-11T09:58:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3883,10 +3883,10 @@
         <text>dziecko</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:18:25</date>
+          <date>2026-01-11T09:35:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3899,10 +3899,10 @@
         <text>mały ptaszek</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:44:36</date>
+          <date>2026-01-11T10:00:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3947,10 +3947,10 @@
         <text>kuchnia chińska</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:32:28</date>
+          <date>2026-01-11T09:52:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3963,10 +3963,10 @@
         <text>robić</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:27:13</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3979,10 +3979,10 @@
         <text>smaczne (jedzenie)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:26:51</date>
+          <date>2026-01-11T09:55:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3995,10 +3995,10 @@
         <text>jak? (w połączeniu z czasownikiem)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:12:50</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4011,10 +4011,10 @@
         <text>Potrawy z jakiego kraju?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:37:31</date>
+          <date>2026-01-11T09:36:52</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4043,10 +4043,10 @@
         <text>język angielski</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:21:42</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4060,9 +4060,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:48:04</date>
+          <date>2026-01-11T10:20:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4075,10 +4075,10 @@
         <text>język japoński</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:23:29</date>
+          <date>2026-01-11T09:50:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4092,9 +4092,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:06:10</date>
+          <date>2026-01-11T10:15:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4107,10 +4107,10 @@
         <text>pewien (nieokreślony) znak (odpowiednik "a character")</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:14:52</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4123,10 +4123,10 @@
         <text>Jak dużo znaków? (spodziewamy się mniej niż 10)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:29:45</date>
+          <date>2026-01-11T09:52:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4140,9 +4140,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:31</date>
+          <date>2026-01-11T10:12:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4156,9 +4156,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:15</date>
+          <date>2026-01-11T10:15:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4187,10 +4187,10 @@
         <text>przyjemny do słuchania (dźwięk)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:23:12</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4203,10 +4203,10 @@
         <text>smaczny napój</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:26:13</date>
+          <date>2026-01-11T09:42:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4236,9 +4236,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:08:58</date>
+          <date>2026-01-11T10:26:24</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4267,10 +4267,10 @@
         <text>mleko</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:38:32</date>
+          <date>2026-01-11T10:01:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4299,10 +4299,10 @@
         <text>telefon komórkowy</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:20:27</date>
+          <date>2026-01-11T09:52:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4331,10 +4331,10 @@
         <text>gra na telefon komórkowy</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:37:36</date>
+          <date>2026-01-11T09:42:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4347,10 +4347,10 @@
         <text>jak napisać?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:39:41</date>
+          <date>2026-01-11T09:55:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4363,10 +4363,10 @@
         <text>użyć, wykorzystać (coś)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:32:12</date>
+          <date>2026-01-11T10:00:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4395,10 +4395,10 @@
         <text>park</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:19:12</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4459,10 +4459,10 @@
         <text>firma</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:21:42</date>
+          <date>2026-01-11T09:41:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4492,9 +4492,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:06:31</date>
+          <date>2026-01-11T10:17:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4507,10 +4507,10 @@
         <text>witać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:29</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4540,9 +4540,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:22:21</date>
+          <date>2026-01-11T10:31:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4556,9 +4556,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:43</date>
+          <date>2026-01-11T10:17:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4603,10 +4603,10 @@
         <text>szczęśliwy</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:29:42</date>
+          <date>2026-01-11T09:38:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4619,10 +4619,10 @@
         <text>proszę (forma uprzejma)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:22:28</date>
+          <date>2026-01-11T09:40:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4635,10 +4635,10 @@
         <text>księżyc, miesiąc</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:10</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4651,10 +4651,10 @@
         <text>pytać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:21:56</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4667,10 +4667,10 @@
         <text>dzisiaj</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:40:57</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4683,10 +4683,10 @@
         <text>słońce, dzień, dzień miesiąca</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:20:15</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4700,9 +4700,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:48</date>
+          <date>2026-01-11T10:16:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4715,10 +4715,10 @@
         <text>tydzień (krótka forma)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:38:49</date>
+          <date>2026-01-11T09:41:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4732,9 +4732,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:16:21</date>
+          <date>2026-01-11T10:26:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4747,10 +4747,10 @@
         <text>numer (dnia, miesiąca)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:22:11</date>
+          <date>2026-01-11T10:00:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4763,10 +4763,10 @@
         <text>jakiś miesiąc</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:20:40</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4779,10 +4779,10 @@
         <text>dwa lata</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:35</date>
+          <date>2026-01-11T10:02:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4796,9 +4796,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:19</date>
+          <date>2026-01-11T10:04:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4812,9 +4812,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:06:45</date>
+          <date>2026-01-11T10:21:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4827,10 +4827,10 @@
         <text>czytać książkę, uczyć się</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:18:41</date>
+          <date>2026-01-11T09:36:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4843,10 +4843,10 @@
         <text>listopad</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:13:05</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4860,9 +4860,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:50:27</date>
+          <date>2026-01-11T10:26:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4876,9 +4876,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:22:58</date>
+          <date>2026-01-11T10:35:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4892,9 +4892,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:51:36</date>
+          <date>2026-01-11T10:16:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4907,10 +4907,10 @@
         <text>lipiec</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:31:49</date>
+          <date>2026-01-11T09:52:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4924,9 +4924,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:56</date>
+          <date>2026-01-11T10:13:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4939,10 +4939,10 @@
         <text>maj</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:23:52</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4955,10 +4955,10 @@
         <text>kwiecień</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:28:50</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4972,9 +4972,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:17:52</date>
+          <date>2026-01-11T10:32:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4987,10 +4987,10 @@
         <text>luty</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:23:14</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5004,9 +5004,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:50</date>
+          <date>2026-01-11T09:58:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5019,10 +5019,10 @@
         <text>grudzień</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:08:16</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5035,10 +5035,10 @@
         <text>sobota</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:15:19</date>
+          <date>2026-01-11T10:01:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5051,10 +5051,10 @@
         <text>piątek</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:45:11</date>
+          <date>2026-01-11T09:56:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5067,10 +5067,10 @@
         <text>czwartek</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:19:31</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5084,9 +5084,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:53:02</date>
+          <date>2026-01-11T10:26:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5100,9 +5100,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:06:02</date>
+          <date>2026-01-11T10:21:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5115,10 +5115,10 @@
         <text>wtorek</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:23:19</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5132,9 +5132,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:15:15</date>
+          <date>2026-01-11T10:26:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5164,9 +5164,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:50:11</date>
+          <date>2026-01-11T10:11:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5179,10 +5179,10 @@
         <text>proszę napisać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:13:24</date>
+          <date>2026-01-11T09:38:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5211,10 +5211,10 @@
         <text>kino</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:37:48</date>
+          <date>2026-01-11T10:00:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5244,9 +5244,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:04</date>
+          <date>2026-01-11T10:35:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5260,9 +5260,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:23:08</date>
+          <date>2026-01-11T10:33:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5291,10 +5291,10 @@
         <text>lekarz</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:22:37</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5308,9 +5308,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:52:11</date>
+          <date>2026-01-11T10:15:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5339,10 +5339,10 @@
         <text>czas, punkt w czasie, czas trwania</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:39:35</date>
+          <date>2026-01-11T09:49:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5371,10 +5371,10 @@
         <text>iść do pracy</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:22:00</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5388,9 +5388,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:23</date>
+          <date>2026-01-11T10:26:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5404,9 +5404,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:08:44</date>
+          <date>2026-01-11T10:31:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5419,10 +5419,10 @@
         <text>biblioteka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:18</date>
+          <date>2026-01-11T09:36:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5435,10 +5435,10 @@
         <text>niebieski</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:18:22</date>
+          <date>2026-01-11T09:48:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5500,9 +5500,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:52</date>
+          <date>2026-01-11T10:21:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5563,10 +5563,10 @@
         <text>wołowina</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:39:30</date>
+          <date>2026-01-11T09:58:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5595,10 +5595,10 @@
         <text>chińskie znaki zodiacu</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:11:51</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5612,9 +5612,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:03</date>
+          <date>2026-01-11T10:19:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5643,10 +5643,10 @@
         <text>smok</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>10</count>
+          <currentgrade>2</currentgrade>
+          <count>11</count>
           <errorcount>2</errorcount>
-          <date>2026-01-04T15:39:25</date>
+          <date>2026-01-11T09:38:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5659,10 +5659,10 @@
         <text>wąż</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:12:53</date>
+          <date>2026-01-11T09:49:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5692,9 +5692,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:12</date>
+          <date>2026-01-11T10:35:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5707,10 +5707,10 @@
         <text>kategoria, należeć, urodzić się w roku (jakiegoś zwierzęcia)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:13:07</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5739,10 +5739,10 @@
         <text>przystojny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:15:04</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5787,10 +5787,10 @@
         <text>budynek użyteczności publicznej</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:41</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5804,9 +5804,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:06:42</date>
+          <date>2026-01-11T10:12:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5819,10 +5819,10 @@
         <text>czas, godzina, okres</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:28:26</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5851,10 +5851,10 @@
         <text>szyja</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:37:50</date>
+          <date>2026-01-11T09:53:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5867,10 +5867,10 @@
         <text>długi</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:45:36</date>
+          <date>2026-01-11T09:36:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5915,10 +5915,10 @@
         <text>wczoraj</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:30:58</date>
+          <date>2026-01-11T09:54:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5979,10 +5979,10 @@
         <text>sklep</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:44:25</date>
+          <date>2026-01-11T09:39:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5995,10 +5995,10 @@
         <text>kupiec, handel</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:20:20</date>
+          <date>2026-01-11T09:52:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6011,10 +6011,10 @@
         <text>kupować</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:44:29</date>
+          <date>2026-01-11T09:52:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6043,10 +6043,10 @@
         <text>popołudnie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:22:32</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6060,9 +6060,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:48:50</date>
+          <date>2026-01-11T10:16:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6075,10 +6075,10 @@
         <text>czarna herbata</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:13:12</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6092,9 +6092,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:14:47</date>
+          <date>2026-01-11T10:32:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6124,9 +6124,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:43:15</date>
+          <date>2026-01-11T10:04:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6155,10 +6155,10 @@
         <text>powiedzenie: "Kiedy człowiek odchodzi, herbata stygnie" (po stracie władzy, człowiek jest zapominany)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:25:26</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6171,10 +6171,10 @@
         <text>herbata owocowa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:14:45</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6187,10 +6187,10 @@
         <text>poranna herbata</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:40:05</date>
+          <date>2026-01-11T09:52:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6203,10 +6203,10 @@
         <text>powiedzenie: "Oferować 3 typy herbaty i 6 potraw" (być bardzo gościnnym)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:20:35</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6219,10 +6219,10 @@
         <text>herbata oolong</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:15:35</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6235,10 +6235,10 @@
         <text>herbata jaśminowa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:10:11</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6267,10 +6267,10 @@
         <text>roibos</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:24:38</date>
+          <date>2026-01-11T09:54:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6283,10 +6283,10 @@
         <text>kupiec, handel</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:39:27</date>
+          <date>2026-01-11T09:41:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6299,10 +6299,10 @@
         <text>karczma, hotel, (forma związana) sklep</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:31:18</date>
+          <date>2026-01-11T09:54:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6315,10 +6315,10 @@
         <text>zielony</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:18:28</date>
+          <date>2026-01-11T10:00:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6332,9 +6332,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:52</date>
+          <date>2026-01-11T10:26:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6348,9 +6348,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:12:41</date>
+          <date>2026-01-11T10:34:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6363,10 +6363,10 @@
         <text>południe</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:13:03</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6380,9 +6380,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:23:09</date>
+          <date>2026-01-11T10:32:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6395,10 +6395,10 @@
         <text>wieczór</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:16:31</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6411,10 +6411,10 @@
         <text>śniadanie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:19:28</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6427,10 +6427,10 @@
         <text>kolacja</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:39:08</date>
+          <date>2026-01-11T09:58:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6442,11 +6442,11 @@
       <translation id="1">
         <text>dobrego ranka! (ang: good morning)</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
-          <errorcount>0</errorcount>
-          <date>2026-01-02T17:31:05</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-11T09:39:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6459,10 +6459,10 @@
         <text>dobry wieczór!</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:29:56</date>
+          <date>2026-01-11T09:48:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6475,10 +6475,10 @@
         <text>sprzedawać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:20</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6492,9 +6492,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:52:49</date>
+          <date>2026-01-11T10:26:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6507,10 +6507,10 @@
         <text>siadać, zająć miejsce, przynieść owoce</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:15:24</date>
+          <date>2026-01-11T09:53:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6523,10 +6523,10 @@
         <text>szczęśliwy, zadowolony, zachwycony</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:16:31</date>
+          <date>2026-01-11T09:50:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6539,10 +6539,10 @@
         <text>przekraczać, mijać (czas), świętować, żyć</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:20:49</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6556,9 +6556,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:45:54</date>
+          <date>2026-01-11T10:11:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6571,10 +6571,10 @@
         <text>ponieważ</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:13:29</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6603,10 +6603,10 @@
         <text>ryba</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:17:55</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6620,9 +6620,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:27:37</date>
+          <date>2026-01-11T10:33:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6652,9 +6652,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:07:03</date>
+          <date>2026-01-11T10:12:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6668,9 +6668,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:20:19</date>
+          <date>2026-01-11T10:31:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6684,9 +6684,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:52</date>
+          <date>2026-01-11T10:04:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6699,10 +6699,10 @@
         <text>(cząstka wyrażająca sugestię, przypuszczenie), "..., ok?"</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:39:24</date>
+          <date>2026-01-11T10:01:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6716,9 +6716,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:11</date>
+          <date>2026-01-11T10:25:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6732,9 +6732,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:11:45</date>
+          <date>2026-01-11T10:11:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6748,9 +6748,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:15:42</date>
+          <date>2026-01-11T10:32:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6764,9 +6764,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:43:10</date>
+          <date>2026-01-11T10:13:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6795,10 +6795,10 @@
         <text>piwo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:08:27</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6811,10 +6811,10 @@
         <text>bransoletka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:12:55</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6843,10 +6843,10 @@
         <text>nadmorski</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:20:54</date>
+          <date>2026-01-11T09:49:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6859,10 +6859,10 @@
         <text>gąbka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:14:59</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6875,10 +6875,10 @@
         <text>poprzednio</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:37:16</date>
+          <date>2026-01-11T09:48:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6908,9 +6908,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:51:55</date>
+          <date>2026-01-11T10:14:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6924,9 +6924,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:19:22</date>
+          <date>2026-01-11T10:34:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6940,9 +6940,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:17:11</date>
+          <date>2026-01-11T10:35:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6955,10 +6955,10 @@
         <text>codziennie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:24:19</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6971,10 +6971,10 @@
         <text>co roku</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:14:41</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6988,9 +6988,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:22:16</date>
+          <date>2026-01-11T10:27:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7003,10 +7003,10 @@
         <text>piękny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:21:51</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7020,9 +7020,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:20:29</date>
+          <date>2026-01-11T10:35:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7035,10 +7035,10 @@
         <text>wyrażać podziękowania, wdzięczny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:39:02</date>
+          <date>2026-01-11T09:36:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7051,10 +7051,10 @@
         <text>już</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:24:09</date>
+          <date>2026-01-11T09:37:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7083,10 +7083,10 @@
         <text>tam</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:28:53</date>
+          <date>2026-01-11T09:52:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7099,10 +7099,10 @@
         <text>pod</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:14:27</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7131,10 +7131,10 @@
         <text>gdzie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:22:08</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7164,9 +7164,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:46:32</date>
+          <date>2026-01-11T10:03:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7179,10 +7179,10 @@
         <text>(na) zewnątrz</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:21:36</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7211,10 +7211,10 @@
         <text>z tyłu</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:21:27</date>
+          <date>2026-01-11T09:37:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7227,10 +7227,10 @@
         <text>górna strona</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:12:56</date>
+          <date>2026-01-11T09:41:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7243,10 +7243,10 @@
         <text>wewnętrzna strona</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:13:34</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7276,9 +7276,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:31</date>
+          <date>2026-01-11T10:24:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7291,10 +7291,10 @@
         <text>policjant</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:35</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7308,9 +7308,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:51:46</date>
+          <date>2026-01-11T10:18:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7355,10 +7355,10 @@
         <text>analizować, dochodzić</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:21:44</date>
+          <date>2026-01-11T09:51:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7387,10 +7387,10 @@
         <text>stacja metra</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:10:31</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7403,10 +7403,10 @@
         <text>apteka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:01</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7467,10 +7467,10 @@
         <text>kwiaty</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:16:58</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7483,10 +7483,10 @@
         <text>księgarnia</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:39:49</date>
+          <date>2026-01-11T09:56:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7499,10 +7499,10 @@
         <text>chleb</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:10:44</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7515,10 +7515,10 @@
         <text>komputer</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:51</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7548,9 +7548,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:33</date>
+          <date>2026-01-11T10:12:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7563,10 +7563,10 @@
         <text>lato</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:39</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7579,10 +7579,10 @@
         <text>tańczyć</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:30:04</date>
+          <date>2026-01-11T10:01:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7596,9 +7596,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:11:58</date>
+          <date>2026-01-11T10:16:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7628,9 +7628,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:08:53</date>
+          <date>2026-01-11T10:21:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7643,10 +7643,10 @@
         <text>telewizja</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:17:24</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7659,10 +7659,10 @@
         <text>śpiewać piosenkę</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:24:02</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7675,10 +7675,10 @@
         <text>przeglądać, rewizja (np. kodu)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:19:29</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7708,9 +7708,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:41:32</date>
+          <date>2026-01-11T10:18:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7787,10 +7787,10 @@
         <text>punkt w środku, środek, wewnątrz</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:14:35</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7803,10 +7803,10 @@
         <text>trolejbus</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:22:53</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7835,10 +7835,10 @@
         <text>klasyfikator dla zwierząt (z nogami)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:14:17</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7852,9 +7852,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:05</date>
+          <date>2026-01-11T10:25:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7868,9 +7868,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:21:31</date>
+          <date>2026-01-11T10:30:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7883,10 +7883,10 @@
         <text>iść, spacerować</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:15:26</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7915,10 +7915,10 @@
         <text>pokój</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:09:38</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7932,9 +7932,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:18:19</date>
+          <date>2026-01-11T10:34:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7948,9 +7948,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:48:34</date>
+          <date>2026-01-11T10:17:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7963,10 +7963,10 @@
         <text>mięso z kurczaka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:17:46</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7980,9 +7980,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:21:38</date>
+          <date>2026-01-11T10:25:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8011,10 +8011,10 @@
         <text>pada deszcz</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:12:36</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8043,10 +8043,10 @@
         <text>spodnie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:13:46</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8059,10 +8059,10 @@
         <text>język (część ciała)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:21:23</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8091,10 +8091,10 @@
         <text>kamień</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:23:48</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8108,9 +8108,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:12:30</date>
+          <date>2026-01-11T10:33:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8140,9 +8140,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:48:45</date>
+          <date>2026-01-11T10:16:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8154,11 +8154,11 @@
       <translation id="1">
         <text>minuta</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
-          <errorcount>0</errorcount>
-          <date>2026-01-02T18:10:37</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-11T10:30:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8172,9 +8172,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:15</date>
+          <date>2026-01-11T10:20:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8203,10 +8203,10 @@
         <text>godzina (ang. o'clock)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:12:17</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8220,9 +8220,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:49</date>
+          <date>2026-01-11T10:17:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8300,9 +8300,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:45:06</date>
+          <date>2026-01-11T10:23:24</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8315,10 +8315,10 @@
         <text>wracać do kraju</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:18:18</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8330,11 +8330,11 @@
       <translation id="1">
         <text>każda książka</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
-          <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:49</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-11T10:17:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8347,10 +8347,10 @@
         <text>każda osoba</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:19:44</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8363,10 +8363,10 @@
         <text>o której godzinie?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:26:09</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8380,9 +8380,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:15</date>
+          <date>2026-01-11T10:03:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8444,9 +8444,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:14</date>
+          <date>2026-01-11T10:21:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8475,10 +8475,10 @@
         <text>wstać z łóżka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:22:50</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8491,10 +8491,10 @@
         <text>uczyć się</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:17:45</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8556,9 +8556,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:46:55</date>
+          <date>2026-01-11T10:22:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8603,10 +8603,10 @@
         <text>choinka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:24:16</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8620,9 +8620,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:08</date>
+          <date>2026-01-11T10:22:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8636,9 +8636,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:15:43</date>
+          <date>2026-01-11T10:24:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8731,10 +8731,10 @@
         <text>nóż</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:39:46</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8748,9 +8748,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:17</date>
+          <date>2026-01-11T10:16:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8764,9 +8764,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:29</date>
+          <date>2026-01-11T10:23:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8780,9 +8780,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:46:23</date>
+          <date>2026-01-11T10:20:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8812,9 +8812,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:47:30</date>
+          <date>2026-01-11T10:15:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8844,9 +8844,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:39</date>
+          <date>2026-01-11T10:11:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8859,10 +8859,10 @@
         <text>ręka, czynności wykonywane rękoma [zdeformowany znak]</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:28:31</date>
+          <date>2026-01-11T09:36:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8876,9 +8876,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:48:56</date>
+          <date>2026-01-11T10:20:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8891,10 +8891,10 @@
         <text>drewno, drzewo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:39:12</date>
+          <date>2026-01-11T09:42:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8907,10 +8907,10 @@
         <text>ogień</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:40:25</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8923,10 +8923,10 @@
         <text>ogień [zdeformowany znak]</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:30:00</date>
+          <date>2026-01-11T09:48:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8939,10 +8939,10 @@
         <text>oko</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:40:33</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8955,10 +8955,10 @@
         <text>zboże</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:39:40</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8971,10 +8971,10 @@
         <text>jadeit</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:41:26</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9036,9 +9036,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T18:05:45</date>
+          <date>2026-01-11T10:11:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9051,10 +9051,10 @@
         <text>choroba</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:13:50</date>
+          <date>2026-01-11T09:41:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9083,10 +9083,10 @@
         <text>mięso, po lewej stronie znaku: część ciała</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:37:23</date>
+          <date>2026-01-11T09:50:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9099,10 +9099,10 @@
         <text>mięso, po lewej stronie znaku: część ciała [zdeformowany znak]</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:40:39</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9115,10 +9115,10 @@
         <text>owad</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:41:11</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9131,10 +9131,10 @@
         <text>trawa, rośliny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:44:52</date>
+          <date>2026-01-11T09:49:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9163,10 +9163,10 @@
         <text>ucho, po lewej stronie znaku: wzgórze, teren; po prawej stronie: miasto [zdeformowany znak]</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:30:16</date>
+          <date>2026-01-11T10:02:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9180,9 +9180,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:39:21</date>
+          <date>2026-01-11T10:30:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9195,10 +9195,10 @@
         <text>ubrania [zdeformowany znak]</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2026-01-04T15:41:29</date>
+          <date>2026-01-10T09:35:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9228,9 +9228,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:49:51</date>
+          <date>2026-01-11T10:23:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9260,9 +9260,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:27:33</date>
+          <date>2026-01-11T10:31:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9275,10 +9275,10 @@
         <text>stopa [zdeformowany znak]</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:25:15</date>
+          <date>2026-01-11T10:00:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9292,9 +9292,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:24:24</date>
+          <date>2026-01-11T10:35:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9307,10 +9307,10 @@
         <text>deszcz</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:32:30</date>
+          <date>2026-01-11T09:37:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9323,10 +9323,10 @@
         <text>deszcz [zdeformowany znak]</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:17:47</date>
+          <date>2026-01-11T09:41:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9356,9 +9356,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:51:43</date>
+          <date>2026-01-11T10:21:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9388,9 +9388,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:50:13</date>
+          <date>2026-01-11T10:17:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9403,10 +9403,10 @@
         <text>język (komunikacyjny), mowa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-02T17:39:53</date>
+          <date>2026-01-11T09:54:41</date>
           <interval>0</interval>
         </grade>
       </translation>
