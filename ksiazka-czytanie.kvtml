@@ -5,7 +5,7 @@
     <generator>Parley 25.12.0</generator>
     <title>Książka czytanie</title>
     <license>Domena publiczna</license>
-    <date>2026-01-10</date>
+    <date>2026-01-12</date>
     <category>Języki</category>
   </information>
   <identifiers>
@@ -27,10 +27,10 @@
         <text>antyczny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:35:35</date>
+          <date>2026-01-12T13:09:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -43,10 +43,10 @@
         <text>przychylność</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:23:45</date>
+          <date>2026-01-12T13:26:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -59,10 +59,10 @@
         <text>północ</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:31:46</date>
+          <date>2026-01-12T13:11:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -75,10 +75,10 @@
         <text>granica (np. kraju)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:35:36</date>
+          <date>2026-01-12T13:11:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -91,10 +91,10 @@
         <text>perfumy, zapach</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:36:08</date>
+          <date>2026-01-12T13:08:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -107,10 +107,10 @@
         <text>mury miejskie, miasto</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:31:53</date>
+          <date>2026-01-12T13:29:24</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -123,10 +123,10 @@
         <text>port (wodny, dla statków)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:32:09</date>
+          <date>2026-01-12T13:08:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -139,10 +139,10 @@
         <text>mroczny, ciemny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:23:57</date>
+          <date>2026-01-12T13:08:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -155,10 +155,10 @@
         <text>noc</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:37:32</date>
+          <date>2026-01-12T13:16:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -171,10 +171,10 @@
         <text>zimny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:30:36</date>
+          <date>2026-01-12T13:08:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -187,10 +187,10 @@
         <text>musieć</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>14</count>
+          <currentgrade>4</currentgrade>
+          <count>15</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:29:22</date>
+          <date>2026-01-12T15:30:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -202,11 +202,11 @@
       <translation id="1">
         <text>wyglądać (jak), przypominać</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>15</count>
-          <errorcount>4</errorcount>
-          <date>2026-01-08T15:25:50</date>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>19</count>
+          <errorcount>5</errorcount>
+          <date>2026-01-12T18:02:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -219,10 +219,10 @@
         <text>kość</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:33:59</date>
+          <date>2026-01-12T13:17:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -235,10 +235,10 @@
         <text>szyć, zszywać / szew, pęknięcie, pękać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>16</count>
+          <currentgrade>4</currentgrade>
+          <count>17</count>
           <errorcount>4</errorcount>
-          <date>2026-01-08T15:02:04</date>
+          <date>2026-01-12T15:25:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -251,10 +251,10 @@
         <text>odłamki lodu</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-04T16:50:56</date>
+          <date>2026-01-12T13:03:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -267,10 +267,10 @@
         <text>wsadzać, wypełniać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:38:46</date>
+          <date>2026-01-12T13:28:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -282,11 +282,11 @@
       <translation id="1">
         <text>utrzymywać</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>17</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>18</count>
           <errorcount>2</errorcount>
-          <date>2026-01-10T09:48:31</date>
+          <date>2026-01-12T13:31:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -299,10 +299,10 @@
         <text>być w stanie, przezwyciężyć (trudności)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>16</count>
+          <currentgrade>4</currentgrade>
+          <count>17</count>
           <errorcount>4</errorcount>
-          <date>2026-01-08T15:27:28</date>
+          <date>2026-01-12T15:30:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -315,10 +315,10 @@
         <text>piekarnia</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:31:29</date>
+          <date>2026-01-12T13:17:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -331,10 +331,10 @@
         <text>gruby</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:28:07</date>
+          <date>2026-01-12T12:52:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -347,10 +347,10 @@
         <text>kontuar, bar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>12</count>
+          <currentgrade>4</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:27:46</date>
+          <date>2026-01-12T15:33:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -363,10 +363,10 @@
         <text>dawać zniżkę</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>14</count>
+          <currentgrade>4</currentgrade>
+          <count>15</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:28:11</date>
+          <date>2026-01-12T15:31:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -379,10 +379,10 @@
         <text>wpatrywać się w</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:45:43</date>
+          <date>2026-01-12T12:52:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -395,10 +395,10 @@
         <text>w najwyższym stopniu (przed czasownikiem lub przymiotnikiem)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>14</count>
+          <currentgrade>3</currentgrade>
+          <count>15</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T15:48:11</date>
+          <date>2026-01-12T13:04:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -411,10 +411,10 @@
         <text>trochę, nieco</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:34:31</date>
+          <date>2026-01-12T13:16:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -427,10 +427,10 @@
         <text>spalone (jedzenie)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>15</count>
+          <currentgrade>4</currentgrade>
+          <count>16</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:30:24</date>
+          <date>2026-01-12T16:50:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -443,10 +443,10 @@
         <text>mięsna nić (składnik potraw będący wysyszonym i bardzo drobno posiekanym mięsem)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-04T16:54:56</date>
+          <date>2026-01-12T12:52:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -459,10 +459,10 @@
         <text>zwinięty, otoczony</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:39:07</date>
+          <date>2026-01-12T13:08:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -475,10 +475,10 @@
         <text>jabłko Adama</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>15</count>
+          <currentgrade>4</currentgrade>
+          <count>16</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T14:58:24</date>
+          <date>2026-01-12T15:01:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -490,11 +490,11 @@
       <translation id="1">
         <text>toczyć się, (robić coś) w pętli</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>14</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-08T15:26:24</date>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>18</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:03:52</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -507,10 +507,10 @@
         <text>wschód, właściciel ziemski, gospodarz</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>16</count>
+          <currentgrade>4</currentgrade>
+          <count>17</count>
           <errorcount>4</errorcount>
-          <date>2026-01-08T15:27:34</date>
+          <date>2026-01-12T15:31:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -523,10 +523,10 @@
         <text>tak długo jak, pod warunkiem, jeśli</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:40:28</date>
+          <date>2026-01-12T13:07:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -539,10 +539,10 @@
         <text>miedź</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:35:40</date>
+          <date>2026-01-12T13:33:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -555,10 +555,10 @@
         <text>porównywać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:31:42</date>
+          <date>2026-01-12T13:08:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -571,10 +571,10 @@
         <text>płaski, równy</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:34:46</date>
+          <date>2026-01-12T13:10:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -587,10 +587,10 @@
         <text>tani</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:38:06</date>
+          <date>2026-01-12T13:10:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -603,10 +603,10 @@
         <text>chociaż</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>15</count>
+          <currentgrade>4</currentgrade>
+          <count>16</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T15:23:42</date>
+          <date>2026-01-12T15:28:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -619,10 +619,10 @@
         <text>skóra</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:48:13</date>
+          <date>2026-01-12T13:33:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -635,10 +635,10 @@
         <text>trochę</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:45:57</date>
+          <date>2026-01-12T13:09:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -651,10 +651,10 @@
         <text>twardy, sztywny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>14</count>
+          <currentgrade>3</currentgrade>
+          <count>15</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T15:35:10</date>
+          <date>2026-01-12T13:17:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -667,10 +667,10 @@
         <text>ale</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:45:35</date>
+          <date>2026-01-12T13:16:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -683,10 +683,10 @@
         <text>słabej jakości, tandetne</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>13</count>
+          <currentgrade>3</currentgrade>
+          <count>14</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:39:41</date>
+          <date>2026-01-12T13:04:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -699,10 +699,10 @@
         <text>masło, śmietana</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2026-01-04T16:52:29</date>
+          <date>2026-01-12T12:51:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -715,10 +715,10 @@
         <text>mieszać, wałęsać się</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>19</count>
+          <currentgrade>4</currentgrade>
+          <count>20</count>
           <errorcount>6</errorcount>
-          <date>2026-01-08T15:01:37</date>
+          <date>2026-01-12T15:26:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -731,10 +731,10 @@
         <text>aromat</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:35:05</date>
+          <date>2026-01-12T13:09:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -747,10 +747,10 @@
         <text>prosto, pionowo, poprawiać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:39:57</date>
+          <date>2026-01-12T13:06:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -763,10 +763,10 @@
         <text>z całych sił, dać z siebie wszystko</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>15</count>
+          <currentgrade>4</currentgrade>
+          <count>16</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T15:30:29</date>
+          <date>2026-01-12T15:36:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -778,11 +778,11 @@
       <translation id="1">
         <text>iść w kierunku</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-08T15:50:35</date>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>17</count>
+          <errorcount>2</errorcount>
+          <date>2026-01-12T17:01:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -795,10 +795,10 @@
         <text>nozdrza</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>11</count>
+          <currentgrade>4</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T14:57:54</date>
+          <date>2026-01-12T15:04:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -811,10 +811,10 @@
         <text>wiercić, borować, wwiercać się</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:32:04</date>
+          <date>2026-01-12T13:09:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -827,10 +827,10 @@
         <text>dżentelmen, Pan (ang. sir, mister)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>15</count>
+          <currentgrade>3</currentgrade>
+          <count>16</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T15:45:33</date>
+          <date>2026-01-12T13:10:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -859,10 +859,10 @@
         <text>szef, właściciel firmy/przedsiębiorstwa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>20</count>
+          <currentgrade>3</currentgrade>
+          <count>21</count>
           <errorcount>6</errorcount>
-          <date>2026-01-08T15:33:57</date>
+          <date>2026-01-12T13:28:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -875,10 +875,10 @@
         <text>trzeć, polerować, obierać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:54:04</date>
+          <date>2026-01-12T12:52:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -890,11 +890,11 @@
       <translation id="1">
         <text>tłusty, tłuste jedzenie</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>9</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T18:57:15</date>
+          <date>2026-01-12T16:57:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -907,10 +907,10 @@
         <text>mrugnąć</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>23</count>
+          <currentgrade>3</currentgrade>
+          <count>24</count>
           <errorcount>10</errorcount>
-          <date>2026-01-08T15:30:33</date>
+          <date>2026-01-12T12:52:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -923,10 +923,10 @@
         <text>w kierunku, mocny, mieszać z wodą, zderzać się z</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>18</count>
+          <currentgrade>3</currentgrade>
+          <count>19</count>
           <errorcount>5</errorcount>
-          <date>2026-01-09T17:53:34</date>
+          <date>2026-01-12T13:25:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -939,10 +939,10 @@
         <text>pozwalać, (partykuła podkreślająca jakieś słowo "bardzo", "na pewno", "certainly")</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T16:10:25</date>
+          <date>2026-01-12T13:09:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -955,10 +955,10 @@
         <text>różnić się</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>21</count>
+          <currentgrade>3</currentgrade>
+          <count>22</count>
           <errorcount>8</errorcount>
-          <date>2026-01-08T15:34:50</date>
+          <date>2026-01-12T13:15:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -971,10 +971,10 @@
         <text>smak</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>19</count>
+          <currentgrade>3</currentgrade>
+          <count>20</count>
           <errorcount>7</errorcount>
-          <date>2026-01-08T14:58:58</date>
+          <date>2026-01-12T13:14:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -987,10 +987,10 @@
         <text>zmieniać się</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>14</count>
+          <currentgrade>3</currentgrade>
+          <count>15</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:31:49</date>
+          <date>2026-01-12T13:26:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1003,10 +1003,10 @@
         <text>pchnąć, odmówić</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>15</count>
+          <currentgrade>3</currentgrade>
+          <count>16</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:58:19</date>
+          <date>2026-01-12T13:06:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1019,10 +1019,10 @@
         <text>zapłacić, wydać pieniądze</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:57:47</date>
+          <date>2026-01-12T13:06:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1051,10 +1051,10 @@
         <text>jednocześnie, łączyć (ang. merge)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>19</count>
+          <currentgrade>3</currentgrade>
+          <count>20</count>
           <errorcount>6</errorcount>
-          <date>2026-01-08T15:38:19</date>
+          <date>2026-01-12T13:25:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1067,10 +1067,10 @@
         <text>po prawdzie, naprawdę</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:48:26</date>
+          <date>2026-01-12T13:18:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1083,10 +1083,10 @@
         <text>uważać za, liczyć</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>16</count>
+          <currentgrade>3</currentgrade>
+          <count>17</count>
           <errorcount>4</errorcount>
-          <date>2026-01-08T15:32:48</date>
+          <date>2026-01-12T13:20:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1099,10 +1099,10 @@
         <text>drogi</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:36:01</date>
+          <date>2026-01-12T12:51:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1115,10 +1115,10 @@
         <text>ciągle, spłacić, zwrócić</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T15:01:00</date>
+          <date>2026-01-12T13:18:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1131,10 +1131,10 @@
         <text>ból, żal</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:49:05</date>
+          <date>2026-01-12T13:15:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1147,10 +1147,10 @@
         <text>mięso, niezdecydowany</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T16:06:44</date>
+          <date>2026-01-12T13:06:24</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1163,10 +1163,10 @@
         <text>nie tylko</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:46:02</date>
+          <date>2026-01-12T13:05:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1179,10 +1179,10 @@
         <text>światło, jasny, przyzwyczajony do, tylko</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:50:53</date>
+          <date>2026-01-12T13:14:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1211,10 +1211,10 @@
         <text>bogactwo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T16:02:28</date>
+          <date>2026-01-12T13:27:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1227,10 +1227,10 @@
         <text>zwracać coś komuś</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:01:23</date>
+          <date>2026-01-12T13:14:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1243,10 +1243,10 @@
         <text>przodek, poprzednie wcielenie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:26:15</date>
+          <date>2026-01-12T13:25:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1259,10 +1259,10 @@
         <text>zostawić (np. wiadomość), zostać, zachować</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>15</count>
+          <currentgrade>3</currentgrade>
+          <count>16</count>
           <errorcount>5</errorcount>
-          <date>2026-01-08T15:02:54</date>
+          <date>2026-01-12T13:16:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1275,10 +1275,10 @@
         <text>pędzel do pisania, (kwantyfikator dla "sum of money")</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T14:59:31</date>
+          <date>2026-01-12T13:07:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1291,10 +1291,10 @@
         <text>ogromna suma (pieniędzy)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>14</count>
+          <currentgrade>3</currentgrade>
+          <count>15</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T15:38:57</date>
+          <date>2026-01-12T13:28:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1307,10 +1307,10 @@
         <text>dług, zadłużenie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>15</count>
+          <currentgrade>3</currentgrade>
+          <count>16</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T16:11:01</date>
+          <date>2026-01-12T13:29:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1323,10 +1323,10 @@
         <text>czarodziej, mag</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T14:59:49</date>
+          <date>2026-01-12T13:08:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1339,10 +1339,10 @@
         <text>wydział, koledż (ang. college)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:54:09</date>
+          <date>2026-01-12T13:18:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1355,10 +1355,10 @@
         <text>biuro administracji uczelni/szkoły</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:58:11</date>
+          <date>2026-01-12T13:07:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1371,10 +1371,10 @@
         <text>pożyczka studencka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:57:26</date>
+          <date>2026-01-12T13:25:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1387,10 +1387,10 @@
         <text>łącznie (wartość pieniędzy)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>13</count>
+          <currentgrade>3</currentgrade>
+          <count>14</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T15:39:16</date>
+          <date>2026-01-12T13:05:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1402,11 +1402,11 @@
       <translation id="1">
         <text>osiągać</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>18</count>
-          <errorcount>5</errorcount>
-          <date>2026-01-08T15:59:35</date>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>24</count>
+          <errorcount>6</errorcount>
+          <date>2026-01-12T16:58:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1419,10 +1419,10 @@
         <text>Thor (bóg skandynawski)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:56:35</date>
+          <date>2026-01-12T13:19:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1434,11 +1434,11 @@
       <translation id="1">
         <text>oddzielić, znajdować się pomiędzy</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>21</count>
+          <count>24</count>
           <errorcount>6</errorcount>
-          <date>2026-01-09T19:17:33</date>
+          <date>2026-01-12T17:39:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1451,10 +1451,10 @@
         <text>szkło</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:30:57</date>
+          <date>2026-01-12T13:28:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1467,10 +1467,10 @@
         <text>szafka, kredens</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:59:03</date>
+          <date>2026-01-12T13:32:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1483,10 +1483,10 @@
         <text>spalony, przypalony, zwęglony, zaniepokojony</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:53:42</date>
+          <date>2026-01-12T13:20:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1498,11 +1498,11 @@
       <translation id="1">
         <text>marszczyć (np. brwi)</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>16</count>
-          <errorcount>4</errorcount>
-          <date>2026-01-08T15:57:18</date>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>23</count>
+          <errorcount>7</errorcount>
+          <date>2026-01-12T18:04:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1515,10 +1515,10 @@
         <text>brwi</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>15</count>
+          <currentgrade>3</currentgrade>
+          <count>16</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:48:07</date>
+          <date>2026-01-12T13:17:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1531,10 +1531,10 @@
         <text>wybredny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>20</count>
+          <currentgrade>2</currentgrade>
+          <count>21</count>
           <errorcount>6</errorcount>
-          <date>2026-01-10T09:46:37</date>
+          <date>2026-01-12T13:04:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1547,10 +1547,10 @@
         <text>mieć jakąś cechę w małym stopniu</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:37:30</date>
+          <date>2026-01-12T13:05:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1563,10 +1563,10 @@
         <text>nasiono, typ, kategoria, (kwantyfikator dla typów, kindów i sortów)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>18</count>
+          <currentgrade>3</currentgrade>
+          <count>19</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T15:33:06</date>
+          <date>2026-01-12T13:04:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1579,10 +1579,10 @@
         <text>ton głosu, akcent</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:49:01</date>
+          <date>2026-01-12T13:28:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1594,11 +1594,11 @@
       <translation id="1">
         <text>kontrola ciepła, mistrzostwo (w przenośni), krytyczny moment (w przenośni)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T19:25:36</date>
+          <count>13</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T17:39:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1611,10 +1611,10 @@
         <text>zbytnio</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>26</count>
+          <currentgrade>3</currentgrade>
+          <count>27</count>
           <errorcount>12</errorcount>
-          <date>2026-01-08T15:39:51</date>
+          <date>2026-01-12T13:20:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1627,10 +1627,10 @@
         <text>wystarczy! niech będzie! daj spokój</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>16</count>
+          <currentgrade>3</currentgrade>
+          <count>17</count>
           <errorcount>6</errorcount>
-          <date>2026-01-08T15:28:05</date>
+          <date>2026-01-12T13:27:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1642,11 +1642,11 @@
       <translation id="1">
         <text>obrócić (np. kotlet), przewrócić, przetłumaczyć</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>18</count>
+          <count>20</count>
           <errorcount>6</errorcount>
-          <date>2026-01-09T19:07:38</date>
+          <date>2026-01-12T16:58:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1658,11 +1658,11 @@
       <translation id="1">
         <text>spojrzeć wyniosłym wzrokiem, spojrzeć z niesmakiem</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>19</count>
+          <count>21</count>
           <errorcount>6</errorcount>
-          <date>2026-01-09T18:55:04</date>
+          <date>2026-01-12T16:59:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1674,11 +1674,11 @@
       <translation id="1">
         <text>przedmiot, element, (klasyfikator dla zdarzeń, rzeczy i ubrań)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>15</count>
+          <count>18</count>
           <errorcount>4</errorcount>
-          <date>2026-01-09T17:54:29</date>
+          <date>2026-01-12T18:05:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1707,10 +1707,10 @@
         <text>przesiąknięty</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:56:54</date>
+          <date>2026-01-12T13:19:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1722,11 +1722,11 @@
       <translation id="1">
         <text>cały (ang. all, entirely)</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>22</count>
+          <count>24</count>
           <errorcount>9</errorcount>
-          <date>2026-01-09T19:01:34</date>
+          <date>2026-01-12T16:59:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1739,10 +1739,10 @@
         <text>pośpiesznie, bez opóźnień</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:57:34</date>
+          <date>2026-01-12T13:25:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1755,10 +1755,10 @@
         <text>ciepłe</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T14:59:37</date>
+          <date>2026-01-12T12:51:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1787,10 +1787,10 @@
         <text>okropna pogoda</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:32:00</date>
+          <date>2026-01-12T13:08:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1802,11 +1802,11 @@
       <translation id="1">
         <text>włącznie z, łączyć, ciągle, nawet (w połączeniu z 都)</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>24</count>
+          <count>27</count>
           <errorcount>10</errorcount>
-          <date>2026-01-09T19:17:49</date>
+          <date>2026-01-12T17:41:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1818,11 +1818,11 @@
       <translation id="1">
         <text>chcieć, być gotowym</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>13</count>
-          <errorcount>4</errorcount>
-          <date>2026-01-08T15:03:15</date>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>16</count>
+          <errorcount>5</errorcount>
+          <date>2026-01-12T18:01:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1851,10 +1851,10 @@
         <text>koniec</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>13</count>
+          <currentgrade>3</currentgrade>
+          <count>14</count>
           <errorcount>4</errorcount>
-          <date>2026-01-08T15:28:37</date>
+          <date>2026-01-12T13:09:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1883,10 +1883,10 @@
         <text>fizjologiczny</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>17</count>
+          <currentgrade>3</currentgrade>
+          <count>18</count>
           <errorcount>7</errorcount>
-          <date>2026-01-09T17:54:53</date>
+          <date>2026-01-12T13:28:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1899,10 +1899,10 @@
         <text>instynkt</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>17</count>
+          <currentgrade>3</currentgrade>
+          <count>18</count>
           <errorcount>7</errorcount>
-          <date>2026-01-08T15:54:16</date>
+          <date>2026-01-12T12:51:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1914,11 +1914,11 @@
       <translation id="1">
         <text>okupować, kontrolować</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>19</count>
+          <count>21</count>
           <errorcount>6</errorcount>
-          <date>2026-01-09T18:57:36</date>
+          <date>2026-01-12T17:00:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1931,10 +1931,10 @@
         <text>wygładzić włosy mokrym grzebieniem, zamknąć (usta)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>20</count>
+          <currentgrade>3</currentgrade>
+          <count>21</count>
           <errorcount>10</errorcount>
-          <date>2026-01-08T15:38:31</date>
+          <date>2026-01-12T13:24:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1946,11 +1946,11 @@
       <translation id="1">
         <text>warga</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>23</count>
+          <count>26</count>
           <errorcount>11</errorcount>
-          <date>2026-01-09T19:33:25</date>
+          <date>2026-01-12T17:40:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1963,10 +1963,10 @@
         <text>klasnąć, klepnąć</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>14</count>
+          <currentgrade>3</currentgrade>
+          <count>15</count>
           <errorcount>4</errorcount>
-          <date>2026-01-09T17:58:38</date>
+          <date>2026-01-12T13:17:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1979,10 +1979,10 @@
         <text>"umowa stoi"</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>16</count>
+          <currentgrade>2</currentgrade>
+          <count>17</count>
           <errorcount>4</errorcount>
-          <date>2026-01-10T09:47:31</date>
+          <date>2026-01-12T12:51:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1995,10 +1995,10 @@
         <text>z (czegoś)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T14:59:01</date>
+          <date>2026-01-12T13:11:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2027,10 +2027,10 @@
         <text>wyczuć dłonią, namacać, ukraść</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>17</count>
+          <currentgrade>2</currentgrade>
+          <count>18</count>
           <errorcount>7</errorcount>
-          <date>2026-01-09T17:53:09</date>
+          <date>2026-01-12T13:05:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2043,10 +2043,10 @@
         <text>wyjść, wyprodukować, (po czasowniku implikuje do niego kierunek na zewnątrz)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:25:35</date>
+          <date>2026-01-12T13:09:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2058,11 +2058,11 @@
       <translation id="1">
         <text>(kwantyfikator dla małych obiektów, bardziej formalny)</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-08T15:29:32</date>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>18</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T17:03:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2075,10 +2075,10 @@
         <text>pas, wstążka, nosić</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:53:50</date>
+          <date>2026-01-12T13:32:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2107,10 +2107,10 @@
         <text>temperatura (ciała)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>21</count>
+          <currentgrade>3</currentgrade>
+          <count>22</count>
           <errorcount>11</errorcount>
-          <date>2026-01-08T15:45:39</date>
+          <date>2026-01-12T13:28:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2123,10 +2123,10 @@
         <text>równo, uporządkowanie (coś zrobić)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>14</count>
+          <currentgrade>3</currentgrade>
+          <count>15</count>
           <errorcount>5</errorcount>
-          <date>2026-01-08T15:38:42</date>
+          <date>2026-01-12T13:29:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2139,10 +2139,10 @@
         <text>linia, wiersz</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:00:23</date>
+          <date>2026-01-12T13:08:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2155,10 +2155,10 @@
         <text>pomóc (komuś), wesprzeć (kogoś)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:58:29</date>
+          <date>2026-01-12T13:25:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2171,10 +2171,10 @@
         <text>pakować, opakowywać, torba</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:25:55</date>
+          <date>2026-01-12T13:33:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2187,10 +2187,10 @@
         <text>wstawać, (po czasowniku oznacza początek lub kontynuację akcji), (po czasowniku implikuje kierunek w górę)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:34:21</date>
+          <date>2026-01-12T13:19:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2202,11 +2202,11 @@
       <translation id="1">
         <text>pamiętać (coś)</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>20</count>
+          <count>22</count>
           <errorcount>7</errorcount>
-          <date>2026-01-09T19:14:59</date>
+          <date>2026-01-12T16:59:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2219,10 +2219,10 @@
         <text>wyścielać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:31:38</date>
+          <date>2026-01-12T13:03:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2235,10 +2235,10 @@
         <text>otwierać/rozpościerać (np. mapę), (kwantyfikator dla płaskich obiektów, np. kartek papiru)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:26:10</date>
+          <date>2026-01-12T13:19:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2250,11 +2250,11 @@
       <translation id="1">
         <text>papier olejowy</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-08T15:35:32</date>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>16</count>
+          <errorcount>2</errorcount>
+          <date>2026-01-12T17:02:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2267,10 +2267,10 @@
         <text>brudzić</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>17</count>
+          <currentgrade>3</currentgrade>
+          <count>18</count>
           <errorcount>7</errorcount>
-          <date>2026-01-08T15:55:34</date>
+          <date>2026-01-12T13:28:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2282,11 +2282,11 @@
       <translation id="1">
         <text>otrzymać, nabyć</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>21</count>
+          <count>22</count>
           <errorcount>6</errorcount>
-          <date>2026-01-10T09:49:23</date>
+          <date>2026-01-12T13:32:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2315,10 +2315,10 @@
         <text>papierowa torba</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:56:49</date>
+          <date>2026-01-12T13:28:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2330,11 +2330,11 @@
       <translation id="1">
         <text>uczucie (np. w palcach), czuć, odczuwać</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>14</count>
+          <count>16</count>
           <errorcount>2</errorcount>
-          <date>2026-01-09T19:12:32</date>
+          <date>2026-01-12T17:00:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2346,11 +2346,11 @@
       <translation id="1">
         <text>udo, kawałek, (klasyfikator dla długich, wijących się, obiektów)</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-08T15:00:19</date>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>14</count>
+          <errorcount>2</errorcount>
+          <date>2026-01-12T18:03:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2363,10 +2363,10 @@
         <text>ciepło</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2026-01-08T15:39:02</date>
+          <date>2026-01-12T13:08:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2379,10 +2379,10 @@
         <text>podążać</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>19</count>
+          <currentgrade>3</currentgrade>
+          <count>20</count>
           <errorcount>9</errorcount>
-          <date>2026-01-08T15:28:56</date>
+          <date>2026-01-12T13:32:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2395,10 +2395,10 @@
         <text>opuszki palców, końcówki palców</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>13</count>
+          <currentgrade>3</currentgrade>
+          <count>14</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T15:36:13</date>
+          <date>2026-01-12T13:27:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2411,10 +2411,10 @@
         <text>w prostej linii</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2026-01-08T15:34:54</date>
+          <date>2026-01-12T13:34:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2427,10 +2427,10 @@
         <text>rozprzestrzeniać się, infekować</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>3</errorcount>
-          <date>2026-01-08T15:50:28</date>
+          <date>2026-01-12T13:09:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2443,10 +2443,10 @@
         <text>w końcu</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>25</count>
+          <currentgrade>3</currentgrade>
+          <count>26</count>
           <errorcount>15</errorcount>
-          <date>2026-01-08T15:59:50</date>
+          <date>2026-01-12T13:11:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2474,11 +2474,11 @@
       <translation id="1">
         <text>pilnie</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>11</count>
+          <count>14</count>
           <errorcount>5</errorcount>
-          <date>2026-01-09T19:21:22</date>
+          <date>2026-01-12T17:37:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2490,11 +2490,11 @@
       <translation id="1">
         <text>dach</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>3</errorcount>
-          <date>2026-01-10T09:48:14</date>
+          <date>2026-01-12T13:59:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2506,11 +2506,11 @@
       <translation id="1">
         <text>dosyć, raczej</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>15</count>
-          <errorcount>10</errorcount>
-          <date>2026-01-08T16:35:59</date>
+          <count>23</count>
+          <errorcount>14</errorcount>
+          <date>2026-01-12T18:05:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2522,11 +2522,11 @@
       <translation id="1">
         <text>skorzystać (z okazji)</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>12</count>
+          <count>14</count>
           <errorcount>4</errorcount>
-          <date>2026-01-09T19:16:17</date>
+          <date>2026-01-12T16:58:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2538,11 +2538,11 @@
       <translation id="1">
         <text>zwracać uwagę na</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>25</count>
+          <count>28</count>
           <errorcount>17</errorcount>
-          <date>2026-01-09T19:19:24</date>
+          <date>2026-01-12T17:38:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2554,11 +2554,11 @@
       <translation id="1">
         <text>bardzo szybko, błyskawicznie</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>10</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>11</count>
           <errorcount>3</errorcount>
-          <date>2026-01-10T09:46:55</date>
+          <date>2026-01-12T13:43:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2570,11 +2570,11 @@
       <translation id="1">
         <text>ziemia, grunt, (przed czasownikiem: cząstka zmieniająca czasownik w imiesłów np. "jedząc")</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2026-01-10T09:50:59</date>
+          <date>2026-01-12T13:59:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2586,11 +2586,11 @@
       <translation id="1">
         <text>ugryść</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>14</count>
+          <count>17</count>
           <errorcount>8</errorcount>
-          <date>2026-01-09T19:22:08</date>
+          <date>2026-01-12T17:39:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2603,10 +2603,10 @@
         <text>duży kęs, przełykać, szeroko otwarte usta (rozdziawione)</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-08T15:00:47</date>
+          <date>2026-01-12T15:24:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2618,11 +2618,11 @@
       <translation id="1">
         <text>tani (poniżej przeciętnej ceny rynkowej)</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>15</count>
+          <count>17</count>
           <errorcount>8</errorcount>
-          <date>2026-01-09T18:54:10</date>
+          <date>2026-01-12T17:00:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2634,11 +2634,11 @@
       <translation id="1">
         <text>tłuszcz, olej</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>8</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>9</count>
           <errorcount>1</errorcount>
-          <date>2026-01-10T09:50:35</date>
+          <date>2026-01-12T13:42:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2651,10 +2651,10 @@
         <text>końcówka języka</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-08T14:59:45</date>
+          <date>2026-01-12T15:01:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2666,11 +2666,11 @@
       <translation id="1">
         <text>rozpuszczać się</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>13</count>
           <errorcount>3</errorcount>
-          <date>2026-01-09T19:22:47</date>
+          <date>2026-01-12T17:38:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2682,11 +2682,11 @@
       <translation id="1">
         <text>tłusty, śliski, miękki (tekstura czegoś); intymny</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>13</count>
+          <count>15</count>
           <errorcount>5</errorcount>
-          <date>2026-01-09T19:07:06</date>
+          <date>2026-01-12T16:57:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2698,11 +2698,11 @@
       <translation id="1">
         <text>gorzki</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>13</count>
+          <count>15</count>
           <errorcount>5</errorcount>
-          <date>2026-01-09T19:06:58</date>
+          <date>2026-01-12T16:57:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2714,11 +2714,11 @@
       <translation id="1">
         <text>teraz, w tym momencie</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>10</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>11</count>
           <errorcount>3</errorcount>
-          <date>2026-01-10T09:49:42</date>
+          <date>2026-01-12T13:42:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2731,10 +2731,10 @@
         <text>w ustach</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-08T15:03:27</date>
+          <date>2026-01-12T15:29:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2746,11 +2746,11 @@
       <translation id="1">
         <text>dokładnie, nawet jeśli (rozważanie hipotetycznej sytuacji)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>23</count>
-          <errorcount>15</errorcount>
-          <date>2026-01-09T19:27:01</date>
+          <count>27</count>
+          <errorcount>16</errorcount>
+          <date>2026-01-12T18:07:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2762,11 +2762,11 @@
       <translation id="1">
         <text>świat</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>3</errorcount>
-          <date>2026-01-10T09:47:14</date>
+          <date>2026-01-12T13:32:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2778,11 +2778,11 @@
       <translation id="1">
         <text>wyjątkowo wysokiej jakości/umiejętności</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>11</count>
+          <count>14</count>
           <errorcount>5</errorcount>
-          <date>2026-01-09T19:26:41</date>
+          <date>2026-01-12T18:04:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2794,11 +2794,11 @@
       <translation id="1">
         <text>delikates (o jedzeniu)</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>13</count>
           <errorcount>4</errorcount>
-          <date>2026-01-09T19:23:37</date>
+          <date>2026-01-12T17:40:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2810,11 +2810,11 @@
       <translation id="1">
         <text>szybko</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>11</count>
+          <count>13</count>
           <errorcount>4</errorcount>
-          <date>2026-01-09T18:54:14</date>
+          <date>2026-01-12T16:59:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2826,11 +2826,11 @@
       <translation id="1">
         <text>(cząstka po czasowniku łącząca go z następującym opisem efektu, stopnia, możliwości)</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>11</count>
+          <count>13</count>
           <errorcount>3</errorcount>
-          <date>2026-01-09T19:00:04</date>
+          <date>2026-01-12T16:58:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2842,11 +2842,11 @@
       <translation id="1">
         <text>złapać (coś rzuconego), otrzymać</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>16</count>
+          <count>19</count>
           <errorcount>12</errorcount>
-          <date>2026-01-08T16:36:37</date>
+          <date>2026-01-12T17:38:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2858,11 +2858,11 @@
       <translation id="1">
         <text>pozostałości</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>18</count>
+          <count>20</count>
           <errorcount>10</errorcount>
-          <date>2026-01-09T19:01:40</date>
+          <date>2026-01-12T16:57:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2874,11 +2874,11 @@
       <translation id="1">
         <text>oczyścić</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>14</count>
           <errorcount>5</errorcount>
-          <date>2026-01-09T18:16:29</date>
+          <date>2026-01-12T17:03:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2890,11 +2890,11 @@
       <translation id="1">
         <text>obracać do góry nogami</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>3</errorcount>
-          <date>2026-01-10T09:51:04</date>
+          <date>2026-01-12T13:34:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2906,11 +2906,11 @@
       <translation id="1">
         <text>włożyć, postąpić (naprzód), zgłosić</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>15</count>
+          <count>18</count>
           <errorcount>9</errorcount>
-          <date>2026-01-09T19:19:34</date>
+          <date>2026-01-12T17:39:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2922,11 +2922,11 @@
       <translation id="1">
         <text>trzymać, (klasyfikator dla obiektów z rączkami)</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>13</count>
+          <count>16</count>
           <errorcount>7</errorcount>
-          <date>2026-01-09T19:18:10</date>
+          <date>2026-01-12T17:39:24</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2938,11 +2938,11 @@
       <translation id="1">
         <text>aż do (ang. until)</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>16</count>
+          <count>18</count>
           <errorcount>8</errorcount>
-          <date>2026-01-09T19:06:18</date>
+          <date>2026-01-12T16:59:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2954,11 +2954,11 @@
       <translation id="1">
         <text>połknąć</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>9</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>10</count>
           <errorcount>2</errorcount>
-          <date>2026-01-10T09:47:24</date>
+          <date>2026-01-12T13:32:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2970,11 +2970,11 @@
       <translation id="1">
         <text>kawałek (jedzenia), gryz</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>8</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>9</count>
           <errorcount>1</errorcount>
-          <date>2026-01-10T09:49:18</date>
+          <date>2026-01-12T13:32:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2986,11 +2986,11 @@
       <translation id="1">
         <text>umiejętność, talent, wtedy i tylko wtedy gdy</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>11</count>
+          <count>13</count>
           <errorcount>3</errorcount>
-          <date>2026-01-09T18:56:21</date>
+          <date>2026-01-12T16:59:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3002,11 +3002,11 @@
       <translation id="1">
         <text>chcieć kontynuować</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>12</count>
+          <count>14</count>
           <errorcount>4</errorcount>
-          <date>2026-01-09T19:08:18</date>
+          <date>2026-01-12T17:00:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3018,11 +3018,11 @@
       <translation id="1">
         <text>lizać</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>9</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>10</count>
           <errorcount>2</errorcount>
-          <date>2026-01-10T09:47:19</date>
+          <date>2026-01-12T13:32:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3034,11 +3034,11 @@
       <translation id="1">
         <text>kącik ust</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>13</count>
           <errorcount>4</errorcount>
-          <date>2026-01-09T18:17:46</date>
+          <date>2026-01-12T16:58:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3050,11 +3050,11 @@
       <translation id="1">
         <text>cząsteczki, fragmenty</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>8</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>9</count>
           <errorcount>1</errorcount>
-          <date>2026-01-10T09:47:04</date>
+          <date>2026-01-12T13:32:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3066,11 +3066,11 @@
       <translation id="1">
         <text>raz jeszcze</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>14</count>
+          <count>18</count>
           <errorcount>7</errorcount>
-          <date>2026-01-09T18:16:21</date>
+          <date>2026-01-12T17:03:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3082,11 +3082,11 @@
       <translation id="1">
         <text>w górze (np. coś trzymać)</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>15</count>
+          <count>17</count>
           <errorcount>8</errorcount>
-          <date>2026-01-09T18:59:04</date>
+          <date>2026-01-12T16:59:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3098,11 +3098,11 @@
       <translation id="1">
         <text>dosłownie: plecy i talia; w przenośni: wytrzymałość, odporność</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>12</count>
-          <errorcount>5</errorcount>
-          <date>2026-01-08T16:39:16</date>
+          <count>17</count>
+          <errorcount>7</errorcount>
+          <date>2026-01-12T18:03:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3114,11 +3114,11 @@
       <translation id="1">
         <text>złamać (patyk, kość), wygiąć, złożyć, obrócić do góry nogami, przecenić</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>12</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>13</count>
           <errorcount>5</errorcount>
-          <date>2026-01-10T09:49:01</date>
+          <date>2026-01-12T13:43:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3130,11 +3130,11 @@
       <translation id="1">
         <text>odłożyć, zatrzymać</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>17</count>
-          <errorcount>9</errorcount>
-          <date>2026-01-09T19:13:05</date>
+          <count>23</count>
+          <errorcount>10</errorcount>
+          <date>2026-01-12T17:00:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3146,11 +3146,11 @@
       <translation id="1">
         <text>następnie, po tym</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>12</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>13</count>
           <errorcount>5</errorcount>
-          <date>2026-01-10T09:50:42</date>
+          <date>2026-01-12T13:32:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3162,11 +3162,11 @@
       <translation id="1">
         <text>rozciągnąć, trzymać otwarte (np. torbę), otworzyć( parasol)</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>14</count>
+          <count>17</count>
           <errorcount>8</errorcount>
-          <date>2026-01-09T19:18:30</date>
+          <date>2026-01-12T17:40:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3178,11 +3178,11 @@
       <translation id="1">
         <text>ściana deszczu</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>9</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>10</count>
           <errorcount>2</errorcount>
-          <date>2026-01-10T09:47:36</date>
+          <date>2026-01-12T13:33:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3194,11 +3194,11 @@
       <translation id="1">
         <text>kolor nieba, pogoda</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2026-01-10T09:50:32</date>
+          <date>2026-01-12T13:32:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3210,11 +3210,11 @@
       <translation id="1">
         <text>dokładny, kompletny</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>14</count>
+          <count>17</count>
           <errorcount>8</errorcount>
-          <date>2026-01-09T19:18:36</date>
+          <date>2026-01-12T17:40:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3226,11 +3226,11 @@
       <translation id="1">
         <text>płynąć, krążyć (np. w obiegu zamkniętym)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>11</count>
+          <count>14</count>
           <errorcount>6</errorcount>
-          <date>2026-01-09T18:16:26</date>
+          <date>2026-01-12T17:41:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3243,10 +3243,10 @@
         <text>ulica</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-08T15:29:10</date>
+          <date>2026-01-12T15:34:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3258,11 +3258,11 @@
       <translation id="1">
         <text>rozkładać (np. towary), stoisko sprzedawcy, stragan</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>12</count>
           <errorcount>3</errorcount>
-          <date>2026-01-09T18:08:48</date>
+          <date>2026-01-12T17:58:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3274,11 +3274,11 @@
       <translation id="1">
         <text>uliczny sprzedawca</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>3</errorcount>
-          <date>2026-01-10T09:49:11</date>
+          <date>2026-01-12T13:34:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3290,11 +3290,11 @@
       <translation id="1">
         <text>sklep</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>8</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>9</count>
           <errorcount>1</errorcount>
-          <date>2026-01-10T09:46:51</date>
+          <date>2026-01-12T13:43:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3306,11 +3306,11 @@
       <translation id="1">
         <text>także</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>5</errorcount>
-          <date>2026-01-10T09:46:48</date>
+          <date>2026-01-12T14:00:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3322,11 +3322,11 @@
       <translation id="1">
         <text>po kolei, jeden po drugim</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>19</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>20</count>
           <errorcount>12</errorcount>
-          <date>2026-01-10T09:46:44</date>
+          <date>2026-01-12T13:32:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3338,11 +3338,11 @@
       <translation id="1">
         <text>zamykać (np. sklep, okno)</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>14</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>15</count>
           <errorcount>7</errorcount>
-          <date>2026-01-10T09:47:53</date>
+          <date>2026-01-12T13:42:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3354,11 +3354,11 @@
       <translation id="1">
         <text>podtrzymywać, przesuwać drągiem</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>3</errorcount>
-          <date>2026-01-10T09:50:48</date>
+          <date>2026-01-12T13:58:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3370,11 +3370,11 @@
       <translation id="1">
         <text>buty</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2026-01-10T09:48:36</date>
+          <date>2026-01-12T13:32:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3386,11 +3386,11 @@
       <translation id="1">
         <text>stanąć (na czymś), nadepnąć</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>4</errorcount>
-          <date>2026-01-10T09:49:08</date>
+          <date>2026-01-12T14:01:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3402,11 +3402,11 @@
       <translation id="1">
         <text>błoto</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>10</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>11</count>
           <errorcount>3</errorcount>
-          <date>2026-01-10T09:49:04</date>
+          <date>2026-01-12T13:31:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3419,10 +3419,10 @@
         <text>droga wyłożona kostką brukową lub płytami chodnikowymi</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-08T14:59:17</date>
+          <date>2026-01-12T15:04:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3434,11 +3434,11 @@
       <translation id="1">
         <text>podążać</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>16</count>
+          <count>18</count>
           <errorcount>8</errorcount>
-          <date>2026-01-09T19:07:46</date>
+          <date>2026-01-12T17:00:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3451,10 +3451,10 @@
         <text>umysł, mózg</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-08T14:58:52</date>
+          <date>2026-01-12T15:02:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3466,11 +3466,11 @@
       <translation id="1">
         <text>roztrzaskać na kawałki</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>12</count>
           <errorcount>3</errorcount>
-          <date>2026-01-09T18:09:37</date>
+          <date>2026-01-12T17:38:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3482,11 +3482,11 @@
       <translation id="1">
         <text>pamiętać, pamięć</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>10</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>11</count>
           <errorcount>3</errorcount>
-          <date>2026-01-10T09:50:29</date>
+          <date>2026-01-12T13:42:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3499,10 +3499,10 @@
         <text>kawałek, odrobinę</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2026-01-08T15:02:35</date>
+          <date>2026-01-12T15:24:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3514,11 +3514,11 @@
       <translation id="1">
         <text>dobrze zaznajomiony z</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>14</count>
+          <count>16</count>
           <errorcount>6</errorcount>
-          <date>2026-01-09T18:55:08</date>
+          <date>2026-01-12T16:59:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3530,11 +3530,11 @@
       <translation id="1">
         <text>przyjść, przybyć</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
-          <errorcount>5</errorcount>
-          <date>2026-01-09T19:15:10</date>
+          <count>15</count>
+          <errorcount>7</errorcount>
+          <date>2026-01-12T18:00:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3546,11 +3546,11 @@
       <translation id="1">
         <text>prefiks tworzący liczbę porządkową</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T19:05:50</date>
+          <date>2026-01-12T16:59:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3562,11 +3562,11 @@
       <translation id="1">
         <text>zdezorientowany, chaotyczny</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T19:15:45</date>
+          <date>2026-01-12T16:58:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3578,11 +3578,11 @@
       <translation id="1">
         <text>mieć gorączkę; (w przenośni) być zafascynowanym, rozgorączkowanym</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T19:17:25</date>
+          <date>2026-01-12T17:41:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3594,11 +3594,11 @@
       <translation id="1">
         <text>przetrwać, przejść przez (jakieś doświadczenie)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
-          <errorcount>6</errorcount>
-          <date>2026-01-09T19:03:44</date>
+          <count>16</count>
+          <errorcount>8</errorcount>
+          <date>2026-01-12T17:37:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3610,11 +3610,11 @@
       <translation id="1">
         <text>pierwszy raz</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2026-01-10T09:47:11</date>
+          <date>2026-01-12T18:01:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3626,11 +3626,11 @@
       <translation id="1">
         <text>sekwencja, porządek (matematyczny), kolejny w porządku</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T19:09:37</date>
+          <date>2026-01-12T16:58:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3642,11 +3642,11 @@
       <translation id="1">
         <text>trzeźwy, trzeźwo myślący</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
+          <count>8</count>
           <errorcount>2</errorcount>
-          <date>2026-01-09T19:02:49</date>
+          <date>2026-01-12T18:01:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3658,11 +3658,11 @@
       <translation id="1">
         <text>podnieść (np. głowę)</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>12</count>
           <errorcount>5</errorcount>
-          <date>2026-01-09T19:06:03</date>
+          <date>2026-01-12T17:39:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3674,11 +3674,11 @@
       <translation id="1">
         <text>głowa, wierzchołek, koniec, szef,</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T18:56:52</date>
+          <date>2026-01-12T16:58:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3690,11 +3690,11 @@
       <translation id="1">
         <text>spojrzenie</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T18:09:34</date>
+          <count>5</count>
+          <errorcount>2</errorcount>
+          <date>2026-01-12T18:07:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3706,11 +3706,11 @@
       <translation id="1">
         <text>przejść przez coś (np. ścianę deszczu)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>9</count>
           <errorcount>4</errorcount>
-          <date>2026-01-09T19:34:00</date>
+          <date>2026-01-12T17:01:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3722,11 +3722,11 @@
       <translation id="1">
         <text>warstwa po warstwie</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2026-01-09T19:25:45</date>
+          <date>2026-01-12T17:01:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3738,11 +3738,11 @@
       <translation id="1">
         <text>pełny księżyc, nadzieja, oczekiwanie, patrzeć (w kierunku)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T18:09:46</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:04:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3754,11 +3754,11 @@
       <translation id="1">
         <text>w kierunku, kierunek</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T18:08:28</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:03:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3770,11 +3770,11 @@
       <translation id="1">
         <text>miasto</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T17:52:54</date>
+          <date>2026-01-12T16:59:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3786,11 +3786,11 @@
       <translation id="1">
         <text>północna część</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T19:08:20</date>
+          <date>2026-01-12T17:01:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3803,10 +3803,10 @@
         <text>dzielnica/obszar miasta</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-09T18:17:44</date>
+          <date>2026-01-12T13:17:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3818,11 +3818,11 @@
       <translation id="1">
         <text>mimo że, nawet jeśli</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T19:04:51</date>
+          <count>12</count>
+          <errorcount>7</errorcount>
+          <date>2026-01-12T18:04:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3834,11 +3834,11 @@
       <translation id="1">
         <text>tam, tamto miejsce</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>4</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T19:14:34</date>
+          <date>2026-01-12T17:54:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3850,11 +3850,11 @@
       <translation id="1">
         <text>ciągle, jak wcześniej</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T17:59:33</date>
+          <count>10</count>
+          <errorcount>5</errorcount>
+          <date>2026-01-12T17:38:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3866,11 +3866,11 @@
       <translation id="1">
         <text>światła</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T18:08:20</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:05:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3882,11 +3882,11 @@
       <translation id="1">
         <text>okazały, cudowny, wspaniały</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
-          <errorcount>4</errorcount>
-          <date>2026-01-09T19:33:50</date>
+          <count>15</count>
+          <errorcount>9</errorcount>
+          <date>2026-01-12T18:07:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3898,11 +3898,11 @@
       <translation id="1">
         <text>ogromny, gigantyczny</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T18:04:31</date>
+          <date>2026-01-12T17:01:24</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3914,11 +3914,11 @@
       <translation id="1">
         <text>popioły</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T18:20:01</date>
+          <count>6</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:04:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3930,11 +3930,11 @@
       <translation id="1">
         <text>wieża</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T17:59:27</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:03:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3946,11 +3946,11 @@
       <translation id="1">
         <text>górować (nad)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T18:16:55</date>
+          <count>8</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T17:58:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3962,11 +3962,11 @@
       <translation id="1">
         <text>wysoko w chmurach, obliczenia w chmurze</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2026-01-09T18:16:52</date>
+          <date>2026-01-12T17:02:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3978,11 +3978,11 @@
       <translation id="1">
         <text>iglica</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T19:01:36</date>
+          <count>9</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T17:02:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3994,11 +3994,11 @@
       <translation id="1">
         <text>lśnić się, skrzyć się, mienić się</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
-          <errorcount>4</errorcount>
-          <date>2026-01-09T19:02:43</date>
+          <count>8</count>
+          <errorcount>5</errorcount>
+          <date>2026-01-12T18:01:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4010,11 +4010,11 @@
       <translation id="1">
         <text>nigdy</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T19:26:57</date>
+          <count>6</count>
+          <errorcount>2</errorcount>
+          <date>2026-01-12T18:06:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4026,11 +4026,11 @@
       <translation id="1">
         <text>gasnąć</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T17:59:50</date>
+          <date>2026-01-12T17:03:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4042,11 +4042,11 @@
       <translation id="1">
         <text>tajemniczy, niejasny</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T19:34:14</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:03:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4058,11 +4058,11 @@
       <translation id="1">
         <text>metoda, technika</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
-          <errorcount>7</errorcount>
-          <date>2026-01-09T18:20:08</date>
+          <count>12</count>
+          <errorcount>8</errorcount>
+          <date>2026-01-12T17:56:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4074,11 +4074,11 @@
       <translation id="1">
         <text>blask, chwała</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T19:03:40</date>
+          <count>9</count>
+          <errorcount>5</errorcount>
+          <date>2026-01-12T18:05:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4091,10 +4091,10 @@
         <text>w zasięgu</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-09T17:50:30</date>
+          <date>2026-01-12T13:34:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4106,11 +4106,11 @@
       <translation id="1">
         <text>dotykać</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T19:12:18</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:04:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4122,11 +4122,11 @@
       <translation id="1">
         <text>zasięg</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T18:19:15</date>
+          <date>2026-01-12T17:02:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4138,11 +4138,11 @@
       <translation id="1">
         <text>(przed czasownikiem zmienia czas na przeszły), (poprzednio w przeszłości, raz w przeszłości)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T19:25:43</date>
+          <count>10</count>
+          <errorcount>5</errorcount>
+          <date>2026-01-12T18:05:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4154,11 +4154,11 @@
       <translation id="1">
         <text>dzisiaj, obecnie</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T17:57:19</date>
+          <date>2026-01-12T17:37:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4170,11 +4170,11 @@
       <translation id="1">
         <text>jednakże, aczkolwiek</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
-          <errorcount>5</errorcount>
-          <date>2026-01-09T18:20:04</date>
+          <count>10</count>
+          <errorcount>6</errorcount>
+          <date>2026-01-12T18:01:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4187,10 +4187,10 @@
         <text>nieosiągalny, poza zasięgiem</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-09T19:11:00</date>
+          <date>2026-01-12T13:17:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4202,11 +4202,11 @@
       <translation id="1">
         <text>odległy (forma związana)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T19:10:19</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:07:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4219,10 +4219,10 @@
         <text>marzenie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-09T18:10:35</date>
+          <date>2026-01-12T13:20:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4234,11 +4234,11 @@
       <translation id="1">
         <text>(literacka cząstka określająca przynależność, odpowiednik 的)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T17:58:35</date>
+          <date>2026-01-12T17:01:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4250,11 +4250,11 @@
       <translation id="1">
         <text>(znak wyrażający westchnienie, ewentualnie potwierdzenie czegoś)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T17:59:42</date>
+          <count>6</count>
+          <errorcount>2</errorcount>
+          <date>2026-01-12T17:58:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4266,11 +4266,11 @@
       <translation id="1">
         <text>westchnąć</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T19:25:48</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T17:58:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4282,11 +4282,11 @@
       <translation id="1">
         <text>odzyskać, zabrać z powrotem, wycofać (zgodę) (ogółem: przywracanie do stanu początkowego)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T19:04:45</date>
+          <count>8</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T17:37:24</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4298,11 +4298,11 @@
       <translation id="1">
         <text>czubek głowy</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2026-01-09T19:21:03</date>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-12T16:57:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4314,11 +4314,11 @@
       <translation id="1">
         <text>chwycić, przejąć, kontrolować</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
-          <errorcount>4</errorcount>
-          <date>2026-01-09T19:16:13</date>
+          <count>12</count>
+          <errorcount>8</errorcount>
+          <date>2026-01-12T17:58:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4330,11 +4330,11 @@
       <translation id="1">
         <text>prawda</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T18:00:05</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T17:58:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4346,11 +4346,11 @@
       <translation id="1">
         <text>razem z, wziąć udział</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T19:22:15</date>
+          <count>7</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T18:01:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4362,11 +4362,11 @@
       <translation id="1">
         <text>władza, organ władzy</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T17:58:43</date>
+          <count>8</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T18:07:24</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4378,11 +4378,11 @@
       <translation id="1">
         <text>i (między zdaniami), (nienegujący kontrast z poprzednim zdaniem), (relacja przyczynowo-skutkowa, druga część jest skutkiem poprzedniej części zdania)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T18:20:00</date>
+          <count>9</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T17:58:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4394,11 +4394,11 @@
       <translation id="1">
         <text>pod stopą</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2026-01-09T19:12:12</date>
+          <date>2026-01-12T17:01:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4410,11 +4410,11 @@
       <translation id="1">
         <text>zatłoczony</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2026-01-09T18:16:15</date>
+          <date>2026-01-12T17:03:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4426,11 +4426,11 @@
       <translation id="1">
         <text>ulica, poddzielnica, dzielnica mieszkalna</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2026-01-09T18:08:07</date>
+          <date>2026-01-12T17:01:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4442,11 +4442,11 @@
       <translation id="1">
         <text>zmieniać, zastępować, więcej, dodatkowo</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
-          <errorcount>5</errorcount>
-          <date>2026-01-09T19:05:00</date>
+          <count>15</count>
+          <errorcount>10</errorcount>
+          <date>2026-01-12T17:40:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4459,10 +4459,10 @@
         <text>odległe miejsce</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-09T18:55:40</date>
+          <date>2026-01-12T13:26:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4474,11 +4474,11 @@
       <translation id="1">
         <text>daleki, odległy</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2026-01-09T19:05:54</date>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-12T17:01:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4490,11 +4490,11 @@
       <translation id="1">
         <text>(forma związana) miejsce/biuro/departament</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2026-01-09T19:03:27</date>
+          <date>2026-01-12T17:01:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4506,11 +4506,11 @@
       <translation id="1">
         <text>brudny</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>8</count>
           <errorcount>3</errorcount>
-          <date>2026-01-09T18:20:10</date>
+          <date>2026-01-12T17:01:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4522,11 +4522,11 @@
       <translation id="1">
         <text>slumsy</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>4</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T19:34:16</date>
+          <date>2026-01-12T18:03:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4538,11 +4538,11 @@
       <translation id="1">
         <text>odległe miejsce</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T18:08:34</date>
+          <count>6</count>
+          <errorcount>2</errorcount>
+          <date>2026-01-12T18:05:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4555,10 +4555,10 @@
         <text>"wietrzny instrument"</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-09T18:13:12</date>
+          <date>2026-01-12T13:15:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4571,10 +4571,10 @@
         <text>akordeon</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-09T19:06:22</date>
+          <date>2026-01-12T13:10:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4586,11 +4586,11 @@
       <translation id="1">
         <text>melodia</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T17:56:57</date>
+          <count>11</count>
+          <errorcount>7</errorcount>
+          <date>2026-01-12T18:03:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4602,11 +4602,11 @@
       <translation id="1">
         <text>rozchodzić się (o dźwięku)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T19:03:12</date>
+          <count>9</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T18:04:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4618,11 +4618,11 @@
       <translation id="1">
         <text>wędrować, nomadyczny</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T18:09:25</date>
+          <count>7</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T18:06:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4634,11 +4634,11 @@
       <translation id="1">
         <text>muzyk</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T17:57:24</date>
+          <count>7</count>
+          <errorcount>2</errorcount>
+          <date>2026-01-12T17:39:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4650,11 +4650,11 @@
       <translation id="1">
         <text>grać na instrumencie</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2026-01-09T18:17:12</date>
+          <date>2026-01-12T18:05:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4666,11 +4666,11 @@
       <translation id="1">
         <text>(przed czasownikiem oznacza akcję w trakcie)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T18:10:00</date>
+          <count>7</count>
+          <errorcount>2</errorcount>
+          <date>2026-01-12T18:04:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4682,11 +4682,11 @@
       <translation id="1">
         <text>coś cienkiego, płatek, arkusz (np. papieru), (klasyfikator dla cienkich rzeczy)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T17:57:11</date>
+          <count>8</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:06:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4698,11 +4698,11 @@
       <translation id="1">
         <text>nie tylko, nie ograniczony do</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2026-01-09T19:14:27</date>
+          <date>2026-01-12T17:02:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4714,11 +4714,11 @@
       <translation id="1">
         <text>kontynent</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T18:09:31</date>
+          <count>8</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T18:04:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4730,11 +4730,11 @@
       <translation id="1">
         <text>arystokrata</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T18:09:51</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:07:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4746,11 +4746,11 @@
       <translation id="1">
         <text>zwykli ludzie (w kontraście do wojskowych bądź arystokracji)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
-          <errorcount>4</errorcount>
-          <date>2026-01-09T19:03:37</date>
+          <count>10</count>
+          <errorcount>6</errorcount>
+          <date>2026-01-12T18:05:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4762,11 +4762,11 @@
       <translation id="1">
         <text>niezwykły, nadzwyczajny</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T18:19:53</date>
+          <count>13</count>
+          <errorcount>8</errorcount>
+          <date>2026-01-12T17:59:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4778,11 +4778,11 @@
       <translation id="1">
         <text>siła, moc</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>8</count>
           <errorcount>3</errorcount>
-          <date>2026-01-09T19:04:09</date>
+          <date>2026-01-12T17:01:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4794,11 +4794,11 @@
       <translation id="1">
         <text>otoczyć, trzymać w ramionach, chmara, rój</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T19:16:29</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:08:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4810,11 +4810,11 @@
       <translation id="1">
         <text>każdy, wszystko</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T19:02:30</date>
+          <count>9</count>
+          <errorcount>5</errorcount>
+          <date>2026-01-12T18:07:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4826,11 +4826,11 @@
       <translation id="1">
         <text>szczyt</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T19:32:44</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T18:07:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4842,11 +4842,11 @@
       <translation id="1">
         <text>podróżować w tą i z powrotem, kursować</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>11</count>
           <errorcount>6</errorcount>
-          <date>2026-01-09T19:33:55</date>
+          <date>2026-01-12T18:05:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4858,11 +4858,11 @@
       <translation id="1">
         <text>wymiar istnienia (ang. plane of existence)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T18:16:11</date>
+          <count>7</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T18:00:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4874,11 +4874,11 @@
       <translation id="1">
         <text>tworzyć, nawiązać (np. komunikację)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T19:15:21</date>
+          <count>7</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T18:08:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4891,10 +4891,10 @@
         <text>ciało</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-09T18:04:28</date>
+          <date>2026-01-12T13:29:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4906,11 +4906,11 @@
       <translation id="1">
         <text>poprzedni, oryginalny, pierwotny</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>8</count>
           <errorcount>3</errorcount>
-          <date>2026-01-09T19:02:25</date>
+          <date>2026-01-12T17:03:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4922,11 +4922,11 @@
       <translation id="1">
         <text>uczynki, potraktować coś jako coś, jako (ktoś zrobić coś)</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T19:16:45</date>
+          <count>9</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T17:38:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4938,11 +4938,11 @@
       <translation id="1">
         <text>szukać (informacji), pytać</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T18:00:01</date>
+          <count>8</count>
+          <errorcount>4</errorcount>
+          <date>2026-01-12T18:07:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4954,11 +4954,11 @@
       <translation id="1">
         <text>ostry, korzystny, zyskowny</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2026-01-09T19:14:54</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T17:55:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4970,11 +4970,11 @@
       <translation id="1">
         <text>drugi, podrzędny</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T17:58:41</date>
+          <date>2026-01-12T17:01:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4987,10 +4987,10 @@
         <text>księstwo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2026-01-09T19:18:55</date>
+          <date>2026-01-12T13:05:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5002,11 +5002,11 @@
       <translation id="1">
         <text>baron</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T19:10:14</date>
+          <date>2026-01-12T17:03:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5018,11 +5018,11 @@
       <translation id="1">
         <text>drugi syn</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2026-01-09T18:08:35</date>
+          <date>2026-01-12T16:57:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5034,11 +5034,11 @@
       <translation id="1">
         <text>początkowo</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
-          <errorcount>4</errorcount>
-          <date>2026-01-09T19:03:34</date>
+          <count>8</count>
+          <errorcount>5</errorcount>
+          <date>2026-01-12T18:07:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5050,11 +5050,11 @@
       <translation id="1">
         <text>mieć możliwość</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2026-01-09T18:10:03</date>
+          <count>8</count>
+          <errorcount>3</errorcount>
+          <date>2026-01-12T17:40:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5066,11 +5066,11 @@
       <translation id="1">
         <text>szczęśliwy, błogosławiony, (filozoficznie) spełniony</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>3</errorcount>
-          <date>2026-01-09T19:05:38</date>
+          <count>13</count>
+          <errorcount>9</errorcount>
+          <date>2026-01-12T18:07:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5082,11 +5082,91 @@
       <translation id="1">
         <text>życie, środki do życia</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>12</count>
+          <errorcount>7</errorcount>
+          <date>2026-01-12T18:01:08</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="317">
+      <translation id="0">
+        <text>仅</text>
+      </translation>
+      <translation id="1">
+        <text>ledwie, tylko</text>
+        <grade>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-12T17:01:08</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="318">
+      <translation id="0">
+        <text>级</text>
+      </translation>
+      <translation id="1">
+        <text>poziom (jak w grach komputerowych), ranga, ocena</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2026-01-12T13:04:02</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="319">
+      <translation id="0">
+        <text>脚</text>
+      </translation>
+      <translation id="1">
+        <text>stopa, noga (zwierząt i mebli)</text>
+        <grade>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-12T17:01:41</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="320">
+      <translation id="0">
+        <text>起</text>
+      </translation>
+      <translation id="1">
+        <text>wznosić, rozpoczynać</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
           <errorcount>3</errorcount>
-          <date>2026-01-09T18:09:55</date>
+          <date>2026-01-12T18:01:36</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="321">
+      <translation id="0">
+        <text>板</text>
+      </translation>
+      <translation id="1">
+        <text>deska, plansza, płyta (np. z metalu)</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2026-01-12T17:58:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5428,6 +5508,11 @@
         <entry id="314"/>
         <entry id="315"/>
         <entry id="316"/>
+        <entry id="317"/>
+        <entry id="318"/>
+        <entry id="319"/>
+        <entry id="320"/>
+        <entry id="321"/>
       </container>
     </container>
   </lessons>
