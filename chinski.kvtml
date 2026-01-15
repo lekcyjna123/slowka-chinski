@@ -5,7 +5,7 @@
     <generator>Parley 25.12.0</generator>
     <title>Chiński</title>
     <license>Domena publiczna</license>
-    <date>2026-01-12</date>
+    <date>2026-01-15</date>
     <category>Języki</category>
   </information>
   <identifiers>
@@ -2055,7 +2055,7 @@
         <pronunciation>rè</pronunciation>
       </translation>
       <translation id="1">
-        <text>rozgrzewać, podgrzewać</text>
+        <text>rozgrzewać, podgrzewać, gorący</text>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>4</currentgrade>
@@ -13616,6 +13616,581 @@
         </grade>
       </translation>
     </entry>
+    <entry id="544">
+      <translation id="0">
+        <text>天气</text>
+        <pronunciation>tiān​qì​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>pogoda</text>
+      </translation>
+    </entry>
+    <entry id="545">
+      <translation id="0">
+        <text>小姐</text>
+        <pronunciation>xiǎo​jie​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>młoda kobieta, Pani (forma grzecznościowa), prostytutka (w slangu)</text>
+      </translation>
+    </entry>
+    <entry id="546">
+      <translation id="0">
+        <text>怎么样</text>
+        <pronunciation>zěn​me​yàng​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>jak? (sposób, warunki, natura)</text>
+      </translation>
+    </entry>
+    <entry id="547">
+      <translation id="0">
+        <text>热 [2. zn.]</text>
+        <pronunciation>rè​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>gorąco (pogoda)</text>
+      </translation>
+    </entry>
+    <entry id="548">
+      <translation id="0">
+        <text>下 [cz.]</text>
+        <pronunciation>xià</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>spadać</text>
+      </translation>
+    </entry>
+    <entry id="549">
+      <translation id="0">
+        <text>来</text>
+        <pronunciation>lái</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>przyjść</text>
+      </translation>
+    </entry>
+    <entry id="550">
+      <translation id="0">
+        <text>些</text>
+        <pronunciation>xiē</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>trochę, niedużo</text>
+      </translation>
+    </entry>
+    <entry id="551">
+      <translation id="0">
+        <text>太</text>
+        <pronunciation>tài</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>zbyt (np. dużo, mało)</text>
+      </translation>
+    </entry>
+    <entry id="552">
+      <translation id="0">
+        <text>冷</text>
+        <pronunciation>lěnɡ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>zimno</text>
+      </translation>
+    </entry>
+    <entry id="553">
+      <translation id="0">
+        <text>雨</text>
+        <pronunciation>yǔ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>deszcz</text>
+      </translation>
+    </entry>
+    <entry id="554">
+      <translation id="0">
+        <text>身体</text>
+        <pronunciation>shēntǐ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ciało</text>
+      </translation>
+    </entry>
+    <entry id="555">
+      <translation id="0">
+        <text>波兰的天气</text>
+        <pronunciation>bōlán de tiānqì</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>pogoda w Polsce</text>
+      </translation>
+    </entry>
+    <entry id="556">
+      <translation id="0">
+        <text>天气很热</text>
+        <pronunciation>Tiānqì hěn rè</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>Jest bardzo gorąco (dosł. pogoda jest bardzo gorąca)</text>
+      </translation>
+    </entry>
+    <entry id="557">
+      <translation id="0">
+        <text>把</text>
+        <pronunciation>bǎ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>trzymać, (klasyfikator dla rzeczy z uchwytami)</text>
+      </translation>
+    </entry>
+    <entry id="558">
+      <translation id="0">
+        <text>下雪</text>
+        <pronunciation>xià​xuě​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>pada śnieg</text>
+      </translation>
+    </entry>
+    <entry id="559">
+      <translation id="0">
+        <text>雪</text>
+        <pronunciation>xuě​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>śnieg</text>
+      </translation>
+    </entry>
+    <entry id="560">
+      <translation id="0">
+        <text>先生</text>
+        <pronunciation>xiānsheng</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>Pan (forma uprzejma), dżentelmen (ang. Mr.)</text>
+      </translation>
+    </entry>
+    <entry id="561">
+      <translation id="0">
+        <text>来学校</text>
+        <pronunciation>lái xuéxiào</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>przyjść do szkoły</text>
+      </translation>
+    </entry>
+    <entry id="562">
+      <translation id="0">
+        <text>回来</text>
+        <pronunciation>huílái</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>przyjść z powrotem</text>
+      </translation>
+    </entry>
+    <entry id="563">
+      <translation id="0">
+        <text>回去</text>
+        <pronunciation>huíqù</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>iść z powrotem</text>
+      </translation>
+    </entry>
+    <entry id="564">
+      <translation id="0">
+        <text>你身体好吗</text>
+        <pronunciation>nǐ shēntǐ hǎo ma</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>Jak się czujesz? (dosł. "Jak się ma Twoje ciało?", pytanie o zdrowie)</text>
+      </translation>
+    </entry>
+    <entry id="565">
+      <translation id="0">
+        <text>祝你身体健康</text>
+        <pronunciation>zhù​ nǐ​ shēn​tǐ​ jiàn​kāng​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>Życzę Ci dużo zdrowia (dosł. "Życzę Ci zdrowego ciała")</text>
+      </translation>
+    </entry>
+    <entry id="566">
+      <translation id="0">
+        <text>万事</text>
+        <pronunciation>wàn​shì​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>wszystko</text>
+      </translation>
+    </entry>
+    <entry id="567">
+      <translation id="0">
+        <text>如意</text>
+        <pronunciation>rúyì</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>zgodnie z życzeniem</text>
+      </translation>
+    </entry>
+    <entry id="568">
+      <translation id="0">
+        <text>顺利</text>
+        <pronunciation>shùnlì</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>gładko, bez zakłóceń</text>
+      </translation>
+    </entry>
+    <entry id="569">
+      <translation id="0">
+        <text>好运</text>
+        <pronunciation>hǎoyùn</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>szczęście</text>
+      </translation>
+    </entry>
+    <entry id="570">
+      <translation id="0">
+        <text>这些</text>
+        <pronunciation>zhèxiē</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>te, ci (ang. these, liczb. mnog. this)</text>
+      </translation>
+    </entry>
+    <entry id="571">
+      <translation id="0">
+        <text>那些</text>
+        <pronunciation>nàxiē</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>tamte, tamci (ang. those)</text>
+      </translation>
+    </entry>
+    <entry id="572">
+      <translation id="0">
+        <text>哪些</text>
+        <pronunciation>nǎxiē</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>którzy? które? (liczba mnoga)</text>
+      </translation>
+    </entry>
+    <entry id="573">
+      <translation id="0">
+        <text>一些</text>
+        <pronunciation>yì xiē</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>kilka, parę</text>
+      </translation>
+    </entry>
+    <entry id="574">
+      <translation id="0">
+        <text>太......了</text>
+        <pronunciation>tài ... le</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>zbyt/zbytnio ... (konstrukcja gramantyczna w zdaniach bez negacji)</text>
+      </translation>
+    </entry>
+    <entry id="575">
+      <translation id="0">
+        <text>不爱吃饭</text>
+        <pronunciation>bú ài chīfàn</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>nie mieć apetytu (dosł. "nie kocham jeść")</text>
+      </translation>
+    </entry>
+    <entry id="576">
+      <translation id="0">
+        <text>最近</text>
+        <pronunciation>zuìjìn</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ostatnio</text>
+      </translation>
+    </entry>
+    <entry id="577">
+      <translation id="0">
+        <text>父母</text>
+        <pronunciation>fù​mǔ​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>rodzice</text>
+      </translation>
+    </entry>
+    <entry id="578">
+      <translation id="0">
+        <text>今天太热了</text>
+        <pronunciation>jīn​tiān​ tài​ rè le​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>Dzisiaj jest zbyt gorąco.</text>
+      </translation>
+    </entry>
+    <entry id="579">
+      <translation id="0">
+        <text>忙</text>
+        <pronunciation>máng​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>zajęty (robieniem czegoś)</text>
+      </translation>
+    </entry>
+    <entry id="580">
+      <translation id="0">
+        <text>高</text>
+        <pronunciation>gāo</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>wysoki</text>
+      </translation>
+    </entry>
+    <entry id="581">
+      <translation id="0">
+        <text>便宜</text>
+        <pronunciation>pián​yi​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>tani</text>
+      </translation>
+    </entry>
+    <entry id="582">
+      <translation id="0">
+        <text>简单</text>
+        <pronunciation>jiǎn​dān​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>łatwy</text>
+      </translation>
+    </entry>
+    <entry id="583">
+      <translation id="0">
+        <text>难</text>
+        <pronunciation>nán​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>trudny</text>
+      </translation>
+    </entry>
+    <entry id="584">
+      <translation id="0">
+        <text>贵</text>
+        <pronunciation>guì​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>drogi</text>
+      </translation>
+    </entry>
+    <entry id="585">
+      <translation id="0">
+        <text>远</text>
+        <pronunciation>yuǎn​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>daleki</text>
+      </translation>
+    </entry>
+    <entry id="586">
+      <translation id="0">
+        <text>近</text>
+        <pronunciation>jìn​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>bliski</text>
+      </translation>
+    </entry>
+    <entry id="587">
+      <translation id="0">
+        <text>矮</text>
+        <pronunciation>ǎi​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>niski</text>
+      </translation>
+    </entry>
+    <entry id="588">
+      <translation id="0">
+        <text>A 不 A</text>
+      </translation>
+      <translation id="1">
+        <text>(odpowiednik: A 吗)</text>
+      </translation>
+    </entry>
+    <entry id="589">
+      <translation id="0">
+        <text>晴天</text>
+        <pronunciation>qíngtiān</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>słoneczny dzień</text>
+      </translation>
+    </entry>
+    <entry id="590">
+      <translation id="0">
+        <text>多云</text>
+        <pronunciation>duōyún</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>pochmurnie</text>
+      </translation>
+    </entry>
+    <entry id="591">
+      <translation id="0">
+        <text>天气预报</text>
+        <pronunciation>tiān​qì​yù​bào​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>prognoza pogody</text>
+      </translation>
+    </entry>
+    <entry id="592">
+      <translation id="0">
+        <text>预报</text>
+        <pronunciation>yù​bào​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>prognoza</text>
+      </translation>
+    </entry>
+    <entry id="593">
+      <translation id="0">
+        <text>零下</text>
+        <pronunciation>líng​xià​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>poniżej zera (temperatura)</text>
+      </translation>
+    </entry>
+    <entry id="594">
+      <translation id="0">
+        <text>度</text>
+        <pronunciation>dù​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>mijać (czas), stopnie (temperatury, kąta), zakres</text>
+      </translation>
+    </entry>
+    <entry id="595">
+      <translation id="0">
+        <text>但是</text>
+        <pronunciation>dàn​shì​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ale</text>
+      </translation>
+    </entry>
+    <entry id="596">
+      <translation id="0">
+        <text>最高</text>
+        <pronunciation>zuì​gāo​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>najwyższy</text>
+      </translation>
+    </entry>
+    <entry id="597">
+      <translation id="0">
+        <text>最</text>
+        <pronunciation>zuì​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>(przed czasownikiem/przymiotnikiem tworzy stopień najwyższy)</text>
+      </translation>
+    </entry>
+    <entry id="598">
+      <translation id="0">
+        <text>可能</text>
+        <pronunciation>kě​néng​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>może (w sensie przypuszczenie)</text>
+      </translation>
+    </entry>
+    <entry id="599">
+      <translation id="0">
+        <text>冰淇淋</text>
+        <pronunciation>bīnɡjīlínɡ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>lody (takie do jedzenia)</text>
+      </translation>
+    </entry>
+    <entry id="600">
+      <translation id="0">
+        <text>清洁工</text>
+        <pronunciation>qīnɡjiéɡōnɡ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>sprzątacz/sprzątaczka</text>
+      </translation>
+    </entry>
+    <entry id="601">
+      <translation id="0">
+        <text>捉迷藏</text>
+        <pronunciation>zhuōmícánɡ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>zabawa w chowanego</text>
+      </translation>
+    </entry>
+    <entry id="602">
+      <translation id="0">
+        <text>高脚杯</text>
+        <pronunciation>ɡāojiǎobēi</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>puchar, kielich</text>
+      </translation>
+    </entry>
+    <entry id="603">
+      <translation id="0">
+        <text>雪人</text>
+        <pronunciation>xuě​rén​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>bałwan</text>
+      </translation>
+    </entry>
+    <entry id="604">
+      <translation id="0">
+        <text>机器人</text>
+        <pronunciation>jīqìrén</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>robot</text>
+      </translation>
+    </entry>
+    <entry id="605">
+      <translation id="0">
+        <text>弗罗茨瓦夫</text>
+        <pronunciation>Fú​luó​cí​wǎ​fū​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>Wrocław</text>
+      </translation>
+    </entry>
+    <entry id="606">
+      <translation id="0">
+        <text>华沙</text>
+        <pronunciation>Huá​shā​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>Warszawa</text>
+      </translation>
+    </entry>
+    <entry id="607">
+      <translation id="0">
+        <text>罗兹</text>
+        <pronunciation>Luōzī</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>Łódź</text>
+      </translation>
+    </entry>
   </entries>
   <lessons>
     <container>
@@ -14245,6 +14820,82 @@
       <entry id="541"/>
       <entry id="542"/>
       <entry id="543"/>
+    </container>
+    <container>
+      <name>Lekcja 12 - podstawowe</name>
+      <inpractice>true</inpractice>
+      <entry id="544"/>
+      <entry id="545"/>
+      <entry id="546"/>
+      <entry id="547"/>
+      <entry id="548"/>
+      <entry id="549"/>
+      <entry id="550"/>
+      <entry id="551"/>
+      <entry id="552"/>
+      <entry id="553"/>
+    </container>
+    <container>
+      <name>Lekcja 12 - dodatkowe</name>
+      <inpractice>true</inpractice>
+      <container>
+        <name>Miasta Polski</name>
+        <inpractice>true</inpractice>
+        <entry id="605"/>
+        <entry id="606"/>
+        <entry id="607"/>
+      </container>
+      <entry id="554"/>
+      <entry id="555"/>
+      <entry id="556"/>
+      <entry id="557"/>
+      <entry id="558"/>
+      <entry id="559"/>
+      <entry id="560"/>
+      <entry id="561"/>
+      <entry id="562"/>
+      <entry id="563"/>
+      <entry id="564"/>
+      <entry id="565"/>
+      <entry id="566"/>
+      <entry id="567"/>
+      <entry id="568"/>
+      <entry id="569"/>
+      <entry id="570"/>
+      <entry id="571"/>
+      <entry id="572"/>
+      <entry id="573"/>
+      <entry id="574"/>
+      <entry id="575"/>
+      <entry id="576"/>
+      <entry id="577"/>
+      <entry id="578"/>
+      <entry id="579"/>
+      <entry id="580"/>
+      <entry id="581"/>
+      <entry id="582"/>
+      <entry id="583"/>
+      <entry id="584"/>
+      <entry id="585"/>
+      <entry id="586"/>
+      <entry id="587"/>
+      <entry id="588"/>
+      <entry id="589"/>
+      <entry id="590"/>
+      <entry id="591"/>
+      <entry id="592"/>
+      <entry id="593"/>
+      <entry id="594"/>
+      <entry id="595"/>
+      <entry id="596"/>
+      <entry id="597"/>
+      <entry id="598"/>
+      <entry id="599"/>
+      <entry id="600"/>
+      <entry id="601"/>
+      <entry id="602"/>
+      <entry id="603"/>
+      <entry id="604"/>
     </container>
   </lessons>
   <wordtypes>
