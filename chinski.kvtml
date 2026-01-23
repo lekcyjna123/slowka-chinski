@@ -5,7 +5,7 @@
     <generator>Parley 25.12.0</generator>
     <title>Chiński</title>
     <license>Domena publiczna</license>
-    <date>2026-01-19</date>
+    <date>2026-01-23</date>
     <category>Języki</category>
   </information>
   <identifiers>
@@ -15215,6 +15215,357 @@
         </grade>
       </translation>
     </entry>
+    <entry id="608">
+      <translation id="0">
+        <text>打</text>
+        <pronunciation>dǎ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>(ang. to - związane z czasownikiem)</text>
+      </translation>
+    </entry>
+    <entry id="609">
+      <translation id="0">
+        <text>喂</text>
+        <pronunciation>wèi</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>cześć, hej</text>
+      </translation>
+    </entry>
+    <entry id="610">
+      <translation id="0">
+        <text>打电话</text>
+        <pronunciation>dǎ diànhuà</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>dzwonić (wykonywać połączenie)</text>
+      </translation>
+    </entry>
+    <entry id="611">
+      <translation id="0">
+        <text>给</text>
+        <pronunciation>ɡěi</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>do</text>
+      </translation>
+    </entry>
+    <entry id="612">
+      <translation id="0">
+        <text>也</text>
+        <pronunciation>yě</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>także</text>
+      </translation>
+    </entry>
+    <entry id="613">
+      <translation id="0">
+        <text>乐器</text>
+        <pronunciation>yuè​qì​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>instrument muzyczny</text>
+      </translation>
+    </entry>
+    <entry id="614">
+      <translation id="0">
+        <text>小提琴</text>
+        <pronunciation>xiǎo​tí​qín​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>skrzypce</text>
+      </translation>
+    </entry>
+    <entry id="615">
+      <translation id="0">
+        <text>手风琴</text>
+        <pronunciation>shǒu​fēng​qín​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>akordeon</text>
+      </translation>
+    </entry>
+    <entry id="616">
+      <translation id="0">
+        <text>琴</text>
+        <pronunciation>qín​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>guqin, instrument muzyczny w ogólności</text>
+      </translation>
+    </entry>
+    <entry id="617">
+      <translation id="0">
+        <text>开车</text>
+        <pronunciation>kāichē</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>prowadzić samochód</text>
+      </translation>
+    </entry>
+    <entry id="618">
+      <translation id="0">
+        <text>今晚</text>
+        <pronunciation>jīn​wǎn​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>dziś w nocy</text>
+      </translation>
+    </entry>
+    <entry id="619">
+      <translation id="0">
+        <text>刷牙</text>
+        <pronunciation>shuāyá</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>myć zęby</text>
+      </translation>
+    </entry>
+    <entry id="620">
+      <translation id="0">
+        <text>你给谁打电话？</text>
+        <pronunciation>Nǐ gěi shéi dǎ diànhuà</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>Do kogo dzwonisz?</text>
+      </translation>
+    </entry>
+    <entry id="621">
+      <translation id="0">
+        <text>接电话</text>
+        <pronunciation>jiē diànhuà</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>odebrać telefon</text>
+      </translation>
+    </entry>
+    <entry id="622">
+      <translation id="0">
+        <text>画画</text>
+        <pronunciation>huà​huà​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>malować (np. obraz)</text>
+      </translation>
+    </entry>
+    <entry id="623">
+      <translation id="0">
+        <text>遛狗</text>
+        <pronunciation>liù​gǒu​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>wyprowadzać psa na spacer</text>
+      </translation>
+    </entry>
+    <entry id="624">
+      <translation id="0">
+        <text>听音乐</text>
+        <pronunciation>tīng​ yīn​yuè​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>słuchać muzyki</text>
+      </translation>
+    </entry>
+    <entry id="625">
+      <translation id="0">
+        <text>踢足球</text>
+        <pronunciation>tī​ zú​qiú​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>grać w piłkę nożną</text>
+      </translation>
+    </entry>
+    <entry id="626">
+      <translation id="0">
+        <text>弹</text>
+        <pronunciation>tán​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>grań na strunowym instrumencie</text>
+      </translation>
+    </entry>
+    <entry id="627">
+      <translation id="0">
+        <text>瘫</text>
+        <pronunciation>tān​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>zparaliżowany</text>
+      </translation>
+    </entry>
+    <entry id="628">
+      <translation id="0">
+        <text>谈</text>
+        <pronunciation>tán​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>rozmawiać</text>
+      </translation>
+    </entry>
+    <entry id="629">
+      <translation id="0">
+        <text>钢琴</text>
+        <pronunciation>gāng​qín​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>pianiono</text>
+      </translation>
+    </entry>
+    <entry id="630">
+      <translation id="0">
+        <text>集邮</text>
+        <pronunciation>jí​yóu​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>zbierać znaczki</text>
+      </translation>
+    </entry>
+    <entry id="631">
+      <translation id="0">
+        <text>下棋</text>
+        <pronunciation>xià​qí​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>grać w szachy</text>
+      </translation>
+    </entry>
+    <entry id="632">
+      <translation id="0">
+        <text>卫生</text>
+        <pronunciation>wèi​shēng​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>higieniczny</text>
+      </translation>
+    </entry>
+    <entry id="633">
+      <translation id="0">
+        <text>打扫卫生</text>
+        <pronunciation>dǎsǎo wèishēng</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>sprzątać (np. mieszkanie)</text>
+      </translation>
+    </entry>
+    <entry id="634">
+      <translation id="0">
+        <text>白雪公主</text>
+        <pronunciation>báixuě gōngzhǔ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>królewna śnieżka</text>
+      </translation>
+    </entry>
+    <entry id="635">
+      <translation id="0">
+        <text>白</text>
+        <pronunciation>bái​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>biały</text>
+      </translation>
+    </entry>
+    <entry id="636">
+      <translation id="0">
+        <text>公主</text>
+        <pronunciation>gōng​zhǔ​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>księżniczka</text>
+      </translation>
+    </entry>
+    <entry id="637">
+      <translation id="0">
+        <text>维生素</text>
+        <pronunciation>wéishēnɡsù</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>witamina</text>
+      </translation>
+    </entry>
+    <entry id="638">
+      <translation id="0">
+        <text>研究生</text>
+        <pronunciation>yán​jiū​shēng​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>absolwent szkoły wyższej</text>
+      </translation>
+    </entry>
+    <entry id="639">
+      <translation id="0">
+        <text>银行家</text>
+        <pronunciation>yín​háng​jiā​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>bankier</text>
+      </translation>
+    </entry>
+    <entry id="640">
+      <translation id="0">
+        <text>游泳衣</text>
+        <pronunciation>yóu​yǒng​yī​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>kostium kąpielowy</text>
+      </translation>
+    </entry>
+    <entry id="641">
+      <translation id="0">
+        <text>游泳池</text>
+        <pronunciation>yóu​yǒng​chí​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>basen</text>
+      </translation>
+    </entry>
+    <entry id="642">
+      <translation id="0">
+        <text>游泳馆</text>
+        <pronunciation>yóu​yǒng​guǎn​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>basen kryty</text>
+      </translation>
+    </entry>
+    <entry id="643">
+      <translation id="0">
+        <text>牛仔裤</text>
+        <pronunciation>niú​zǎi​kù​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>dżins</text>
+      </translation>
+    </entry>
+    <entry id="644">
+      <translation id="0">
+        <text>狐</text>
+        <pronunciation>hú​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>lis</text>
+      </translation>
+    </entry>
+    <entry id="645">
+      <translation id="0">
+        <text>着</text>
+        <pronunciation>zhe​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>(po czasowniku oznacza czynność w trakcie, dłuższe niż 在)</text>
+      </translation>
+    </entry>
+    <entry id="646">
+      <translation id="0">
+        <text>有点儿</text>
+        <pronunciation>yǒu​diǎnr​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>trochę</text>
+      </translation>
+    </entry>
   </entries>
   <lessons>
     <container>
@@ -15920,6 +16271,53 @@
       <entry id="602"/>
       <entry id="603"/>
       <entry id="604"/>
+    </container>
+    <container>
+      <name>Lekcja 13 - podstawowe</name>
+      <inpractice>true</inpractice>
+      <entry id="608"/>
+      <entry id="609"/>
+      <entry id="610"/>
+      <entry id="611"/>
+      <entry id="612"/>
+    </container>
+    <container>
+      <name>Lekcja 13 - dodatkowe</name>
+      <inpractice>true</inpractice>
+      <entry id="613"/>
+      <entry id="614"/>
+      <entry id="615"/>
+      <entry id="616"/>
+      <entry id="617"/>
+      <entry id="618"/>
+      <entry id="619"/>
+      <entry id="620"/>
+      <entry id="621"/>
+      <entry id="622"/>
+      <entry id="623"/>
+      <entry id="624"/>
+      <entry id="625"/>
+      <entry id="626"/>
+      <entry id="627"/>
+      <entry id="628"/>
+      <entry id="629"/>
+      <entry id="630"/>
+      <entry id="631"/>
+      <entry id="632"/>
+      <entry id="633"/>
+      <entry id="634"/>
+      <entry id="635"/>
+      <entry id="636"/>
+      <entry id="637"/>
+      <entry id="638"/>
+      <entry id="639"/>
+      <entry id="640"/>
+      <entry id="641"/>
+      <entry id="642"/>
+      <entry id="643"/>
+      <entry id="644"/>
+      <entry id="645"/>
+      <entry id="646"/>
     </container>
   </lessons>
   <wordtypes>
