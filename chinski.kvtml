@@ -15566,6 +15566,411 @@
         <text>trochę</text>
       </translation>
     </entry>
+    <entry id="647">
+      <translation id="0">
+        <text>东西</text>
+        <pronunciation>dōnɡxi</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>rzecz</text>
+      </translation>
+    </entry>
+    <entry id="648">
+      <translation id="0">
+        <text>看见</text>
+        <pronunciation>kànjiàn</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>widzieć</text>
+      </translation>
+    </entry>
+    <entry id="649">
+      <translation id="0">
+        <text>分钟</text>
+        <pronunciation>fēnzhōng</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>minuta (dłuższa forma)</text>
+      </translation>
+    </entry>
+    <entry id="650">
+      <translation id="0">
+        <text>开</text>
+        <pronunciation>kāi</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>prowadzić, otwierać, włączać</text>
+      </translation>
+    </entry>
+    <entry id="651">
+      <translation id="0">
+        <text>不少</text>
+        <pronunciation>bùshǎo</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>całkiem sporo, dużo</text>
+      </translation>
+    </entry>
+    <entry id="652">
+      <translation id="0">
+        <text>都</text>
+        <pronunciation>dōu</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>oboje, wszyscy</text>
+      </translation>
+    </entry>
+    <entry id="653">
+      <translation id="0">
+        <text>东</text>
+        <pronunciation>dōnɡ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>wschód, gospodarz, właściciel ziemski</text>
+      </translation>
+    </entry>
+    <entry id="654">
+      <translation id="0">
+        <text>西</text>
+        <pronunciation>xī​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>zachód</text>
+      </translation>
+    </entry>
+    <entry id="655">
+      <translation id="0">
+        <text>开门</text>
+        <pronunciation>kāimén</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>otworzyć drzwi</text>
+      </translation>
+    </entry>
+    <entry id="656">
+      <translation id="0">
+        <text>坐车</text>
+        <pronunciation>zuòchē</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>samochodem, wziąć samochód</text>
+      </translation>
+    </entry>
+    <entry id="657">
+      <translation id="0">
+        <text>公共汽车</text>
+        <pronunciation>gōnggòng qìchē</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>autobus</text>
+      </translation>
+    </entry>
+    <entry id="658">
+      <translation id="0">
+        <text>火车</text>
+        <pronunciation>huǒchē</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>pociąg</text>
+      </translation>
+    </entry>
+    <entry id="659">
+      <translation id="0">
+        <text>穿衣服</text>
+        <pronunciation>chuān yī​fu​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>nosić ubrania</text>
+      </translation>
+    </entry>
+    <entry id="660">
+      <translation id="0">
+        <text>脱衣服</text>
+        <pronunciation>tuō​yī​fú​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>rozbierać się</text>
+      </translation>
+    </entry>
+    <entry id="661">
+      <translation id="0">
+        <text>短裤</text>
+        <pronunciation>duǎn​kù​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>krótkie spodenki</text>
+      </translation>
+    </entry>
+    <entry id="662">
+      <translation id="0">
+        <text>毛衣</text>
+        <pronunciation>máo​yī​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>sweter</text>
+      </translation>
+    </entry>
+    <entry id="663">
+      <translation id="0">
+        <text>拉链</text>
+        <pronunciation>lā​liàn​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>suwak (w ubraniach)</text>
+      </translation>
+    </entry>
+    <entry id="664">
+      <translation id="0">
+        <text>大衣</text>
+        <pronunciation>dà​yī​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>płaszcz</text>
+      </translation>
+    </entry>
+    <entry id="665">
+      <translation id="0">
+        <text>T恤</text>
+        <pronunciation>T xù​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>T-shirt</text>
+      </translation>
+    </entry>
+    <entry id="666">
+      <translation id="0">
+        <text>运动服</text>
+        <pronunciation>yùn​dòng​fú​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>dres</text>
+      </translation>
+    </entry>
+    <entry id="667">
+      <translation id="0">
+        <text>围巾</text>
+        <pronunciation>wéi​jīn​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>szalik</text>
+      </translation>
+    </entry>
+    <entry id="668">
+      <translation id="0">
+        <text>内衣</text>
+        <pronunciation>nèi​yī​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>bielizna</text>
+      </translation>
+    </entry>
+    <entry id="669">
+      <translation id="0">
+        <text>衬衫</text>
+        <pronunciation>chèn​shān​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>koszula</text>
+      </translation>
+    </entry>
+    <entry id="670">
+      <translation id="0">
+        <text>靴子</text>
+        <pronunciation>xuē​zi​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>kozaki</text>
+      </translation>
+    </entry>
+    <entry id="671">
+      <translation id="0">
+        <text>鞋子</text>
+        <pronunciation>xié​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>buty</text>
+      </translation>
+    </entry>
+    <entry id="672">
+      <translation id="0">
+        <text>袜子</text>
+        <pronunciation>wà​zi​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>skarpetki</text>
+      </translation>
+    </entry>
+    <entry id="673">
+      <translation id="0">
+        <text>裙子</text>
+        <pronunciation>qún​zi​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>sukienka</text>
+      </translation>
+    </entry>
+    <entry id="674">
+      <translation id="0">
+        <text>校服</text>
+        <pronunciation>xiào​fú​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>mundurek</text>
+      </translation>
+    </entry>
+    <entry id="675">
+      <translation id="0">
+        <text>皮带</text>
+        <pronunciation>pí​dài​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>pasek (taki do ubrań)</text>
+      </translation>
+    </entry>
+    <entry id="676">
+      <translation id="0">
+        <text>帽子</text>
+        <pronunciation>mào​zi​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>czapka</text>
+      </translation>
+    </entry>
+    <entry id="677">
+      <translation id="0">
+        <text>从不</text>
+        <pronunciation>cóng​bù​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>nigdy</text>
+      </translation>
+    </entry>
+    <entry id="678">
+      <translation id="0">
+        <text>啊</text>
+        <pronunciation>a</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>(cząstka kończąca zdanie oznaczająca potwierdzenie, zgodę)</text>
+      </translation>
+    </entry>
+    <entry id="679">
+      <translation id="0">
+        <text>还</text>
+        <pronunciation>hái​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>ciągle w trakcie (jakaś czynność)</text>
+      </translation>
+    </entry>
+    <entry id="680">
+      <translation id="0">
+        <text>三明治</text>
+        <pronunciation>sān​míng​zhì​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>kanapka</text>
+      </translation>
+    </entry>
+    <entry id="681">
+      <translation id="0">
+        <text>火锅</text>
+        <pronunciation>huǒ​guō​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>kociołek, potrawa w kociołku</text>
+      </translation>
+    </entry>
+    <entry id="682">
+      <translation id="0">
+        <text>饿</text>
+        <pronunciation>è​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>głodny</text>
+      </translation>
+    </entry>
+    <entry id="683">
+      <translation id="0">
+        <text>蔬菜</text>
+        <pronunciation>shū​cài​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>warzywa</text>
+      </translation>
+    </entry>
+    <entry id="684">
+      <translation id="0">
+        <text>洗衣机</text>
+        <pronunciation>xǐyījī</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>pralka</text>
+      </translation>
+    </entry>
+    <entry id="685">
+      <translation id="0">
+        <text>总经理</text>
+        <pronunciation>zǒngjīnglǐ</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>general manager / CEO</text>
+      </translation>
+    </entry>
+    <entry id="686">
+      <translation id="0">
+        <text>史学家</text>
+        <pronunciation>shǐ​xué​jiā​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>historyk</text>
+      </translation>
+    </entry>
+    <entry id="687">
+      <translation id="0">
+        <text>美容院</text>
+        <pronunciation>měi​róng​yuàn​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>salon piękności</text>
+      </translation>
+    </entry>
+    <entry id="688">
+      <translation id="0">
+        <text>演唱会</text>
+        <pronunciation>yǎn​chàng​huì​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>koncert lub reczital wokalny</text>
+      </translation>
+    </entry>
+    <entry id="689">
+      <translation id="0">
+        <text>音乐会</text>
+        <pronunciation>yīn​yuè​huì​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>koncert</text>
+      </translation>
+    </entry>
+    <entry id="690">
+      <translation id="0">
+        <text>抽烟</text>
+        <pronunciation>chōu​yān​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>palić (papierosy)</text>
+      </translation>
+    </entry>
+    <entry id="691">
+      <translation id="0">
+        <text>生病</text>
+        <pronunciation>shēng​bìng​</pronunciation>
+      </translation>
+      <translation id="1">
+        <text>rozchorować się</text>
+      </translation>
+    </entry>
   </entries>
   <lessons>
     <container>
@@ -16318,6 +16723,59 @@
       <entry id="644"/>
       <entry id="645"/>
       <entry id="646"/>
+    </container>
+    <container>
+      <name>Lekcja 14 - podstawowe</name>
+      <inpractice>true</inpractice>
+      <entry id="647"/>
+      <entry id="648"/>
+      <entry id="649"/>
+      <entry id="650"/>
+      <entry id="651"/>
+      <entry id="652"/>
+    </container>
+    <container>
+      <name>Lekcja 14 - dodatkowe</name>
+      <inpractice>true</inpractice>
+      <entry id="653"/>
+      <entry id="654"/>
+      <entry id="655"/>
+      <entry id="656"/>
+      <entry id="657"/>
+      <entry id="658"/>
+      <entry id="659"/>
+      <entry id="660"/>
+      <entry id="661"/>
+      <entry id="662"/>
+      <entry id="663"/>
+      <entry id="664"/>
+      <entry id="665"/>
+      <entry id="666"/>
+      <entry id="667"/>
+      <entry id="668"/>
+      <entry id="669"/>
+      <entry id="670"/>
+      <entry id="671"/>
+      <entry id="672"/>
+      <entry id="673"/>
+      <entry id="674"/>
+      <entry id="675"/>
+      <entry id="676"/>
+      <entry id="677"/>
+      <entry id="678"/>
+      <entry id="679"/>
+      <entry id="680"/>
+      <entry id="681"/>
+      <entry id="682"/>
+      <entry id="683"/>
+      <entry id="684"/>
+      <entry id="685"/>
+      <entry id="686"/>
+      <entry id="687"/>
+      <entry id="688"/>
+      <entry id="689"/>
+      <entry id="690"/>
+      <entry id="691"/>
     </container>
   </lessons>
   <wordtypes>
